@@ -1,20 +1,16 @@
-// src/App.jsx
 import { useEffect, useState } from "react";
 
 function App() {
-  const [message, setMessage] = useState("Loading...");
-
   useEffect(() => {
-    fetch("/.netlify/functions/getData")
-      .then((res) => res.json())
-      .then((data) => setMessage(data.message))
-      .catch(() => setMessage("Error fetching data"));
+    fetch('/.netlify/functions/getData')
+      .then(res => res.json())
+      .then(data => console.log("取得成功:", data))
+      .catch(err => console.error("取得失敗:", err));
   }, []);
 
   return (
     <div>
-      <h1>Message from Server:</h1>
-      <p>{message}</p>
+      <h1>Hello!!</h1>
     </div>
   );
 }
