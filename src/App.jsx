@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { convertData } from "./convertData";
 
 function App() {
   const [resultData, setResultData] = useState(null);
@@ -21,8 +22,8 @@ function App() {
       </div>
     );
   } else {
-    console.log(resultData)
-    console.log(standingData)
+    const new_data = convertData(resultData, standingData);
+    console.log(new_data);
     return (
       <div>
         <h1>Data Fetched!</h1>

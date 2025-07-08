@@ -1,6 +1,6 @@
 exports.handler = async function (event, context) {
   const session = process.env.REVEL_SESSION;
-  const contestName = 'ahc049';
+  const contestName = 'ahc048';
 
   const urls = [
     `https://atcoder.jp/contests/${contestName}/results/json`,
