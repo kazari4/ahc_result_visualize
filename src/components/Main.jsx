@@ -15,7 +15,7 @@ function Main() {
         setStandingData(data.standingsJson);
       })
       .catch(err => console.error("取得失敗:", err));
-  }, []);
+  }, [contestName]);
 
   if (resultData === null || standingData === null) {
     return (
@@ -25,7 +25,6 @@ function Main() {
     );
   } else {
     const new_data = convertData(resultData, standingData);
-    console.log(new_data);
     return (
       <div className="section">
         <h1>Data Fetched!</h1>
