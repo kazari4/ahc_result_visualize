@@ -11,7 +11,7 @@ function PlotXAxis({ scale, xRangeMax, yRangeMax }) {
           <g key={i}>
             <line x1={tickX} y1={tickY} x2={tickX} y2={tickY + tickHeight} stroke="black" />
             <text x={tickX} y={tickY + tickHeight} fontSize="14" textAnchor="middle" dominantBaseline="hanging">{tick}</text>
-            <line x1={tickX} y1={tickY} x2={tickX} y2="0" style={{ opacity: 0.2 }} stroke-dasharray="4" stroke="black" />
+            <line x1={tickX} y1={tickY} x2={tickX} y2="0" style={{ opacity: 0.2 }} strokeDasharray="4" stroke="black" />
           </g>
         )
       })}

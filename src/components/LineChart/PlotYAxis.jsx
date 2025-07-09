@@ -11,7 +11,7 @@ function PlotYAxis({ scale, xRangeMax, yRangeMax }) {
           <g key={i}>
             <line x1={tickX} y1={tickY} x2={tickX - tickHeight} y2={tickY} stroke="black" />
             <text x={tickX - tickHeight} y={tickY} fontSize="14" textAnchor="end" dominantBaseline="middle">{tick.toLocaleString()}</text>
-            <line x1={tickX} y1={tickY} x2={xRangeMax} y2={tickY} style={{ opacity: 0.2 }} stroke-dasharray="4" stroke="black" />
+            <line x1={tickX} y1={tickY} x2={xRangeMax} y2={tickY} style={{ opacity: 0.2 }} strokeDasharray="4" stroke="black" />
           </g>
         )
       })}
