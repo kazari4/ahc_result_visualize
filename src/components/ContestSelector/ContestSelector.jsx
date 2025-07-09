@@ -4,7 +4,7 @@ function ContestSelector({ selectedContest, onChange }) {
       <div className="select">
         <select value={selectedContest} onChange={e => onChange(e.target.value)}>
           {Array.from({ length: 50 }, (_, i) => {
-            const num = (i + 1).toString().padStart(3, '0');
+            const num = (50 - i).toString().padStart(3, '0');
             return (
               <option key={num} value={`ahc${num}`}>
                 AHC{num}
