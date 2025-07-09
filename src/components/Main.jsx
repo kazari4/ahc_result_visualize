@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { convertData } from "./convertData";
 import ContestSelector from "./ContestSelector/ContestSelector";
+import LineChart from "./LineChart/LineChart"
 
 function Main() {
   const [resultData, setResultData] = useState(null);
@@ -29,6 +30,7 @@ function Main() {
       <div className="section">
         <h1>Data Fetched!</h1>
         <ContestSelector selectedContest={contestName} onChange={setContestName} />
+        <LineChart data={convertedData} />
       </div>
     )
   }
