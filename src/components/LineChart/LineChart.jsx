@@ -1,11 +1,13 @@
-import PlotLine from "./PlotLine"
+import PlotLine from "./PlotLine";
+import PlotXAxis from "./PlotXAxis";
+import PlotYAxis from "./PlotYAxis";
 import { createScale } from "./createScale";
 
 function LineChart({ data }) {
-  const width = 700;
+  const width = 900;
   const height = 400;
 
-  const xRangeMax = width - 100;
+  const xRangeMax = width - 200;
   const yRangeMax = height - 100;
 
   const xRange = [0, xRangeMax]
@@ -16,8 +18,10 @@ function LineChart({ data }) {
 
   return (
     <svg width={width} height={height}>
-      <g transform="translate(50,20)">
+      <g transform="translate(150,20)">
         <PlotLine data={data} xScale={xScale} yScale={yScale} />
+        <PlotXAxis scale={xScale} xRangeMax={xRangeMax} yRangeMax={yRangeMax} />
+        <PlotYAxis scale={yScale} xRangeMax={xRangeMax} yRangeMax={yRangeMax} />
       </g>
     </svg>
   )
