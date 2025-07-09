@@ -24,7 +24,7 @@ function Main() {
       </div>
     );
   } else {
-    const new_data = convertData(resultData, standingData);
+    const convertedData = convertData(resultData, standingData);
     return (
       <div className="section">
         <h1>Data Fetched!</h1>
