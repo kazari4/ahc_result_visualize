@@ -15,7 +15,7 @@ function Main() {
       .catch(err => console.error("取得失敗:", err));
   }, []);
 
-  if (resultData === null) {
+  if (resultData === null || standingData === null) {
     return (
       <div>
         <h1>Loading...</h1>
