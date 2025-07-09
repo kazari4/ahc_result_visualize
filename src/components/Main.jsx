@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { convertData } from "./convertData";
+import ContestSelector from "./ContestSelector/ContestSelector";
 
 function Main() {
   const [resultData, setResultData] = useState(null);
@@ -28,6 +29,7 @@ function Main() {
     return (
       <div>
         <h1>Data Fetched!</h1>
+        <ContestSelector selectedContest={contestName} onChange={setContestName} />
       </div>
     )
   }
