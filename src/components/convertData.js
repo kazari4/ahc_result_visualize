@@ -13,13 +13,14 @@ export function convertData(resultsJson, standingsJson) {
       const taskResult = entry.TaskResults?.[targetTask];
       return taskResult?.Score > 0;
     })
-    .map(entry => {
+    .map((entry, i) => {
       const user = entry.UserScreenName;
       const taskResult = entry.TaskResults[targetTask];
 
       return {
         key: user,
         Rank: entry.Rank,
+        RankIndex: i + 1,
         UserScreenName: user,
         Score: taskResult.Score,
         SubmissionId: taskResult.SubmissionID,
