@@ -3,6 +3,7 @@ function PlotLine({ data, xScale, yScale, xRangeMax, yRangeMax, highlightUser })
   const circles = []
 
   const highlight = data.find(d => d.UserScreenName === highlightUser)
+  console.log(highlight)
 
   for (let i = 0; i < data.length - 1; i++) {
     const p1 = data[i]
@@ -36,6 +37,7 @@ function PlotLine({ data, xScale, yScale, xRangeMax, yRangeMax, highlightUser })
   if (highlight != null) {
     circles.push(
       <circle
+        key="circle-highlight"
         cx={xScale(highlight.Rank)}
         cy={yScale(highlight.Score)}
         r={3}
@@ -44,8 +46,9 @@ function PlotLine({ data, xScale, yScale, xRangeMax, yRangeMax, highlightUser })
     )
     lines.push(
       <line
+        key="line-highlight-horizontal"
         x1={0}
-        x2={xScale(highlight.Rank)}
+        x2={xScale(highlight.RankIndex)}
         y1={yScale(highlight.Score)}
         y2={yScale(highlight.Score)}
         stroke="red"
@@ -55,8 +58,9 @@ function PlotLine({ data, xScale, yScale, xRangeMax, yRangeMax, highlightUser })
     )
     lines.push(
       <line
-        x1={xScale(highlight.Rank)}
-        x2={xScale(highlight.Rank)}
+        key="line-highlight-vertical"
+        x1={xScale(highlight.RankIndex)}
+        x2={xScale(highlight.RankIndex)}
         y1={yScale(highlight.Score)}
         y2={yRangeMax}
         stroke="red"

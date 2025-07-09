@@ -1,14 +1,15 @@
 import { useEffect, useState } from "react";
 import { convertData } from "./convertData";
 import ContestSelector from "./ContestSelector/ContestSelector";
-import LineChart from "./LineChart/LineChart"
+import UserNameInput from "./UserNameInput/UserNameInput";
+import LineChart from "./LineChart/LineChart";
 
 function Main() {
   const [resultData, setResultData] = useState(null);
   const [standingData, setStandingData] = useState(null);
   const [contestName, setContestName] = useState("ahc050");
 
-  const [highlightUser, setHighlightUser] = useState("kazari4");
+  const [highlightUser, setHighlightUser] = useState(null);
 
   useEffect(() => {
     fetch(`/.netlify/functions/getData?contestName=${contestName}`)
@@ -32,6 +33,7 @@ function Main() {
       <div className="section">
         <h1>Choose Contest</h1>
         <ContestSelector selectedContest={contestName} onChange={setContestName} />
+        <UserNameInput onChange={setHighlightUser} />
         <LineChart data={convertedData} highlightUser={highlightUser} />
       </div>
     )
