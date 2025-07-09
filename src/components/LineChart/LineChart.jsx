@@ -1,6 +1,7 @@
 import PlotLine from "./PlotLine";
 import PlotXAxis from "./PlotXAxis";
 import PlotYAxis from "./PlotYAxis";
+import PlotPerfColor from "./PlotPerfColor";
 import { createScale } from "./createScale";
 
 function LineChart({ data }) {
@@ -19,6 +20,7 @@ function LineChart({ data }) {
   return (
     <svg width={width} height={height}>
       <g transform="translate(150,20)">
+        <PlotPerfColor data={data} yScale={yScale} xRangeMax={xRangeMax} yRangeMax={yRangeMax} />
         <PlotLine data={data} xScale={xScale} yScale={yScale} />
         <PlotXAxis scale={xScale} xRangeMax={xRangeMax} yRangeMax={yRangeMax} />
         <PlotYAxis scale={yScale} xRangeMax={xRangeMax} yRangeMax={yRangeMax} />
