@@ -28,7 +28,7 @@ function Main() {
     const convertedData = convertData(resultData, standingData);
     return (
       <div className="section">
-        <h1>Data Fetched!</h1>
+        <h1>Choose Contest</h1>
         <ContestSelector selectedContest={contestName} onChange={setContestName} />
         <LineChart data={convertedData} />
       </div>
