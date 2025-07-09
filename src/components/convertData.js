@@ -6,7 +6,6 @@ export function convertData(resultsJson, standingsJson) {
 
   // TaskScreenNameを取得
   const targetTask = standingsJson.TaskInfo[standingsJson.TaskInfo.length - 1].TaskScreenName
-  console.log(targetTask)
 
   // スコアが0より大きいユーザーのみを整形
   const formatted = standingsJson.StandingsData
