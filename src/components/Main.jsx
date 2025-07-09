@@ -4,9 +4,10 @@ import { convertData } from "./convertData";
 function Main() {
   const [resultData, setResultData] = useState(null);
   const [standingData, setStandingData] = useState(null);
+  const [contestName, setContestName] = useState("ahc050");
 
   useEffect(() => {
-    fetch('/.netlify/functions/getData')
+    fetch(`/.netlify/functions/getData?contestName=${contestName}`)
       .then(res => res.json())
       .then(data => {
         setResultData(data.resultsJson);
