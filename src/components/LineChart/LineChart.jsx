@@ -1,6 +1,9 @@
-function LineChart(data) {
-  const width = 1200;
-  const height = 600;
+import PlotLine from "./PlotLine"
+import { createScale } from "./createScale";
+
+function LineChart({ data }) {
+  const width = 700;
+  const height = 400;
 
   const xRangeMax = width - 100;
   const yRangeMax = height - 100;
@@ -13,7 +16,8 @@ function LineChart(data) {
 
   return (
     <svg width={width} height={height}>
-      <g transform="translate(50,15)">
+      <g transform="translate(50,20)">
+        <PlotLine data={data} xScale={xScale} yScale={yScale} />
       </g>
     </svg>
   )
