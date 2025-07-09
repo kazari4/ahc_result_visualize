@@ -27,7 +27,7 @@ function Main() {
     const new_data = convertData(resultData, standingData);
     console.log(new_data);
     return (
-      <div>
+      <div className="section">
         <h1>Data Fetched!</h1>
         <ContestSelector selectedContest={contestName} onChange={setContestName} />
       </div>
