@@ -8,6 +8,8 @@ function Main() {
   const [standingData, setStandingData] = useState(null);
   const [contestName, setContestName] = useState("ahc050");
 
+  const [highlightUser, setHighlightUser] = useState("kazari4");
+
   useEffect(() => {
     fetch(`/.netlify/functions/getData?contestName=${contestName}`)
       .then(res => res.json())
@@ -30,7 +32,7 @@ function Main() {
       <div className="section">
         <h1>Choose Contest</h1>
         <ContestSelector selectedContest={contestName} onChange={setContestName} />
-        <LineChart data={convertedData} />
+        <LineChart data={convertedData} highlightUser={highlightUser} />
       </div>
     )
   }
