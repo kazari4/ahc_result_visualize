@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { convertData } from "./convertData";
+import { createScale } from "./createScale";
 import ContestSelector from "./ContestSelector/ContestSelector";
 import UserNameInput from "./UserNameInput/UserNameInput";
 import LineChart from "./LineChart/LineChart";
@@ -34,7 +35,7 @@ function Main() {
         <h1>Choose Contest</h1>
         <ContestSelector selectedContest={contestName} onChange={setContestName} />
         <UserNameInput onChange={setHighlightUser} />
-        <LineChart data={convertedData} highlightUser={highlightUser} />
+        <LineChart data={convertedData} highlightUser={highlightUser} createScale={createScale} />
       </div>
     )
   }
