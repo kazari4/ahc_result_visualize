@@ -11,7 +11,7 @@ export function convertData(resultsJson, standingsJson) {
   const formatted = standingsJson.StandingsData
     .filter(entry => {
       const taskResult = entry.TaskResults?.[targetTask];
-      return taskResult?.Score > 0;
+      return taskResult?.Score >= 0 && entry.IsRated === true;
     })
     .map((entry, i) => {
       const user = entry.UserScreenName;
