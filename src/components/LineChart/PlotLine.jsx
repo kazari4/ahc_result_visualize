@@ -3,7 +3,6 @@ function PlotLine({ data, xScale, yScale, xRangeMax, yRangeMax, highlightUser })
   const circles = []
 
   const highlight = data.find(d => d.UserScreenName === highlightUser)
-  console.log(highlight)
 
   for (let i = 0; i < data.length - 1; i++) {
     const p1 = data[i]
