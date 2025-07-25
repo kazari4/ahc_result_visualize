@@ -4,9 +4,9 @@ function PlotDot({ data, createScale, highlightUser }) {
 
   const highlight = data.find(d => d.UserScreenName === highlightUser)
 
-  const yRangeMax = height;
+  const yRangeMax = height - 10;
 
-  const yRange = [yRangeMax, 0]
+  const yRange = [yRangeMax, 10]
 
   const yScale = createScale(data, "Score", yRange)
 
