@@ -1,0 +1,6392 @@
+[
+    {
+        "key": "Aquarius",
+        "Rank": 1,
+        "RankIndex": 1,
+        "UserScreenName": "Aquarius",
+        "Score": 9978161900,
+        "SubmissionId": 32961594,
+        "Performance": 3455
+    },
+    {
+        "key": "assy",
+        "Rank": 2,
+        "RankIndex": 2,
+        "UserScreenName": "assy",
+        "Score": 9953353300,
+        "SubmissionId": 32962096,
+        "Performance": 3202
+    },
+    {
+        "key": "potato167",
+        "Rank": 3,
+        "RankIndex": 3,
+        "UserScreenName": "potato167",
+        "Score": 9936479400,
+        "SubmissionId": 32962653,
+        "Performance": 3081
+    },
+    {
+        "key": "yokozuna57",
+        "Rank": 4,
+        "RankIndex": 4,
+        "UserScreenName": "yokozuna57",
+        "Score": 9909859000,
+        "SubmissionId": 32962977,
+        "Performance": 2998
+    },
+    {
+        "key": "Psyho",
+        "Rank": 5,
+        "RankIndex": 5,
+        "UserScreenName": "Psyho",
+        "Score": 9908075000,
+        "SubmissionId": 32963061,
+        "Performance": 2935
+    },
+    {
+        "key": "tomerun",
+        "Rank": 6,
+        "RankIndex": 6,
+        "UserScreenName": "tomerun",
+        "Score": 9893091700,
+        "SubmissionId": 32962537,
+        "Performance": 2884
+    },
+    {
+        "key": "Rafbill",
+        "Rank": 7,
+        "RankIndex": 7,
+        "UserScreenName": "Rafbill",
+        "Score": 9872522800,
+        "SubmissionId": 32962320,
+        "Performance": 2840
+    },
+    {
+        "key": "phocom",
+        "Rank": 8,
+        "RankIndex": 8,
+        "UserScreenName": "phocom",
+        "Score": 9866648100,
+        "SubmissionId": 32963107,
+        "Performance": 2801
+    },
+    {
+        "key": "Nyaan",
+        "Rank": 9,
+        "RankIndex": 9,
+        "UserScreenName": "Nyaan",
+        "Score": 9828598300,
+        "SubmissionId": 32962041,
+        "Performance": 2767
+    },
+    {
+        "key": "monnu",
+        "Rank": 10,
+        "RankIndex": 10,
+        "UserScreenName": "monnu",
+        "Score": 9826115500,
+        "SubmissionId": 32960451,
+        "Performance": 2736
+    },
+    {
+        "key": "terry_u16",
+        "Rank": 11,
+        "RankIndex": 11,
+        "UserScreenName": "terry_u16",
+        "Score": 9825483300,
+        "SubmissionId": 32963040,
+        "Performance": 2708
+    },
+    {
+        "key": "kusano",
+        "Rank": 12,
+        "RankIndex": 12,
+        "UserScreenName": "kusano",
+        "Score": 9792870400,
+        "SubmissionId": 32963021,
+        "Performance": 2682
+    },
+    {
+        "key": "heno239",
+        "Rank": 13,
+        "RankIndex": 13,
+        "UserScreenName": "heno239",
+        "Score": 9767056100,
+        "SubmissionId": 32963130,
+        "Performance": 2658
+    },
+    {
+        "key": "Yu_212",
+        "Rank": 14,
+        "RankIndex": 14,
+        "UserScreenName": "Yu_212",
+        "Score": 9734592100,
+        "SubmissionId": 32961992,
+        "Performance": 2635
+    },
+    {
+        "key": "Omotchi",
+        "Rank": 15,
+        "RankIndex": 15,
+        "UserScreenName": "Omotchi",
+        "Score": 9708642800,
+        "SubmissionId": 32962996,
+        "Performance": 2614
+    },
+    {
+        "key": "komori3",
+        "Rank": 16,
+        "RankIndex": 16,
+        "UserScreenName": "komori3",
+        "Score": 9706598200,
+        "SubmissionId": 32961925,
+        "Performance": 2594
+    },
+    {
+        "key": "iwashi31",
+        "Rank": 17,
+        "RankIndex": 17,
+        "UserScreenName": "iwashi31",
+        "Score": 9691185100,
+        "SubmissionId": 32962593,
+        "Performance": 2575
+    },
+    {
+        "key": "sumoooru",
+        "Rank": 18,
+        "RankIndex": 18,
+        "UserScreenName": "sumoooru",
+        "Score": 9684238000,
+        "SubmissionId": 32961996,
+        "Performance": 2556
+    },
+    {
+        "key": "Shun_PI",
+        "Rank": 19,
+        "RankIndex": 19,
+        "UserScreenName": "Shun_PI",
+        "Score": 9678753700,
+        "SubmissionId": 32962356,
+        "Performance": 2539
+    },
+    {
+        "key": "takumi152",
+        "Rank": 20,
+        "RankIndex": 20,
+        "UserScreenName": "takumi152",
+        "Score": 9658380400,
+        "SubmissionId": 32962388,
+        "Performance": 2523
+    },
+    {
+        "key": "shindannin",
+        "Rank": 21,
+        "RankIndex": 21,
+        "UserScreenName": "shindannin",
+        "Score": 9650146400,
+        "SubmissionId": 32962816,
+        "Performance": 2507
+    },
+    {
+        "key": "wanui",
+        "Rank": 22,
+        "RankIndex": 22,
+        "UserScreenName": "wanui",
+        "Score": 9650090300,
+        "SubmissionId": 32962997,
+        "Performance": 2492
+    },
+    {
+        "key": "ynasu",
+        "Rank": 23,
+        "RankIndex": 23,
+        "UserScreenName": "ynasu",
+        "Score": 9643397900,
+        "SubmissionId": 32961788,
+        "Performance": 2477
+    },
+    {
+        "key": "tute7627",
+        "Rank": 24,
+        "RankIndex": 24,
+        "UserScreenName": "tute7627",
+        "Score": 9632964300,
+        "SubmissionId": 32963070,
+        "Performance": 2463
+    },
+    {
+        "key": "WA_TLE",
+        "Rank": 25,
+        "RankIndex": 25,
+        "UserScreenName": "WA_TLE",
+        "Score": 9628108400,
+        "SubmissionId": 32961546,
+        "Performance": 2449
+    },
+    {
+        "key": "Dente",
+        "Rank": 26,
+        "RankIndex": 26,
+        "UserScreenName": "Dente",
+        "Score": 9590906300,
+        "SubmissionId": 32962382,
+        "Performance": 2436
+    },
+    {
+        "key": "nesya",
+        "Rank": 27,
+        "RankIndex": 27,
+        "UserScreenName": "nesya",
+        "Score": 9583515500,
+        "SubmissionId": 32961883,
+        "Performance": 2424
+    },
+    {
+        "key": "hitoare",
+        "Rank": 28,
+        "RankIndex": 28,
+        "UserScreenName": "hitoare",
+        "Score": 9572523300,
+        "SubmissionId": 32962659,
+        "Performance": 2411
+    },
+    {
+        "key": "chokudai",
+        "Rank": 29,
+        "RankIndex": 29,
+        "UserScreenName": "chokudai",
+        "Score": 9567937300,
+        "SubmissionId": 32962972,
+        "Performance": 2399
+    },
+    {
+        "key": "E869120",
+        "Rank": 30,
+        "RankIndex": 30,
+        "UserScreenName": "E869120",
+        "Score": 9558128900,
+        "SubmissionId": 32962726,
+        "Performance": 2388
+    },
+    {
+        "key": "cottoncotton",
+        "Rank": 31,
+        "RankIndex": 31,
+        "UserScreenName": "cottoncotton",
+        "Score": 9555583500,
+        "SubmissionId": 32960970,
+        "Performance": 2376
+    },
+    {
+        "key": "iaNTU",
+        "Rank": 32,
+        "RankIndex": 32,
+        "UserScreenName": "iaNTU",
+        "Score": 9543913800,
+        "SubmissionId": 32963096,
+        "Performance": 2365
+    },
+    {
+        "key": "yunix",
+        "Rank": 33,
+        "RankIndex": 33,
+        "UserScreenName": "yunix",
+        "Score": 9523901700,
+        "SubmissionId": 32962814,
+        "Performance": 2355
+    },
+    {
+        "key": "cuthbert",
+        "Rank": 34,
+        "RankIndex": 34,
+        "UserScreenName": "cuthbert",
+        "Score": 9522103300,
+        "SubmissionId": 32962218,
+        "Performance": 2344
+    },
+    {
+        "key": "cirno3153",
+        "Rank": 35,
+        "RankIndex": 35,
+        "UserScreenName": "cirno3153",
+        "Score": 9520394500,
+        "SubmissionId": 32963051,
+        "Performance": 2334
+    },
+    {
+        "key": "nahco314",
+        "Rank": 36,
+        "RankIndex": 36,
+        "UserScreenName": "nahco314",
+        "Score": 9513690300,
+        "SubmissionId": 32962336,
+        "Performance": 2324
+    },
+    {
+        "key": "Shibungi",
+        "Rank": 37,
+        "RankIndex": 37,
+        "UserScreenName": "Shibungi",
+        "Score": 9513333600,
+        "SubmissionId": 32962642,
+        "Performance": 2315
+    },
+    {
+        "key": "riantkb",
+        "Rank": 38,
+        "RankIndex": 38,
+        "UserScreenName": "riantkb",
+        "Score": 9511797500,
+        "SubmissionId": 32962249,
+        "Performance": 2305
+    },
+    {
+        "key": "fuppy0716",
+        "Rank": 39,
+        "RankIndex": 39,
+        "UserScreenName": "fuppy0716",
+        "Score": 9510860500,
+        "SubmissionId": 32961405,
+        "Performance": 2296
+    },
+    {
+        "key": "siman",
+        "Rank": 40,
+        "RankIndex": 40,
+        "UserScreenName": "siman",
+        "Score": 9507952600,
+        "SubmissionId": 32959742,
+        "Performance": 2287
+    },
+    {
+        "key": "shibh308",
+        "Rank": 41,
+        "RankIndex": 41,
+        "UserScreenName": "shibh308",
+        "Score": 9507221100,
+        "SubmissionId": 32962640,
+        "Performance": 2278
+    },
+    {
+        "key": "spica314",
+        "Rank": 42,
+        "RankIndex": 42,
+        "UserScreenName": "spica314",
+        "Score": 9501443400,
+        "SubmissionId": 32962697,
+        "Performance": 2269
+    },
+    {
+        "key": "mtsd",
+        "Rank": 43,
+        "RankIndex": 43,
+        "UserScreenName": "mtsd",
+        "Score": 9482210900,
+        "SubmissionId": 32962824,
+        "Performance": 2261
+    },
+    {
+        "key": "c7c7",
+        "Rank": 44,
+        "RankIndex": 44,
+        "UserScreenName": "c7c7",
+        "Score": 9476673400,
+        "SubmissionId": 32963069,
+        "Performance": 2252
+    },
+    {
+        "key": "tloinuy",
+        "Rank": 45,
+        "RankIndex": 45,
+        "UserScreenName": "tloinuy",
+        "Score": 9468167400,
+        "SubmissionId": 32962306,
+        "Performance": 2244
+    },
+    {
+        "key": "takytank",
+        "Rank": 46,
+        "RankIndex": 46,
+        "UserScreenName": "takytank",
+        "Score": 9443704200,
+        "SubmissionId": 32962893,
+        "Performance": 2236
+    },
+    {
+        "key": "rng",
+        "Rank": 47,
+        "RankIndex": 47,
+        "UserScreenName": "rng",
+        "Score": 9426016800,
+        "SubmissionId": 32962942,
+        "Performance": 2228
+    },
+    {
+        "key": "kens",
+        "Rank": 48,
+        "RankIndex": 48,
+        "UserScreenName": "kens",
+        "Score": 9419097300,
+        "SubmissionId": 32962312,
+        "Performance": 2220
+    },
+    {
+        "key": "dsytk7",
+        "Rank": 49,
+        "RankIndex": 49,
+        "UserScreenName": "dsytk7",
+        "Score": 9419011400,
+        "SubmissionId": 32962162,
+        "Performance": 2213
+    },
+    {
+        "key": "plcherrim",
+        "Rank": 50,
+        "RankIndex": 50,
+        "UserScreenName": "plcherrim",
+        "Score": 9413503500,
+        "SubmissionId": 32962007,
+        "Performance": 2205
+    },
+    {
+        "key": "highjump",
+        "Rank": 51,
+        "RankIndex": 51,
+        "UserScreenName": "highjump",
+        "Score": 9403583600,
+        "SubmissionId": 32962966,
+        "Performance": 2198
+    },
+    {
+        "key": "dn6049949",
+        "Rank": 52,
+        "RankIndex": 52,
+        "UserScreenName": "dn6049949",
+        "Score": 9393600300,
+        "SubmissionId": 32959801,
+        "Performance": 2191
+    },
+    {
+        "key": "ytkn",
+        "Rank": 53,
+        "RankIndex": 53,
+        "UserScreenName": "ytkn",
+        "Score": 9388998700,
+        "SubmissionId": 32959827,
+        "Performance": 2184
+    },
+    {
+        "key": "yochan",
+        "Rank": 54,
+        "RankIndex": 54,
+        "UserScreenName": "yochan",
+        "Score": 9384019300,
+        "SubmissionId": 32963075,
+        "Performance": 2177
+    },
+    {
+        "key": "m_99",
+        "Rank": 55,
+        "RankIndex": 55,
+        "UserScreenName": "m_99",
+        "Score": 9382957800,
+        "SubmissionId": 32960619,
+        "Performance": 2170
+    },
+    {
+        "key": "nok0",
+        "Rank": 56,
+        "RankIndex": 56,
+        "UserScreenName": "nok0",
+        "Score": 9382236100,
+        "SubmissionId": 32963031,
+        "Performance": 2163
+    },
+    {
+        "key": "rin204",
+        "Rank": 57,
+        "RankIndex": 57,
+        "UserScreenName": "rin204",
+        "Score": 9377580300,
+        "SubmissionId": 32961159,
+        "Performance": 2156
+    },
+    {
+        "key": "hiratai",
+        "Rank": 58,
+        "RankIndex": 58,
+        "UserScreenName": "hiratai",
+        "Score": 9368266400,
+        "SubmissionId": 32963077,
+        "Performance": 2150
+    },
+    {
+        "key": "sash",
+        "Rank": 59,
+        "RankIndex": 59,
+        "UserScreenName": "sash",
+        "Score": 9355251600,
+        "SubmissionId": 32962635,
+        "Performance": 2143
+    },
+    {
+        "key": "hiikunZ",
+        "Rank": 60,
+        "RankIndex": 60,
+        "UserScreenName": "hiikunZ",
+        "Score": 9348100600,
+        "SubmissionId": 32961972,
+        "Performance": 2137
+    },
+    {
+        "key": "ValGrowth",
+        "Rank": 61,
+        "RankIndex": 61,
+        "UserScreenName": "ValGrowth",
+        "Score": 9344619400,
+        "SubmissionId": 32959038,
+        "Performance": 2130
+    },
+    {
+        "key": "tokumini",
+        "Rank": 62,
+        "RankIndex": 62,
+        "UserScreenName": "tokumini",
+        "Score": 9336768100,
+        "SubmissionId": 32960678,
+        "Performance": 2124
+    },
+    {
+        "key": "EmK",
+        "Rank": 63,
+        "RankIndex": 63,
+        "UserScreenName": "EmK",
+        "Score": 9335810600,
+        "SubmissionId": 32963076,
+        "Performance": 2118
+    },
+    {
+        "key": "yuusanlondon",
+        "Rank": 64,
+        "RankIndex": 64,
+        "UserScreenName": "yuusanlondon",
+        "Score": 9329933900,
+        "SubmissionId": 32962101,
+        "Performance": 2112
+    },
+    {
+        "key": "kabipoyo",
+        "Rank": 65,
+        "RankIndex": 65,
+        "UserScreenName": "kabipoyo",
+        "Score": 9322438100,
+        "SubmissionId": 32962178,
+        "Performance": 2106
+    },
+    {
+        "key": "tishii24",
+        "Rank": 66,
+        "RankIndex": 66,
+        "UserScreenName": "tishii24",
+        "Score": 9318360000,
+        "SubmissionId": 32962289,
+        "Performance": 2100
+    },
+    {
+        "key": "hedwig",
+        "Rank": 67,
+        "RankIndex": 67,
+        "UserScreenName": "hedwig",
+        "Score": 9294789100,
+        "SubmissionId": 32962470,
+        "Performance": 2094
+    },
+    {
+        "key": "fky_",
+        "Rank": 68,
+        "RankIndex": 68,
+        "UserScreenName": "fky_",
+        "Score": 9287159200,
+        "SubmissionId": 32961703,
+        "Performance": 2088
+    },
+    {
+        "key": "tosca2020",
+        "Rank": 69,
+        "RankIndex": 69,
+        "UserScreenName": "tosca2020",
+        "Score": 9275967500,
+        "SubmissionId": 32962501,
+        "Performance": 2082
+    },
+    {
+        "key": "bowwowforeach",
+        "Rank": 70,
+        "RankIndex": 70,
+        "UserScreenName": "bowwowforeach",
+        "Score": 9271393800,
+        "SubmissionId": 32962531,
+        "Performance": 2077
+    },
+    {
+        "key": "y_kawano",
+        "Rank": 71,
+        "RankIndex": 71,
+        "UserScreenName": "y_kawano",
+        "Score": 9264337500,
+        "SubmissionId": 32962333,
+        "Performance": 2071
+    },
+    {
+        "key": "allegrogiken",
+        "Rank": 72,
+        "RankIndex": 72,
+        "UserScreenName": "allegrogiken",
+        "Score": 9263415800,
+        "SubmissionId": 32961848,
+        "Performance": 2066
+    },
+    {
+        "key": "aonama",
+        "Rank": 73,
+        "RankIndex": 73,
+        "UserScreenName": "aonama",
+        "Score": 9262928800,
+        "SubmissionId": 32962617,
+        "Performance": 2060
+    },
+    {
+        "key": "shun0923",
+        "Rank": 74,
+        "RankIndex": 74,
+        "UserScreenName": "shun0923",
+        "Score": 9262496900,
+        "SubmissionId": 32961425,
+        "Performance": 2055
+    },
+    {
+        "key": "neterukun",
+        "Rank": 75,
+        "RankIndex": 75,
+        "UserScreenName": "neterukun",
+        "Score": 9259462400,
+        "SubmissionId": 32963114,
+        "Performance": 2049
+    },
+    {
+        "key": "rs02",
+        "Rank": 76,
+        "RankIndex": 76,
+        "UserScreenName": "rs02",
+        "Score": 9255131800,
+        "SubmissionId": 32962778,
+        "Performance": 2044
+    },
+    {
+        "key": "notkamonohasi",
+        "Rank": 77,
+        "RankIndex": 77,
+        "UserScreenName": "notkamonohasi",
+        "Score": 9250572500,
+        "SubmissionId": 32962843,
+        "Performance": 2039
+    },
+    {
+        "key": "Forested",
+        "Rank": 78,
+        "RankIndex": 78,
+        "UserScreenName": "Forested",
+        "Score": 9236685700,
+        "SubmissionId": 32959474,
+        "Performance": 2034
+    },
+    {
+        "key": "noimi",
+        "Rank": 79,
+        "RankIndex": 79,
+        "UserScreenName": "noimi",
+        "Score": 9235134300,
+        "SubmissionId": 32962732,
+        "Performance": 2028
+    },
+    {
+        "key": "tamato",
+        "Rank": 80,
+        "RankIndex": 80,
+        "UserScreenName": "tamato",
+        "Score": 9229101400,
+        "SubmissionId": 32963121,
+        "Performance": 2023
+    },
+    {
+        "key": "itigo",
+        "Rank": 81,
+        "RankIndex": 81,
+        "UserScreenName": "itigo",
+        "Score": 9219738500,
+        "SubmissionId": 32962367,
+        "Performance": 2018
+    },
+    {
+        "key": "kakel_san",
+        "Rank": 82,
+        "RankIndex": 82,
+        "UserScreenName": "kakel_san",
+        "Score": 9201869900,
+        "SubmissionId": 32961648,
+        "Performance": 2013
+    },
+    {
+        "key": "C7BMkOO7Qbmcwck7",
+        "Rank": 83,
+        "RankIndex": 83,
+        "UserScreenName": "C7BMkOO7Qbmcwck7",
+        "Score": 9193308100,
+        "SubmissionId": 32962993,
+        "Performance": 2008
+    },
+    {
+        "key": "yowa",
+        "Rank": 84,
+        "RankIndex": 84,
+        "UserScreenName": "yowa",
+        "Score": 9193238800,
+        "SubmissionId": 32958075,
+        "Performance": 2003
+    },
+    {
+        "key": "threecourse",
+        "Rank": 85,
+        "RankIndex": 85,
+        "UserScreenName": "threecourse",
+        "Score": 9189558600,
+        "SubmissionId": 32960236,
+        "Performance": 1999
+    },
+    {
+        "key": "ssvb",
+        "Rank": 86,
+        "RankIndex": 86,
+        "UserScreenName": "ssvb",
+        "Score": 9186755600,
+        "SubmissionId": 32962686,
+        "Performance": 1994
+    },
+    {
+        "key": "Zaurus",
+        "Rank": 87,
+        "RankIndex": 87,
+        "UserScreenName": "Zaurus",
+        "Score": 9181062500,
+        "SubmissionId": 32961049,
+        "Performance": 1989
+    },
+    {
+        "key": "HBit",
+        "Rank": 88,
+        "RankIndex": 88,
+        "UserScreenName": "HBit",
+        "Score": 9170484900,
+        "SubmissionId": 32963082,
+        "Performance": 1984
+    },
+    {
+        "key": "hamamu",
+        "Rank": 89,
+        "RankIndex": 89,
+        "UserScreenName": "hamamu",
+        "Score": 9163763300,
+        "SubmissionId": 32963056,
+        "Performance": 1980
+    },
+    {
+        "key": "NKT",
+        "Rank": 90,
+        "RankIndex": 90,
+        "UserScreenName": "NKT",
+        "Score": 9153797700,
+        "SubmissionId": 32962870,
+        "Performance": 1975
+    },
+    {
+        "key": "reg7777",
+        "Rank": 91,
+        "RankIndex": 91,
+        "UserScreenName": "reg7777",
+        "Score": 9146919000,
+        "SubmissionId": 32961677,
+        "Performance": 1970
+    },
+    {
+        "key": "btk15049",
+        "Rank": 92,
+        "RankIndex": 92,
+        "UserScreenName": "btk15049",
+        "Score": 9142317900,
+        "SubmissionId": 32958515,
+        "Performance": 1966
+    },
+    {
+        "key": "soto800",
+        "Rank": 93,
+        "RankIndex": 93,
+        "UserScreenName": "soto800",
+        "Score": 9139248000,
+        "SubmissionId": 32957530,
+        "Performance": 1961
+    },
+    {
+        "key": "m_m",
+        "Rank": 94,
+        "RankIndex": 94,
+        "UserScreenName": "m_m",
+        "Score": 9135203500,
+        "SubmissionId": 32962092,
+        "Performance": 1957
+    },
+    {
+        "key": "toyuzuko",
+        "Rank": 95,
+        "RankIndex": 95,
+        "UserScreenName": "toyuzuko",
+        "Score": 9124809500,
+        "SubmissionId": 32963001,
+        "Performance": 1952
+    },
+    {
+        "key": "phyllo",
+        "Rank": 96,
+        "RankIndex": 96,
+        "UserScreenName": "phyllo",
+        "Score": 9124698200,
+        "SubmissionId": 32962603,
+        "Performance": 1948
+    },
+    {
+        "key": "ymatsux",
+        "Rank": 97,
+        "RankIndex": 97,
+        "UserScreenName": "ymatsux",
+        "Score": 9078739300,
+        "SubmissionId": 32959424,
+        "Performance": 1944
+    },
+    {
+        "key": "bin101",
+        "Rank": 98,
+        "RankIndex": 98,
+        "UserScreenName": "bin101",
+        "Score": 9076201200,
+        "SubmissionId": 32962832,
+        "Performance": 1939
+    },
+    {
+        "key": "tashikani",
+        "Rank": 99,
+        "RankIndex": 99,
+        "UserScreenName": "tashikani",
+        "Score": 9059967100,
+        "SubmissionId": 32962879,
+        "Performance": 1935
+    },
+    {
+        "key": "ks2m",
+        "Rank": 100,
+        "RankIndex": 100,
+        "UserScreenName": "ks2m",
+        "Score": 9042209800,
+        "SubmissionId": 32962040,
+        "Performance": 1931
+    },
+    {
+        "key": "hari64",
+        "Rank": 101,
+        "RankIndex": 101,
+        "UserScreenName": "hari64",
+        "Score": 9039947300,
+        "SubmissionId": 32962139,
+        "Performance": 1926
+    },
+    {
+        "key": "liqingyang",
+        "Rank": 102,
+        "RankIndex": 102,
+        "UserScreenName": "liqingyang",
+        "Score": 9029629100,
+        "SubmissionId": 32962895,
+        "Performance": 1922
+    },
+    {
+        "key": "jutama",
+        "Rank": 103,
+        "RankIndex": 103,
+        "UserScreenName": "jutama",
+        "Score": 9023400000,
+        "SubmissionId": 32957046,
+        "Performance": 1918
+    },
+    {
+        "key": "Kiri8128",
+        "Rank": 104,
+        "RankIndex": 104,
+        "UserScreenName": "Kiri8128",
+        "Score": 9010512800,
+        "SubmissionId": 32961867,
+        "Performance": 1914
+    },
+    {
+        "key": "yatabis",
+        "Rank": 105,
+        "RankIndex": 105,
+        "UserScreenName": "yatabis",
+        "Score": 9003708500,
+        "SubmissionId": 32962180,
+        "Performance": 1910
+    },
+    {
+        "key": "sensaur",
+        "Rank": 106,
+        "RankIndex": 106,
+        "UserScreenName": "sensaur",
+        "Score": 9002509600,
+        "SubmissionId": 32961542,
+        "Performance": 1906
+    },
+    {
+        "key": "miku",
+        "Rank": 107,
+        "RankIndex": 107,
+        "UserScreenName": "miku",
+        "Score": 8999249400,
+        "SubmissionId": 32961475,
+        "Performance": 1902
+    },
+    {
+        "key": "kozima",
+        "Rank": 108,
+        "RankIndex": 108,
+        "UserScreenName": "kozima",
+        "Score": 8994563700,
+        "SubmissionId": 32956636,
+        "Performance": 1898
+    },
+    {
+        "key": "taiga0629",
+        "Rank": 109,
+        "RankIndex": 109,
+        "UserScreenName": "taiga0629",
+        "Score": 8986046900,
+        "SubmissionId": 32962909,
+        "Performance": 1894
+    },
+    {
+        "key": "tsukammo",
+        "Rank": 110,
+        "RankIndex": 110,
+        "UserScreenName": "tsukammo",
+        "Score": 8983829400,
+        "SubmissionId": 32962941,
+        "Performance": 1890
+    },
+    {
+        "key": "platinum",
+        "Rank": 111,
+        "RankIndex": 111,
+        "UserScreenName": "platinum",
+        "Score": 8982335500,
+        "SubmissionId": 32963052,
+        "Performance": 1886
+    },
+    {
+        "key": "ganmodokix",
+        "Rank": 112,
+        "RankIndex": 112,
+        "UserScreenName": "ganmodokix",
+        "Score": 8973902700,
+        "SubmissionId": 32960568,
+        "Performance": 1882
+    },
+    {
+        "key": "zatt",
+        "Rank": 113,
+        "RankIndex": 113,
+        "UserScreenName": "zatt",
+        "Score": 8973055200,
+        "SubmissionId": 32962093,
+        "Performance": 1878
+    },
+    {
+        "key": "marroncastle917",
+        "Rank": 114,
+        "RankIndex": 114,
+        "UserScreenName": "marroncastle917",
+        "Score": 8968927800,
+        "SubmissionId": 32961758,
+        "Performance": 1874
+    },
+    {
+        "key": "to_omoT222",
+        "Rank": 115,
+        "RankIndex": 115,
+        "UserScreenName": "to_omoT222",
+        "Score": 8965472000,
+        "SubmissionId": 32962825,
+        "Performance": 1870
+    },
+    {
+        "key": "hbi1998",
+        "Rank": 116,
+        "RankIndex": 116,
+        "UserScreenName": "hbi1998",
+        "Score": 8963650000,
+        "SubmissionId": 32962303,
+        "Performance": 1866
+    },
+    {
+        "key": "hamuhei4869",
+        "Rank": 117,
+        "RankIndex": 117,
+        "UserScreenName": "hamuhei4869",
+        "Score": 8955583400,
+        "SubmissionId": 32962560,
+        "Performance": 1863
+    },
+    {
+        "key": "milkcoffee",
+        "Rank": 118,
+        "RankIndex": 118,
+        "UserScreenName": "milkcoffee",
+        "Score": 8950102500,
+        "SubmissionId": 32962269,
+        "Performance": 1859
+    },
+    {
+        "key": "OsamaAlkhodairy",
+        "Rank": 119,
+        "RankIndex": 119,
+        "UserScreenName": "OsamaAlkhodairy",
+        "Score": 8949904900,
+        "SubmissionId": 32962899,
+        "Performance": 1855
+    },
+    {
+        "key": "sasayu",
+        "Rank": 120,
+        "RankIndex": 120,
+        "UserScreenName": "sasayu",
+        "Score": 8944414500,
+        "SubmissionId": 32962524,
+        "Performance": 1851
+    },
+    {
+        "key": "tcltk",
+        "Rank": 121,
+        "RankIndex": 121,
+        "UserScreenName": "tcltk",
+        "Score": 8937171600,
+        "SubmissionId": 32962903,
+        "Performance": 1848
+    },
+    {
+        "key": "kawatea",
+        "Rank": 122,
+        "RankIndex": 122,
+        "UserScreenName": "kawatea",
+        "Score": 8928359800,
+        "SubmissionId": 32962292,
+        "Performance": 1844
+    },
+    {
+        "key": "nuts",
+        "Rank": 123,
+        "RankIndex": 123,
+        "UserScreenName": "nuts",
+        "Score": 8921034400,
+        "SubmissionId": 32962009,
+        "Performance": 1840
+    },
+    {
+        "key": "nakari_1124",
+        "Rank": 124,
+        "RankIndex": 124,
+        "UserScreenName": "nakari_1124",
+        "Score": 8917305100,
+        "SubmissionId": 32963112,
+        "Performance": 1837
+    },
+    {
+        "key": "nrvft",
+        "Rank": 125,
+        "RankIndex": 125,
+        "UserScreenName": "nrvft",
+        "Score": 8902574700,
+        "SubmissionId": 32963054,
+        "Performance": 1833
+    },
+    {
+        "key": "TakahiroNakamori",
+        "Rank": 126,
+        "RankIndex": 126,
+        "UserScreenName": "TakahiroNakamori",
+        "Score": 8899764600,
+        "SubmissionId": 32961459,
+        "Performance": 1830
+    },
+    {
+        "key": "Risen",
+        "Rank": 127,
+        "RankIndex": 127,
+        "UserScreenName": "Risen",
+        "Score": 8892004800,
+        "SubmissionId": 32962225,
+        "Performance": 1826
+    },
+    {
+        "key": "emthrm",
+        "Rank": 128,
+        "RankIndex": 128,
+        "UserScreenName": "emthrm",
+        "Score": 8885356500,
+        "SubmissionId": 32963003,
+        "Performance": 1822
+    },
+    {
+        "key": "theory_and_me",
+        "Rank": 129,
+        "RankIndex": 129,
+        "UserScreenName": "theory_and_me",
+        "Score": 8855815700,
+        "SubmissionId": 32960518,
+        "Performance": 1819
+    },
+    {
+        "key": "Grisha",
+        "Rank": 130,
+        "RankIndex": 130,
+        "UserScreenName": "Grisha",
+        "Score": 8854600300,
+        "SubmissionId": 32959966,
+        "Performance": 1815
+    },
+    {
+        "key": "Okay",
+        "Rank": 131,
+        "RankIndex": 131,
+        "UserScreenName": "Okay",
+        "Score": 8836988800,
+        "SubmissionId": 32962235,
+        "Performance": 1812
+    },
+    {
+        "key": "uminorosujin",
+        "Rank": 132,
+        "RankIndex": 132,
+        "UserScreenName": "uminorosujin",
+        "Score": 8830921000,
+        "SubmissionId": 32961359,
+        "Performance": 1808
+    },
+    {
+        "key": "roto_37",
+        "Rank": 133,
+        "RankIndex": 133,
+        "UserScreenName": "roto_37",
+        "Score": 8824969500,
+        "SubmissionId": 32961619,
+        "Performance": 1805
+    },
+    {
+        "key": "oliverchang",
+        "Rank": 134,
+        "RankIndex": 134,
+        "UserScreenName": "oliverchang",
+        "Score": 8818745100,
+        "SubmissionId": 32962590,
+        "Performance": 1802
+    },
+    {
+        "key": "toame",
+        "Rank": 135,
+        "RankIndex": 135,
+        "UserScreenName": "toame",
+        "Score": 8811950200,
+        "SubmissionId": 32960363,
+        "Performance": 1798
+    },
+    {
+        "key": "rhoo",
+        "Rank": 136,
+        "RankIndex": 136,
+        "UserScreenName": "rhoo",
+        "Score": 8810481400,
+        "SubmissionId": 32959581,
+        "Performance": 1795
+    },
+    {
+        "key": "hiromi_ayase",
+        "Rank": 137,
+        "RankIndex": 137,
+        "UserScreenName": "hiromi_ayase",
+        "Score": 8808859400,
+        "SubmissionId": 32962869,
+        "Performance": 1791
+    },
+    {
+        "key": "unidayo",
+        "Rank": 138,
+        "RankIndex": 138,
+        "UserScreenName": "unidayo",
+        "Score": 8805055300,
+        "SubmissionId": 32962844,
+        "Performance": 1788
+    },
+    {
+        "key": "kuzmichev_dima",
+        "Rank": 139,
+        "RankIndex": 139,
+        "UserScreenName": "kuzmichev_dima",
+        "Score": 8801657700,
+        "SubmissionId": 32960734,
+        "Performance": 1785
+    },
+    {
+        "key": "pachicobue",
+        "Rank": 140,
+        "RankIndex": 140,
+        "UserScreenName": "pachicobue",
+        "Score": 8791289900,
+        "SubmissionId": 32962955,
+        "Performance": 1781
+    },
+    {
+        "key": "hitonanode",
+        "Rank": 141,
+        "RankIndex": 141,
+        "UserScreenName": "hitonanode",
+        "Score": 8788374200,
+        "SubmissionId": 32955492,
+        "Performance": 1778
+    },
+    {
+        "key": "merom686",
+        "Rank": 142,
+        "RankIndex": 142,
+        "UserScreenName": "merom686",
+        "Score": 8787630000,
+        "SubmissionId": 32962539,
+        "Performance": 1775
+    },
+    {
+        "key": "bqn",
+        "Rank": 143,
+        "RankIndex": 143,
+        "UserScreenName": "bqn",
+        "Score": 8785760300,
+        "SubmissionId": 32962051,
+        "Performance": 1772
+    },
+    {
+        "key": "Aqua3k",
+        "Rank": 144,
+        "RankIndex": 144,
+        "UserScreenName": "Aqua3k",
+        "Score": 8774482400,
+        "SubmissionId": 32959192,
+        "Performance": 1768
+    },
+    {
+        "key": "ebicochineal",
+        "Rank": 145,
+        "RankIndex": 145,
+        "UserScreenName": "ebicochineal",
+        "Score": 8768088700,
+        "SubmissionId": 32960840,
+        "Performance": 1765
+    },
+    {
+        "key": "ccppjsrb",
+        "Rank": 146,
+        "RankIndex": 146,
+        "UserScreenName": "ccppjsrb",
+        "Score": 8767786900,
+        "SubmissionId": 32960957,
+        "Performance": 1762
+    },
+    {
+        "key": "umezo",
+        "Rank": 147,
+        "RankIndex": 147,
+        "UserScreenName": "umezo",
+        "Score": 8765744300,
+        "SubmissionId": 32962319,
+        "Performance": 1759
+    },
+    {
+        "key": "theanine",
+        "Rank": 148,
+        "RankIndex": 148,
+        "UserScreenName": "theanine",
+        "Score": 8755901700,
+        "SubmissionId": 32961512,
+        "Performance": 1755
+    },
+    {
+        "key": "Shiro_S",
+        "Rank": 149,
+        "RankIndex": 149,
+        "UserScreenName": "Shiro_S",
+        "Score": 8715583900,
+        "SubmissionId": 32962946,
+        "Performance": 1752
+    },
+    {
+        "key": "shama",
+        "Rank": 150,
+        "RankIndex": 150,
+        "UserScreenName": "shama",
+        "Score": 8711170500,
+        "SubmissionId": 32960648,
+        "Performance": 1749
+    },
+    {
+        "key": "YamagenSakam",
+        "Rank": 151,
+        "RankIndex": 151,
+        "UserScreenName": "YamagenSakam",
+        "Score": 8699331800,
+        "SubmissionId": 32963043,
+        "Performance": 1746
+    },
+    {
+        "key": "merhorn",
+        "Rank": 152,
+        "RankIndex": 152,
+        "UserScreenName": "merhorn",
+        "Score": 8685654600,
+        "SubmissionId": 32959585,
+        "Performance": 1743
+    },
+    {
+        "key": "shamio",
+        "Rank": 153,
+        "RankIndex": 153,
+        "UserScreenName": "shamio",
+        "Score": 8682529600,
+        "SubmissionId": 32962087,
+        "Performance": 1740
+    },
+    {
+        "key": "kotamanegi",
+        "Rank": 154,
+        "RankIndex": 154,
+        "UserScreenName": "kotamanegi",
+        "Score": 8671809200,
+        "SubmissionId": 32958016,
+        "Performance": 1737
+    },
+    {
+        "key": "Kazu1998k",
+        "Rank": 155,
+        "RankIndex": 155,
+        "UserScreenName": "Kazu1998k",
+        "Score": 8670433700,
+        "SubmissionId": 32962790,
+        "Performance": 1734
+    },
+    {
+        "key": "Hugewide",
+        "Rank": 156,
+        "RankIndex": 156,
+        "UserScreenName": "Hugewide",
+        "Score": 8668987900,
+        "SubmissionId": 32960693,
+        "Performance": 1730
+    },
+    {
+        "key": "miscalculation53",
+        "Rank": 157,
+        "RankIndex": 157,
+        "UserScreenName": "miscalculation53",
+        "Score": 8643381100,
+        "SubmissionId": 32956409,
+        "Performance": 1727
+    },
+    {
+        "key": "titia",
+        "Rank": 158,
+        "RankIndex": 158,
+        "UserScreenName": "titia",
+        "Score": 8622602000,
+        "SubmissionId": 32962435,
+        "Performance": 1724
+    },
+    {
+        "key": "arad",
+        "Rank": 159,
+        "RankIndex": 159,
+        "UserScreenName": "arad",
+        "Score": 8618544300,
+        "SubmissionId": 32955577,
+        "Performance": 1721
+    },
+    {
+        "key": "kanjino",
+        "Rank": 160,
+        "RankIndex": 160,
+        "UserScreenName": "kanjino",
+        "Score": 8611865100,
+        "SubmissionId": 32959222,
+        "Performance": 1718
+    },
+    {
+        "key": "petit_sophia",
+        "Rank": 161,
+        "RankIndex": 161,
+        "UserScreenName": "petit_sophia",
+        "Score": 8589612600,
+        "SubmissionId": 32962076,
+        "Performance": 1715
+    },
+    {
+        "key": "sca1l",
+        "Rank": 162,
+        "RankIndex": 162,
+        "UserScreenName": "sca1l",
+        "Score": 8565584100,
+        "SubmissionId": 32959657,
+        "Performance": 1712
+    },
+    {
+        "key": "riano_",
+        "Rank": 163,
+        "RankIndex": 163,
+        "UserScreenName": "riano_",
+        "Score": 8561942000,
+        "SubmissionId": 32962925,
+        "Performance": 1709
+    },
+    {
+        "key": "Schatzburg",
+        "Rank": 164,
+        "RankIndex": 164,
+        "UserScreenName": "Schatzburg",
+        "Score": 8550277100,
+        "SubmissionId": 32962851,
+        "Performance": 1706
+    },
+    {
+        "key": "physics0523",
+        "Rank": 165,
+        "RankIndex": 165,
+        "UserScreenName": "physics0523",
+        "Score": 8536429200,
+        "SubmissionId": 32963100,
+        "Performance": 1703
+    },
+    {
+        "key": "nope124",
+        "Rank": 166,
+        "RankIndex": 166,
+        "UserScreenName": "nope124",
+        "Score": 8515009200,
+        "SubmissionId": 32962687,
+        "Performance": 1700
+    },
+    {
+        "key": "mikam",
+        "Rank": 167,
+        "RankIndex": 167,
+        "UserScreenName": "mikam",
+        "Score": 8503011700,
+        "SubmissionId": 32961871,
+        "Performance": 1698
+    },
+    {
+        "key": "haruki_K",
+        "Rank": 168,
+        "RankIndex": 168,
+        "UserScreenName": "haruki_K",
+        "Score": 8495300100,
+        "SubmissionId": 32962984,
+        "Performance": 1695
+    },
+    {
+        "key": "jjjjjjjtgpptmjj",
+        "Rank": 169,
+        "RankIndex": 169,
+        "UserScreenName": "jjjjjjjtgpptmjj",
+        "Score": 8488999900,
+        "SubmissionId": 32962190,
+        "Performance": 1692
+    },
+    {
+        "key": "Ignotus",
+        "Rank": 170,
+        "RankIndex": 170,
+        "UserScreenName": "Ignotus",
+        "Score": 8471163500,
+        "SubmissionId": 32962811,
+        "Performance": 1689
+    },
+    {
+        "key": "m_buyoh",
+        "Rank": 171,
+        "RankIndex": 171,
+        "UserScreenName": "m_buyoh",
+        "Score": 8462714200,
+        "SubmissionId": 32962497,
+        "Performance": 1686
+    },
+    {
+        "key": "tkg06269476",
+        "Rank": 172,
+        "RankIndex": 172,
+        "UserScreenName": "tkg06269476",
+        "Score": 8457828300,
+        "SubmissionId": 32961315,
+        "Performance": 1683
+    },
+    {
+        "key": "Kyo_s_s",
+        "Rank": 173,
+        "RankIndex": 173,
+        "UserScreenName": "Kyo_s_s",
+        "Score": 8452864900,
+        "SubmissionId": 32962508,
+        "Performance": 1680
+    },
+    {
+        "key": "longrun",
+        "Rank": 174,
+        "RankIndex": 174,
+        "UserScreenName": "longrun",
+        "Score": 8440303600,
+        "SubmissionId": 32962657,
+        "Performance": 1677
+    },
+    {
+        "key": "primenumber",
+        "Rank": 175,
+        "RankIndex": 175,
+        "UserScreenName": "primenumber",
+        "Score": 8439242400,
+        "SubmissionId": 32962834,
+        "Performance": 1675
+    },
+    {
+        "key": "baku1101",
+        "Rank": 176,
+        "RankIndex": 176,
+        "UserScreenName": "baku1101",
+        "Score": 8435243200,
+        "SubmissionId": 32962311,
+        "Performance": 1672
+    },
+    {
+        "key": "abb",
+        "Rank": 177,
+        "RankIndex": 177,
+        "UserScreenName": "abb",
+        "Score": 8426066400,
+        "SubmissionId": 32963111,
+        "Performance": 1669
+    },
+    {
+        "key": "Shirotsume",
+        "Rank": 178,
+        "RankIndex": 178,
+        "UserScreenName": "Shirotsume",
+        "Score": 8405618200,
+        "SubmissionId": 32962968,
+        "Performance": 1666
+    },
+    {
+        "key": "totori0908",
+        "Rank": 179,
+        "RankIndex": 179,
+        "UserScreenName": "totori0908",
+        "Score": 8399706400,
+        "SubmissionId": 32961586,
+        "Performance": 1663
+    },
+    {
+        "key": "AngrySadEight",
+        "Rank": 180,
+        "RankIndex": 180,
+        "UserScreenName": "AngrySadEight",
+        "Score": 8393468100,
+        "SubmissionId": 32962949,
+        "Performance": 1661
+    },
+    {
+        "key": "kys",
+        "Rank": 181,
+        "RankIndex": 181,
+        "UserScreenName": "kys",
+        "Score": 8384441200,
+        "SubmissionId": 32962550,
+        "Performance": 1658
+    },
+    {
+        "key": "ringo9971",
+        "Rank": 182,
+        "RankIndex": 182,
+        "UserScreenName": "ringo9971",
+        "Score": 8380472000,
+        "SubmissionId": 32959101,
+        "Performance": 1655
+    },
+    {
+        "key": "kamojiro",
+        "Rank": 183,
+        "RankIndex": 183,
+        "UserScreenName": "kamojiro",
+        "Score": 8379839600,
+        "SubmissionId": 32960093,
+        "Performance": 1652
+    },
+    {
+        "key": "nikuroll",
+        "Rank": 184,
+        "RankIndex": 184,
+        "UserScreenName": "nikuroll",
+        "Score": 8374864600,
+        "SubmissionId": 32960732,
+        "Performance": 1650
+    },
+    {
+        "key": "titan23",
+        "Rank": 185,
+        "RankIndex": 185,
+        "UserScreenName": "titan23",
+        "Score": 8361992500,
+        "SubmissionId": 32962669,
+        "Performance": 1647
+    },
+    {
+        "key": "Bondo416",
+        "Rank": 186,
+        "RankIndex": 186,
+        "UserScreenName": "Bondo416",
+        "Score": 8350236700,
+        "SubmissionId": 32959858,
+        "Performance": 1644
+    },
+    {
+        "key": "drogskol",
+        "Rank": 187,
+        "RankIndex": 187,
+        "UserScreenName": "drogskol",
+        "Score": 8347186500,
+        "SubmissionId": 32961099,
+        "Performance": 1641
+    },
+    {
+        "key": "xyz600",
+        "Rank": 188,
+        "RankIndex": 188,
+        "UserScreenName": "xyz600",
+        "Score": 8342028400,
+        "SubmissionId": 32961662,
+        "Performance": 1639
+    },
+    {
+        "key": "dn154",
+        "Rank": 189,
+        "RankIndex": 189,
+        "UserScreenName": "dn154",
+        "Score": 8335621600,
+        "SubmissionId": 32961531,
+        "Performance": 1636
+    },
+    {
+        "key": "t98slider",
+        "Rank": 190,
+        "RankIndex": 190,
+        "UserScreenName": "t98slider",
+        "Score": 8308356500,
+        "SubmissionId": 32962985,
+        "Performance": 1633
+    },
+    {
+        "key": "mec2",
+        "Rank": 191,
+        "RankIndex": 191,
+        "UserScreenName": "mec2",
+        "Score": 8306179400,
+        "SubmissionId": 32962577,
+        "Performance": 1631
+    },
+    {
+        "key": "spa15332",
+        "Rank": 192,
+        "RankIndex": 192,
+        "UserScreenName": "spa15332",
+        "Score": 8302917500,
+        "SubmissionId": 32962793,
+        "Performance": 1628
+    },
+    {
+        "key": "hte",
+        "Rank": 193,
+        "RankIndex": 193,
+        "UserScreenName": "hte",
+        "Score": 8302106700,
+        "SubmissionId": 32955295,
+        "Performance": 1625
+    },
+    {
+        "key": "marurunn1",
+        "Rank": 194,
+        "RankIndex": 194,
+        "UserScreenName": "marurunn1",
+        "Score": 8297060500,
+        "SubmissionId": 32962894,
+        "Performance": 1623
+    },
+    {
+        "key": "zach",
+        "Rank": 195,
+        "RankIndex": 195,
+        "UserScreenName": "zach",
+        "Score": 8289178800,
+        "SubmissionId": 32962632,
+        "Performance": 1620
+    },
+    {
+        "key": "nextseason",
+        "Rank": 196,
+        "RankIndex": 196,
+        "UserScreenName": "nextseason",
+        "Score": 8285267500,
+        "SubmissionId": 32961094,
+        "Performance": 1617
+    },
+    {
+        "key": "pointN",
+        "Rank": 197,
+        "RankIndex": 197,
+        "UserScreenName": "pointN",
+        "Score": 8280452800,
+        "SubmissionId": 32962606,
+        "Performance": 1615
+    },
+    {
+        "key": "tokusakurai",
+        "Rank": 198,
+        "RankIndex": 198,
+        "UserScreenName": "tokusakurai",
+        "Score": 8271590300,
+        "SubmissionId": 32962896,
+        "Performance": 1612
+    },
+    {
+        "key": "ryo_n",
+        "Rank": 199,
+        "RankIndex": 199,
+        "UserScreenName": "ryo_n",
+        "Score": 8266566100,
+        "SubmissionId": 32960470,
+        "Performance": 1610
+    },
+    {
+        "key": "i8nd5t",
+        "Rank": 200,
+        "RankIndex": 200,
+        "UserScreenName": "i8nd5t",
+        "Score": 8259756800,
+        "SubmissionId": 32959139,
+        "Performance": 1607
+    },
+    {
+        "key": "kaz49bz",
+        "Rank": 201,
+        "RankIndex": 201,
+        "UserScreenName": "kaz49bz",
+        "Score": 8254070300,
+        "SubmissionId": 32958585,
+        "Performance": 1604
+    },
+    {
+        "key": "ExplodingFreeze",
+        "Rank": 202,
+        "RankIndex": 202,
+        "UserScreenName": "ExplodingFreeze",
+        "Score": 8253921700,
+        "SubmissionId": 32962506,
+        "Performance": 1602
+    },
+    {
+        "key": "Diary",
+        "Rank": 203,
+        "RankIndex": 203,
+        "UserScreenName": "Diary",
+        "Score": 8251222400,
+        "SubmissionId": 32962771,
+        "Performance": 1599
+    },
+    {
+        "key": "keep_OC",
+        "Rank": 204,
+        "RankIndex": 204,
+        "UserScreenName": "keep_OC",
+        "Score": 8248528400,
+        "SubmissionId": 32960324,
+        "Performance": 1597
+    },
+    {
+        "key": "qLethon",
+        "Rank": 205,
+        "RankIndex": 205,
+        "UserScreenName": "qLethon",
+        "Score": 8234915100,
+        "SubmissionId": 32961504,
+        "Performance": 1594
+    },
+    {
+        "key": "penguin46",
+        "Rank": 206,
+        "RankIndex": 206,
+        "UserScreenName": "penguin46",
+        "Score": 8233169100,
+        "SubmissionId": 32960668,
+        "Performance": 1592
+    },
+    {
+        "key": "hiro116s",
+        "Rank": 207,
+        "RankIndex": 207,
+        "UserScreenName": "hiro116s",
+        "Score": 8197413000,
+        "SubmissionId": 32962285,
+        "Performance": 1589
+    },
+    {
+        "key": "gengar_094",
+        "Rank": 208,
+        "RankIndex": 208,
+        "UserScreenName": "gengar_094",
+        "Score": 8195563900,
+        "SubmissionId": 32963029,
+        "Performance": 1587
+    },
+    {
+        "key": "jkdorayaki",
+        "Rank": 209,
+        "RankIndex": 209,
+        "UserScreenName": "jkdorayaki",
+        "Score": 8179279700,
+        "SubmissionId": 32962804,
+        "Performance": 1584
+    },
+    {
+        "key": "RTnF",
+        "Rank": 210,
+        "RankIndex": 210,
+        "UserScreenName": "RTnF",
+        "Score": 8176648100,
+        "SubmissionId": 32962364,
+        "Performance": 1582
+    },
+    {
+        "key": "Ryoga_exe",
+        "Rank": 211,
+        "RankIndex": 211,
+        "UserScreenName": "Ryoga_exe",
+        "Score": 8166434000,
+        "SubmissionId": 32961690,
+        "Performance": 1579
+    },
+    {
+        "key": "satanic0258",
+        "Rank": 212,
+        "RankIndex": 212,
+        "UserScreenName": "satanic0258",
+        "Score": 8164050300,
+        "SubmissionId": 32962988,
+        "Performance": 1577
+    },
+    {
+        "key": "soraie",
+        "Rank": 213,
+        "RankIndex": 213,
+        "UserScreenName": "soraie",
+        "Score": 8161145800,
+        "SubmissionId": 32960768,
+        "Performance": 1574
+    },
+    {
+        "key": "tktk_snsn",
+        "Rank": 214,
+        "RankIndex": 214,
+        "UserScreenName": "tktk_snsn",
+        "Score": 8150802800,
+        "SubmissionId": 32960390,
+        "Performance": 1572
+    },
+    {
+        "key": "mamejika",
+        "Rank": 215,
+        "RankIndex": 215,
+        "UserScreenName": "mamejika",
+        "Score": 8147474400,
+        "SubmissionId": 32963086,
+        "Performance": 1569
+    },
+    {
+        "key": "ansain",
+        "Rank": 216,
+        "RankIndex": 216,
+        "UserScreenName": "ansain",
+        "Score": 8146126800,
+        "SubmissionId": 32962998,
+        "Performance": 1567
+    },
+    {
+        "key": "ntk_ta01",
+        "Rank": 217,
+        "RankIndex": 217,
+        "UserScreenName": "ntk_ta01",
+        "Score": 8120527000,
+        "SubmissionId": 32963102,
+        "Performance": 1564
+    },
+    {
+        "key": "rosso01",
+        "Rank": 218,
+        "RankIndex": 218,
+        "UserScreenName": "rosso01",
+        "Score": 8107464500,
+        "SubmissionId": 32959954,
+        "Performance": 1562
+    },
+    {
+        "key": "broad",
+        "Rank": 219,
+        "RankIndex": 219,
+        "UserScreenName": "broad",
+        "Score": 8094184500,
+        "SubmissionId": 32962912,
+        "Performance": 1559
+    },
+    {
+        "key": "tirol30",
+        "Rank": 220,
+        "RankIndex": 220,
+        "UserScreenName": "tirol30",
+        "Score": 8093912000,
+        "SubmissionId": 32960238,
+        "Performance": 1557
+    },
+    {
+        "key": "primenumber_zz",
+        "Rank": 221,
+        "RankIndex": 221,
+        "UserScreenName": "primenumber_zz",
+        "Score": 8085956900,
+        "SubmissionId": 32960206,
+        "Performance": 1554
+    },
+    {
+        "key": "akouryy",
+        "Rank": 222,
+        "RankIndex": 222,
+        "UserScreenName": "akouryy",
+        "Score": 8080760600,
+        "SubmissionId": 32960509,
+        "Performance": 1552
+    },
+    {
+        "key": "G4NP0N",
+        "Rank": 223,
+        "RankIndex": 223,
+        "UserScreenName": "G4NP0N",
+        "Score": 8076554300,
+        "SubmissionId": 32963117,
+        "Performance": 1550
+    },
+    {
+        "key": "amayapetako",
+        "Rank": 224,
+        "RankIndex": 224,
+        "UserScreenName": "amayapetako",
+        "Score": 8071521500,
+        "SubmissionId": 32962987,
+        "Performance": 1547
+    },
+    {
+        "key": "a9ua1i0n",
+        "Rank": 225,
+        "RankIndex": 225,
+        "UserScreenName": "a9ua1i0n",
+        "Score": 8047582200,
+        "SubmissionId": 32961934,
+        "Performance": 1545
+    },
+    {
+        "key": "mark_0802",
+        "Rank": 226,
+        "RankIndex": 226,
+        "UserScreenName": "mark_0802",
+        "Score": 8043671800,
+        "SubmissionId": 32958036,
+        "Performance": 1542
+    },
+    {
+        "key": "ush",
+        "Rank": 227,
+        "RankIndex": 227,
+        "UserScreenName": "ush",
+        "Score": 8040965800,
+        "SubmissionId": 32960935,
+        "Performance": 1540
+    },
+    {
+        "key": "nono00",
+        "Rank": 228,
+        "RankIndex": 228,
+        "UserScreenName": "nono00",
+        "Score": 8031909600,
+        "SubmissionId": 32961719,
+        "Performance": 1538
+    },
+    {
+        "key": "yasunori",
+        "Rank": 229,
+        "RankIndex": 229,
+        "UserScreenName": "yasunori",
+        "Score": 8031456800,
+        "SubmissionId": 32963125,
+        "Performance": 1535
+    },
+    {
+        "key": "Masaoooo",
+        "Rank": 230,
+        "RankIndex": 230,
+        "UserScreenName": "Masaoooo",
+        "Score": 8030259800,
+        "SubmissionId": 32961133,
+        "Performance": 1533
+    },
+    {
+        "key": "hushojin",
+        "Rank": 231,
+        "RankIndex": 231,
+        "UserScreenName": "hushojin",
+        "Score": 8029837900,
+        "SubmissionId": 32962673,
+        "Performance": 1530
+    },
+    {
+        "key": "US_cube",
+        "Rank": 232,
+        "RankIndex": 232,
+        "UserScreenName": "US_cube",
+        "Score": 8018683200,
+        "SubmissionId": 32962403,
+        "Performance": 1528
+    },
+    {
+        "key": "hirohito1971",
+        "Rank": 233,
+        "RankIndex": 233,
+        "UserScreenName": "hirohito1971",
+        "Score": 8017689300,
+        "SubmissionId": 32962271,
+        "Performance": 1526
+    },
+    {
+        "key": "tatata96",
+        "Rank": 234,
+        "RankIndex": 234,
+        "UserScreenName": "tatata96",
+        "Score": 8016333700,
+        "SubmissionId": 32961629,
+        "Performance": 1523
+    },
+    {
+        "key": "ToastUz",
+        "Rank": 235,
+        "RankIndex": 235,
+        "UserScreenName": "ToastUz",
+        "Score": 7994735600,
+        "SubmissionId": 32962720,
+        "Performance": 1521
+    },
+    {
+        "key": "Mayimg",
+        "Rank": 236,
+        "RankIndex": 236,
+        "UserScreenName": "Mayimg",
+        "Score": 7982829900,
+        "SubmissionId": 32962954,
+        "Performance": 1519
+    },
+    {
+        "key": "makibishi0212",
+        "Rank": 237,
+        "RankIndex": 237,
+        "UserScreenName": "makibishi0212",
+        "Score": 7977144900,
+        "SubmissionId": 32961253,
+        "Performance": 1516
+    },
+    {
+        "key": "user14767553",
+        "Rank": 238,
+        "RankIndex": 238,
+        "UserScreenName": "user14767553",
+        "Score": 7970702900,
+        "SubmissionId": 32962932,
+        "Performance": 1514
+    },
+    {
+        "key": "mekemeke_san",
+        "Rank": 239,
+        "RankIndex": 239,
+        "UserScreenName": "mekemeke_san",
+        "Score": 7962632300,
+        "SubmissionId": 32961631,
+        "Performance": 1512
+    },
+    {
+        "key": "akane831",
+        "Rank": 240,
+        "RankIndex": 240,
+        "UserScreenName": "akane831",
+        "Score": 7959707200,
+        "SubmissionId": 32960281,
+        "Performance": 1509
+    },
+    {
+        "key": "cocomoff",
+        "Rank": 241,
+        "RankIndex": 241,
+        "UserScreenName": "cocomoff",
+        "Score": 7947943500,
+        "SubmissionId": 32960709,
+        "Performance": 1507
+    },
+    {
+        "key": "ktr216",
+        "Rank": 242,
+        "RankIndex": 242,
+        "UserScreenName": "ktr216",
+        "Score": 7945529900,
+        "SubmissionId": 32956873,
+        "Performance": 1505
+    },
+    {
+        "key": "nu50218",
+        "Rank": 243,
+        "RankIndex": 243,
+        "UserScreenName": "nu50218",
+        "Score": 7942328600,
+        "SubmissionId": 32960118,
+        "Performance": 1503
+    },
+    {
+        "key": "aaaaaaaaaa2230",
+        "Rank": 244,
+        "RankIndex": 244,
+        "UserScreenName": "aaaaaaaaaa2230",
+        "Score": 7940049200,
+        "SubmissionId": 32954991,
+        "Performance": 1500
+    },
+    {
+        "key": "ssaattoo",
+        "Rank": 245,
+        "RankIndex": 245,
+        "UserScreenName": "ssaattoo",
+        "Score": 7937281900,
+        "SubmissionId": 32961700,
+        "Performance": 1498
+    },
+    {
+        "key": "arimatti",
+        "Rank": 246,
+        "RankIndex": 246,
+        "UserScreenName": "arimatti",
+        "Score": 7929033600,
+        "SubmissionId": 32962639,
+        "Performance": 1496
+    },
+    {
+        "key": "fal_rnd",
+        "Rank": 247,
+        "RankIndex": 247,
+        "UserScreenName": "fal_rnd",
+        "Score": 7916745900,
+        "SubmissionId": 32961908,
+        "Performance": 1493
+    },
+    {
+        "key": "gojira_ku",
+        "Rank": 248,
+        "RankIndex": 248,
+        "UserScreenName": "gojira_ku",
+        "Score": 7913405500,
+        "SubmissionId": 32959531,
+        "Performance": 1491
+    },
+    {
+        "key": "ecottea",
+        "Rank": 249,
+        "RankIndex": 249,
+        "UserScreenName": "ecottea",
+        "Score": 7911175500,
+        "SubmissionId": 32962405,
+        "Performance": 1489
+    },
+    {
+        "key": "A0ikun_1818",
+        "Rank": 250,
+        "RankIndex": 250,
+        "UserScreenName": "A0ikun_1818",
+        "Score": 7902725600,
+        "SubmissionId": 32960523,
+        "Performance": 1487
+    },
+    {
+        "key": "sounansya",
+        "Rank": 251,
+        "RankIndex": 251,
+        "UserScreenName": "sounansya",
+        "Score": 7900669400,
+        "SubmissionId": 32957271,
+        "Performance": 1484
+    },
+    {
+        "key": "atcoder",
+        "Rank": 252,
+        "RankIndex": 252,
+        "UserScreenName": "atcoder",
+        "Score": 7894667700,
+        "SubmissionId": 32961887,
+        "Performance": 1482
+    },
+    {
+        "key": "penpenpen",
+        "Rank": 253,
+        "RankIndex": 253,
+        "UserScreenName": "penpenpen",
+        "Score": 7889046700,
+        "SubmissionId": 32962526,
+        "Performance": 1480
+    },
+    {
+        "key": "NakahashiNakashi",
+        "Rank": 254,
+        "RankIndex": 254,
+        "UserScreenName": "NakahashiNakashi",
+        "Score": 7885281100,
+        "SubmissionId": 32957077,
+        "Performance": 1478
+    },
+    {
+        "key": "tsumi",
+        "Rank": 255,
+        "RankIndex": 255,
+        "UserScreenName": "tsumi",
+        "Score": 7877770900,
+        "SubmissionId": 32961976,
+        "Performance": 1475
+    },
+    {
+        "key": "sankantsu",
+        "Rank": 256,
+        "RankIndex": 256,
+        "UserScreenName": "sankantsu",
+        "Score": 7876989800,
+        "SubmissionId": 32962555,
+        "Performance": 1473
+    },
+    {
+        "key": "through",
+        "Rank": 257,
+        "RankIndex": 257,
+        "UserScreenName": "through",
+        "Score": 7862509200,
+        "SubmissionId": 32961903,
+        "Performance": 1471
+    },
+    {
+        "key": "hotpepsi",
+        "Rank": 258,
+        "RankIndex": 258,
+        "UserScreenName": "hotpepsi",
+        "Score": 7850550500,
+        "SubmissionId": 32960477,
+        "Performance": 1469
+    },
+    {
+        "key": "birdwatcher",
+        "Rank": 259,
+        "RankIndex": 259,
+        "UserScreenName": "birdwatcher",
+        "Score": 7840144800,
+        "SubmissionId": 32962214,
+        "Performance": 1467
+    },
+    {
+        "key": "EZ_fwtt08",
+        "Rank": 260,
+        "RankIndex": 260,
+        "UserScreenName": "EZ_fwtt08",
+        "Score": 7837705600,
+        "SubmissionId": 32962265,
+        "Performance": 1464
+    },
+    {
+        "key": "cjn2007",
+        "Rank": 261,
+        "RankIndex": 261,
+        "UserScreenName": "cjn2007",
+        "Score": 7834052100,
+        "SubmissionId": 32963019,
+        "Performance": 1462
+    },
+    {
+        "key": "MtSaka",
+        "Rank": 262,
+        "RankIndex": 262,
+        "UserScreenName": "MtSaka",
+        "Score": 7832997100,
+        "SubmissionId": 32959566,
+        "Performance": 1460
+    },
+    {
+        "key": "cleantted",
+        "Rank": 263,
+        "RankIndex": 263,
+        "UserScreenName": "cleantted",
+        "Score": 7829276400,
+        "SubmissionId": 32963066,
+        "Performance": 1458
+    },
+    {
+        "key": "myantaq",
+        "Rank": 264,
+        "RankIndex": 264,
+        "UserScreenName": "myantaq",
+        "Score": 7827904100,
+        "SubmissionId": 32960344,
+        "Performance": 1456
+    },
+    {
+        "key": "mizarjp",
+        "Rank": 265,
+        "RankIndex": 265,
+        "UserScreenName": "mizarjp",
+        "Score": 7825572700,
+        "SubmissionId": 32961337,
+        "Performance": 1453
+    },
+    {
+        "key": "saky0080",
+        "Rank": 266,
+        "RankIndex": 266,
+        "UserScreenName": "saky0080",
+        "Score": 7818742100,
+        "SubmissionId": 32960416,
+        "Performance": 1451
+    },
+    {
+        "key": "tmyksj",
+        "Rank": 267,
+        "RankIndex": 267,
+        "UserScreenName": "tmyksj",
+        "Score": 7812926900,
+        "SubmissionId": 32962464,
+        "Performance": 1449
+    },
+    {
+        "key": "ponjuice",
+        "Rank": 268,
+        "RankIndex": 268,
+        "UserScreenName": "ponjuice",
+        "Score": 7810480700,
+        "SubmissionId": 32961088,
+        "Performance": 1447
+    },
+    {
+        "key": "PrussianBlue",
+        "Rank": 269,
+        "RankIndex": 269,
+        "UserScreenName": "PrussianBlue",
+        "Score": 7798876100,
+        "SubmissionId": 32961448,
+        "Performance": 1445
+    },
+    {
+        "key": "beta",
+        "Rank": 270,
+        "RankIndex": 270,
+        "UserScreenName": "beta",
+        "Score": 7798504300,
+        "SubmissionId": 32956647,
+        "Performance": 1443
+    },
+    {
+        "key": "y_yu",
+        "Rank": 271,
+        "RankIndex": 271,
+        "UserScreenName": "y_yu",
+        "Score": 7794789200,
+        "SubmissionId": 32963064,
+        "Performance": 1440
+    },
+    {
+        "key": "mayocorn",
+        "Rank": 272,
+        "RankIndex": 272,
+        "UserScreenName": "mayocorn",
+        "Score": 7780007800,
+        "SubmissionId": 32962527,
+        "Performance": 1438
+    },
+    {
+        "key": "puvon",
+        "Rank": 273,
+        "RankIndex": 273,
+        "UserScreenName": "puvon",
+        "Score": 7766671600,
+        "SubmissionId": 32960486,
+        "Performance": 1436
+    },
+    {
+        "key": "r3yohei",
+        "Rank": 274,
+        "RankIndex": 274,
+        "UserScreenName": "r3yohei",
+        "Score": 7759577800,
+        "SubmissionId": 32963050,
+        "Performance": 1434
+    },
+    {
+        "key": "gohan06",
+        "Rank": 275,
+        "RankIndex": 275,
+        "UserScreenName": "gohan06",
+        "Score": 7757754000,
+        "SubmissionId": 32960461,
+        "Performance": 1432
+    },
+    {
+        "key": "hukinorin",
+        "Rank": 276,
+        "RankIndex": 276,
+        "UserScreenName": "hukinorin",
+        "Score": 7755612200,
+        "SubmissionId": 32956601,
+        "Performance": 1430
+    },
+    {
+        "key": "yamake",
+        "Rank": 277,
+        "RankIndex": 277,
+        "UserScreenName": "yamake",
+        "Score": 7748839600,
+        "SubmissionId": 32956573,
+        "Performance": 1428
+    },
+    {
+        "key": "puyopop",
+        "Rank": 278,
+        "RankIndex": 278,
+        "UserScreenName": "puyopop",
+        "Score": 7743765300,
+        "SubmissionId": 32962650,
+        "Performance": 1425
+    },
+    {
+        "key": "nishinoyama",
+        "Rank": 279,
+        "RankIndex": 279,
+        "UserScreenName": "nishinoyama",
+        "Score": 7740567700,
+        "SubmissionId": 32960928,
+        "Performance": 1423
+    },
+    {
+        "key": "IceTea",
+        "Rank": 280,
+        "RankIndex": 280,
+        "UserScreenName": "IceTea",
+        "Score": 7725871100,
+        "SubmissionId": 32961864,
+        "Performance": 1421
+    },
+    {
+        "key": "peroon",
+        "Rank": 281,
+        "RankIndex": 281,
+        "UserScreenName": "peroon",
+        "Score": 7712250500,
+        "SubmissionId": 32956473,
+        "Performance": 1419
+    },
+    {
+        "key": "MightyFine",
+        "Rank": 282,
+        "RankIndex": 282,
+        "UserScreenName": "MightyFine",
+        "Score": 7690378100,
+        "SubmissionId": 32962654,
+        "Performance": 1417
+    },
+    {
+        "key": "schwarzahl",
+        "Rank": 283,
+        "RankIndex": 283,
+        "UserScreenName": "schwarzahl",
+        "Score": 7686219800,
+        "SubmissionId": 32959416,
+        "Performance": 1415
+    },
+    {
+        "key": "hir810",
+        "Rank": 284,
+        "RankIndex": 284,
+        "UserScreenName": "hir810",
+        "Score": 7683733500,
+        "SubmissionId": 32961410,
+        "Performance": 1413
+    },
+    {
+        "key": "Hydru1",
+        "Rank": 285,
+        "RankIndex": 285,
+        "UserScreenName": "Hydru1",
+        "Score": 7678987500,
+        "SubmissionId": 32959430,
+        "Performance": 1411
+    },
+    {
+        "key": "HoKai",
+        "Rank": 286,
+        "RankIndex": 286,
+        "UserScreenName": "HoKai",
+        "Score": 7672815400,
+        "SubmissionId": 32961868,
+        "Performance": 1409
+    },
+    {
+        "key": "math_hiyoko",
+        "Rank": 287,
+        "RankIndex": 287,
+        "UserScreenName": "math_hiyoko",
+        "Score": 7660145800,
+        "SubmissionId": 32959684,
+        "Performance": 1407
+    },
+    {
+        "key": "paleApricot",
+        "Rank": 288,
+        "RankIndex": 288,
+        "UserScreenName": "paleApricot",
+        "Score": 7658225900,
+        "SubmissionId": 32961449,
+        "Performance": 1404
+    },
+    {
+        "key": "Eguy",
+        "Rank": 289,
+        "RankIndex": 289,
+        "UserScreenName": "Eguy",
+        "Score": 7657335700,
+        "SubmissionId": 32960685,
+        "Performance": 1402
+    },
+    {
+        "key": "ChiyosBigDragon",
+        "Rank": 290,
+        "RankIndex": 290,
+        "UserScreenName": "ChiyosBigDragon",
+        "Score": 7656239300,
+        "SubmissionId": 32956420,
+        "Performance": 1400
+    },
+    {
+        "key": "recuraki",
+        "Rank": 291,
+        "RankIndex": 291,
+        "UserScreenName": "recuraki",
+        "Score": 7654045800,
+        "SubmissionId": 32962217,
+        "Performance": 1398
+    },
+    {
+        "key": "kkktym",
+        "Rank": 292,
+        "RankIndex": 292,
+        "UserScreenName": "kkktym",
+        "Score": 7651114300,
+        "SubmissionId": 32960637,
+        "Performance": 1396
+    },
+    {
+        "key": "nakanolab",
+        "Rank": 293,
+        "RankIndex": 293,
+        "UserScreenName": "nakanolab",
+        "Score": 7641026900,
+        "SubmissionId": 32957836,
+        "Performance": 1394
+    },
+    {
+        "key": "x20",
+        "Rank": 294,
+        "RankIndex": 294,
+        "UserScreenName": "x20",
+        "Score": 7639723900,
+        "SubmissionId": 32957792,
+        "Performance": 1392
+    },
+    {
+        "key": "rararara",
+        "Rank": 295,
+        "RankIndex": 295,
+        "UserScreenName": "rararara",
+        "Score": 7633927400,
+        "SubmissionId": 32961061,
+        "Performance": 1390
+    },
+    {
+        "key": "nmy",
+        "Rank": 296,
+        "RankIndex": 296,
+        "UserScreenName": "nmy",
+        "Score": 7621258400,
+        "SubmissionId": 32962837,
+        "Performance": 1388
+    },
+    {
+        "key": "noronyoro",
+        "Rank": 297,
+        "RankIndex": 297,
+        "UserScreenName": "noronyoro",
+        "Score": 7613364100,
+        "SubmissionId": 32962738,
+        "Performance": 1386
+    },
+    {
+        "key": "okudeottu",
+        "Rank": 298,
+        "RankIndex": 298,
+        "UserScreenName": "okudeottu",
+        "Score": 7609436600,
+        "SubmissionId": 32960786,
+        "Performance": 1384
+    },
+    {
+        "key": "cho57020",
+        "Rank": 299,
+        "RankIndex": 299,
+        "UserScreenName": "cho57020",
+        "Score": 7608805300,
+        "SubmissionId": 32961023,
+        "Performance": 1382
+    },
+    {
+        "key": "matsu7874",
+        "Rank": 300,
+        "RankIndex": 300,
+        "UserScreenName": "matsu7874",
+        "Score": 7603449900,
+        "SubmissionId": 32961201,
+        "Performance": 1380
+    },
+    {
+        "key": "kagakubu",
+        "Rank": 301,
+        "RankIndex": 301,
+        "UserScreenName": "kagakubu",
+        "Score": 7585494700,
+        "SubmissionId": 32962011,
+        "Performance": 1378
+    },
+    {
+        "key": "DrGilbert",
+        "Rank": 302,
+        "RankIndex": 302,
+        "UserScreenName": "DrGilbert",
+        "Score": 7581050200,
+        "SubmissionId": 32962200,
+        "Performance": 1376
+    },
+    {
+        "key": "ykamo",
+        "Rank": 303,
+        "RankIndex": 303,
+        "UserScreenName": "ykamo",
+        "Score": 7579512600,
+        "SubmissionId": 32959238,
+        "Performance": 1374
+    },
+    {
+        "key": "sakaki_tohru",
+        "Rank": 304,
+        "RankIndex": 304,
+        "UserScreenName": "sakaki_tohru",
+        "Score": 7577998200,
+        "SubmissionId": 32955771,
+        "Performance": 1372
+    },
+    {
+        "key": "ra5anchor",
+        "Rank": 305,
+        "RankIndex": 305,
+        "UserScreenName": "ra5anchor",
+        "Score": 7572895600,
+        "SubmissionId": 32959130,
+        "Performance": 1370
+    },
+    {
+        "key": "kw_c",
+        "Rank": 306,
+        "RankIndex": 306,
+        "UserScreenName": "kw_c",
+        "Score": 7569062700,
+        "SubmissionId": 32962515,
+        "Performance": 1368
+    },
+    {
+        "key": "kazukun1311",
+        "Rank": 307,
+        "RankIndex": 307,
+        "UserScreenName": "kazukun1311",
+        "Score": 7565442700,
+        "SubmissionId": 32960454,
+        "Performance": 1365
+    },
+    {
+        "key": "mdstoy",
+        "Rank": 308,
+        "RankIndex": 308,
+        "UserScreenName": "mdstoy",
+        "Score": 7561875800,
+        "SubmissionId": 32962952,
+        "Performance": 1363
+    },
+    {
+        "key": "KatoufujiBanana",
+        "Rank": 309,
+        "RankIndex": 309,
+        "UserScreenName": "KatoufujiBanana",
+        "Score": 7556105200,
+        "SubmissionId": 32955736,
+        "Performance": 1361
+    },
+    {
+        "key": "nisui258",
+        "Rank": 310,
+        "RankIndex": 310,
+        "UserScreenName": "nisui258",
+        "Score": 7555669300,
+        "SubmissionId": 32959384,
+        "Performance": 1359
+    },
+    {
+        "key": "rastel",
+        "Rank": 311,
+        "RankIndex": 311,
+        "UserScreenName": "rastel",
+        "Score": 7552518900,
+        "SubmissionId": 32954719,
+        "Performance": 1357
+    },
+    {
+        "key": "19k0034",
+        "Rank": 312,
+        "RankIndex": 312,
+        "UserScreenName": "19k0034",
+        "Score": 7548065700,
+        "SubmissionId": 32962544,
+        "Performance": 1355
+    },
+    {
+        "key": "mznmk",
+        "Rank": 313,
+        "RankIndex": 313,
+        "UserScreenName": "mznmk",
+        "Score": 7544603400,
+        "SubmissionId": 32962860,
+        "Performance": 1353
+    },
+    {
+        "key": "fgwiebfaoish",
+        "Rank": 314,
+        "RankIndex": 314,
+        "UserScreenName": "fgwiebfaoish",
+        "Score": 7542080200,
+        "SubmissionId": 32957104,
+        "Performance": 1351
+    },
+    {
+        "key": "firiexp",
+        "Rank": 315,
+        "RankIndex": 315,
+        "UserScreenName": "firiexp",
+        "Score": 7539143900,
+        "SubmissionId": 32955508,
+        "Performance": 1349
+    },
+    {
+        "key": "shu8Cream",
+        "Rank": 316,
+        "RankIndex": 316,
+        "UserScreenName": "shu8Cream",
+        "Score": 7537540300,
+        "SubmissionId": 32962709,
+        "Performance": 1347
+    },
+    {
+        "key": "Rick2200",
+        "Rank": 317,
+        "RankIndex": 317,
+        "UserScreenName": "Rick2200",
+        "Score": 7537122800,
+        "SubmissionId": 32960952,
+        "Performance": 1345
+    },
+    {
+        "key": "ozy4dm",
+        "Rank": 318,
+        "RankIndex": 318,
+        "UserScreenName": "ozy4dm",
+        "Score": 7531914000,
+        "SubmissionId": 32962483,
+        "Performance": 1343
+    },
+    {
+        "key": "SuppliLion",
+        "Rank": 319,
+        "RankIndex": 319,
+        "UserScreenName": "SuppliLion",
+        "Score": 7529310900,
+        "SubmissionId": 32962833,
+        "Performance": 1342
+    },
+    {
+        "key": "MatsuTaku",
+        "Rank": 320,
+        "RankIndex": 320,
+        "UserScreenName": "MatsuTaku",
+        "Score": 7526753500,
+        "SubmissionId": 32962187,
+        "Performance": 1340
+    },
+    {
+        "key": "dbsic211",
+        "Rank": 321,
+        "RankIndex": 321,
+        "UserScreenName": "dbsic211",
+        "Score": 7523238100,
+        "SubmissionId": 32959690,
+        "Performance": 1338
+    },
+    {
+        "key": "lowking",
+        "Rank": 322,
+        "RankIndex": 322,
+        "UserScreenName": "lowking",
+        "Score": 7521604100,
+        "SubmissionId": 32959873,
+        "Performance": 1336
+    },
+    {
+        "key": "SaiYs",
+        "Rank": 323,
+        "RankIndex": 323,
+        "UserScreenName": "SaiYs",
+        "Score": 7521244200,
+        "SubmissionId": 32960117,
+        "Performance": 1334
+    },
+    {
+        "key": "hassybirobiro",
+        "Rank": 324,
+        "RankIndex": 324,
+        "UserScreenName": "hassybirobiro",
+        "Score": 7517276000,
+        "SubmissionId": 32959786,
+        "Performance": 1332
+    },
+    {
+        "key": "Moegi",
+        "Rank": 325,
+        "RankIndex": 325,
+        "UserScreenName": "Moegi",
+        "Score": 7511525700,
+        "SubmissionId": 32954363,
+        "Performance": 1330
+    },
+    {
+        "key": "ryosci",
+        "Rank": 326,
+        "RankIndex": 326,
+        "UserScreenName": "ryosci",
+        "Score": 7509230700,
+        "SubmissionId": 32961920,
+        "Performance": 1328
+    },
+    {
+        "key": "tellur",
+        "Rank": 327,
+        "RankIndex": 327,
+        "UserScreenName": "tellur",
+        "Score": 7495372700,
+        "SubmissionId": 32960174,
+        "Performance": 1326
+    },
+    {
+        "key": "yasuwo",
+        "Rank": 328,
+        "RankIndex": 328,
+        "UserScreenName": "yasuwo",
+        "Score": 7494968000,
+        "SubmissionId": 32959967,
+        "Performance": 1324
+    },
+    {
+        "key": "pack887",
+        "Rank": 329,
+        "RankIndex": 329,
+        "UserScreenName": "pack887",
+        "Score": 7494412100,
+        "SubmissionId": 32963074,
+        "Performance": 1322
+    },
+    {
+        "key": "namolbbaemi",
+        "Rank": 330,
+        "RankIndex": 330,
+        "UserScreenName": "namolbbaemi",
+        "Score": 7490031400,
+        "SubmissionId": 32962231,
+        "Performance": 1320
+    },
+    {
+        "key": "kaede2020",
+        "Rank": 331,
+        "RankIndex": 331,
+        "UserScreenName": "kaede2020",
+        "Score": 7488023400,
+        "SubmissionId": 32961260,
+        "Performance": 1318
+    },
+    {
+        "key": "Alfalfa0709",
+        "Rank": 332,
+        "RankIndex": 332,
+        "UserScreenName": "Alfalfa0709",
+        "Score": 7485364600,
+        "SubmissionId": 32958446,
+        "Performance": 1316
+    },
+    {
+        "key": "takopen",
+        "Rank": 333,
+        "RankIndex": 333,
+        "UserScreenName": "takopen",
+        "Score": 7480947600,
+        "SubmissionId": 32963094,
+        "Performance": 1314
+    },
+    {
+        "key": "shojin_debu",
+        "Rank": 334,
+        "RankIndex": 334,
+        "UserScreenName": "shojin_debu",
+        "Score": 7480426200,
+        "SubmissionId": 32961147,
+        "Performance": 1312
+    },
+    {
+        "key": "rarara21",
+        "Rank": 335,
+        "RankIndex": 335,
+        "UserScreenName": "rarara21",
+        "Score": 7473517200,
+        "SubmissionId": 32955936,
+        "Performance": 1310
+    },
+    {
+        "key": "youwike",
+        "Rank": 336,
+        "RankIndex": 336,
+        "UserScreenName": "youwike",
+        "Score": 7471042500,
+        "SubmissionId": 32956225,
+        "Performance": 1308
+    },
+    {
+        "key": "otera",
+        "Rank": 337,
+        "RankIndex": 337,
+        "UserScreenName": "otera",
+        "Score": 7465377200,
+        "SubmissionId": 32957580,
+        "Performance": 1306
+    },
+    {
+        "key": "Navier_Boltzmann",
+        "Rank": 338,
+        "RankIndex": 338,
+        "UserScreenName": "Navier_Boltzmann",
+        "Score": 7463311700,
+        "SubmissionId": 32956304,
+        "Performance": 1304
+    },
+    {
+        "key": "bayou",
+        "Rank": 339,
+        "RankIndex": 339,
+        "UserScreenName": "bayou",
+        "Score": 7460427800,
+        "SubmissionId": 32962578,
+        "Performance": 1302
+    },
+    {
+        "key": "mirasunimoni",
+        "Rank": 340,
+        "RankIndex": 340,
+        "UserScreenName": "mirasunimoni",
+        "Score": 7445867600,
+        "SubmissionId": 32955630,
+        "Performance": 1300
+    },
+    {
+        "key": "Ashandf",
+        "Rank": 341,
+        "RankIndex": 341,
+        "UserScreenName": "Ashandf",
+        "Score": 7438424800,
+        "SubmissionId": 32958664,
+        "Performance": 1299
+    },
+    {
+        "key": "tomarint",
+        "Rank": 342,
+        "RankIndex": 342,
+        "UserScreenName": "tomarint",
+        "Score": 7434554000,
+        "SubmissionId": 32955892,
+        "Performance": 1297
+    },
+    {
+        "key": "PeachCaStella",
+        "Rank": 343,
+        "RankIndex": 343,
+        "UserScreenName": "PeachCaStella",
+        "Score": 7434211200,
+        "SubmissionId": 32961095,
+        "Performance": 1295
+    },
+    {
+        "key": "Kome_soudou",
+        "Rank": 344,
+        "RankIndex": 344,
+        "UserScreenName": "Kome_soudou",
+        "Score": 7428330500,
+        "SubmissionId": 32961797,
+        "Performance": 1293
+    },
+    {
+        "key": "haruki4936",
+        "Rank": 345,
+        "RankIndex": 345,
+        "UserScreenName": "haruki4936",
+        "Score": 7427722700,
+        "SubmissionId": 32961709,
+        "Performance": 1291
+    },
+    {
+        "key": "Coki628",
+        "Rank": 346,
+        "RankIndex": 346,
+        "UserScreenName": "Coki628",
+        "Score": 7427341700,
+        "SubmissionId": 32959931,
+        "Performance": 1289
+    },
+    {
+        "key": "frugq",
+        "Rank": 347,
+        "RankIndex": 347,
+        "UserScreenName": "frugq",
+        "Score": 7425401300,
+        "SubmissionId": 32963004,
+        "Performance": 1287
+    },
+    {
+        "key": "gyouzasushi",
+        "Rank": 348,
+        "RankIndex": 348,
+        "UserScreenName": "gyouzasushi",
+        "Score": 7424522200,
+        "SubmissionId": 32959330,
+        "Performance": 1285
+    },
+    {
+        "key": "breakfast_curry",
+        "Rank": 349,
+        "RankIndex": 349,
+        "UserScreenName": "breakfast_curry",
+        "Score": 7420835400,
+        "SubmissionId": 32960844,
+        "Performance": 1283
+    },
+    {
+        "key": "Magentor",
+        "Rank": 350,
+        "RankIndex": 350,
+        "UserScreenName": "Magentor",
+        "Score": 7419308300,
+        "SubmissionId": 32962772,
+        "Performance": 1281
+    },
+    {
+        "key": "hrokamo",
+        "Rank": 351,
+        "RankIndex": 351,
+        "UserScreenName": "hrokamo",
+        "Score": 7416266800,
+        "SubmissionId": 32963078,
+        "Performance": 1279
+    },
+    {
+        "key": "uni_kakurenbo",
+        "Rank": 352,
+        "RankIndex": 352,
+        "UserScreenName": "uni_kakurenbo",
+        "Score": 7414038300,
+        "SubmissionId": 32960304,
+        "Performance": 1278
+    },
+    {
+        "key": "shar18",
+        "Rank": 353,
+        "RankIndex": 353,
+        "UserScreenName": "shar18",
+        "Score": 7413594500,
+        "SubmissionId": 32955267,
+        "Performance": 1276
+    },
+    {
+        "key": "pandrei",
+        "Rank": 354,
+        "RankIndex": 354,
+        "UserScreenName": "pandrei",
+        "Score": 7413082400,
+        "SubmissionId": 32959102,
+        "Performance": 1274
+    },
+    {
+        "key": "H20",
+        "Rank": 355,
+        "RankIndex": 355,
+        "UserScreenName": "H20",
+        "Score": 7411923500,
+        "SubmissionId": 32960997,
+        "Performance": 1272
+    },
+    {
+        "key": "junta_",
+        "Rank": 356,
+        "RankIndex": 356,
+        "UserScreenName": "junta_",
+        "Score": 7409612700,
+        "SubmissionId": 32958070,
+        "Performance": 1270
+    },
+    {
+        "key": "y151",
+        "Rank": 357,
+        "RankIndex": 357,
+        "UserScreenName": "y151",
+        "Score": 7408755700,
+        "SubmissionId": 32960153,
+        "Performance": 1268
+    },
+    {
+        "key": "FplusFplusF",
+        "Rank": 358,
+        "RankIndex": 358,
+        "UserScreenName": "FplusFplusF",
+        "Score": 7407874200,
+        "SubmissionId": 32963006,
+        "Performance": 1266
+    },
+    {
+        "key": "imuraya",
+        "Rank": 359,
+        "RankIndex": 359,
+        "UserScreenName": "imuraya",
+        "Score": 7404494300,
+        "SubmissionId": 32962886,
+        "Performance": 1264
+    },
+    {
+        "key": "Mcik",
+        "Rank": 360,
+        "RankIndex": 360,
+        "UserScreenName": "Mcik",
+        "Score": 7403801200,
+        "SubmissionId": 32960871,
+        "Performance": 1262
+    },
+    {
+        "key": "UMRgurashi",
+        "Rank": 361,
+        "RankIndex": 361,
+        "UserScreenName": "UMRgurashi",
+        "Score": 7396778000,
+        "SubmissionId": 32963041,
+        "Performance": 1260
+    },
+    {
+        "key": "ryusuke_h",
+        "Rank": 362,
+        "RankIndex": 362,
+        "UserScreenName": "ryusuke_h",
+        "Score": 7385613900,
+        "SubmissionId": 32961650,
+        "Performance": 1259
+    },
+    {
+        "key": "kenken1724",
+        "Rank": 363,
+        "RankIndex": 363,
+        "UserScreenName": "kenken1724",
+        "Score": 7382011500,
+        "SubmissionId": 32958230,
+        "Performance": 1257
+    },
+    {
+        "key": "cexen",
+        "Rank": 364,
+        "RankIndex": 364,
+        "UserScreenName": "cexen",
+        "Score": 7381468800,
+        "SubmissionId": 32960086,
+        "Performance": 1255
+    },
+    {
+        "key": "yuta28",
+        "Rank": 365,
+        "RankIndex": 365,
+        "UserScreenName": "yuta28",
+        "Score": 7374989900,
+        "SubmissionId": 32959660,
+        "Performance": 1253
+    },
+    {
+        "key": "psz2007",
+        "Rank": 366,
+        "RankIndex": 366,
+        "UserScreenName": "psz2007",
+        "Score": 7369592300,
+        "SubmissionId": 32958675,
+        "Performance": 1251
+    },
+    {
+        "key": "ShunSK210328",
+        "Rank": 367,
+        "RankIndex": 367,
+        "UserScreenName": "ShunSK210328",
+        "Score": 7365592400,
+        "SubmissionId": 32959811,
+        "Performance": 1249
+    },
+    {
+        "key": "inu__dog",
+        "Rank": 368,
+        "RankIndex": 368,
+        "UserScreenName": "inu__dog",
+        "Score": 7358879700,
+        "SubmissionId": 32960039,
+        "Performance": 1247
+    },
+    {
+        "key": "RyotaYAMADA",
+        "Rank": 369,
+        "RankIndex": 369,
+        "UserScreenName": "RyotaYAMADA",
+        "Score": 7356403200,
+        "SubmissionId": 32962463,
+        "Performance": 1245
+    },
+    {
+        "key": "S_shun",
+        "Rank": 370,
+        "RankIndex": 370,
+        "UserScreenName": "S_shun",
+        "Score": 7338694800,
+        "SubmissionId": 32962345,
+        "Performance": 1244
+    },
+    {
+        "key": "BinomialSheep",
+        "Rank": 371,
+        "RankIndex": 371,
+        "UserScreenName": "BinomialSheep",
+        "Score": 7338629300,
+        "SubmissionId": 32960736,
+        "Performance": 1242
+    },
+    {
+        "key": "meltice",
+        "Rank": 372,
+        "RankIndex": 372,
+        "UserScreenName": "meltice",
+        "Score": 7314031700,
+        "SubmissionId": 32962702,
+        "Performance": 1240
+    },
+    {
+        "key": "west321kei",
+        "Rank": 373,
+        "RankIndex": 373,
+        "UserScreenName": "west321kei",
+        "Score": 7313707400,
+        "SubmissionId": 32961695,
+        "Performance": 1238
+    },
+    {
+        "key": "rokabo_nutttsu",
+        "Rank": 374,
+        "RankIndex": 374,
+        "UserScreenName": "rokabo_nutttsu",
+        "Score": 7311657600,
+        "SubmissionId": 32962399,
+        "Performance": 1236
+    },
+    {
+        "key": "Rjo",
+        "Rank": 375,
+        "RankIndex": 375,
+        "UserScreenName": "Rjo",
+        "Score": 7311482600,
+        "SubmissionId": 32962015,
+        "Performance": 1234
+    },
+    {
+        "key": "hell",
+        "Rank": 376,
+        "RankIndex": 376,
+        "UserScreenName": "hell",
+        "Score": 7301294800,
+        "SubmissionId": 32962759,
+        "Performance": 1232
+    },
+    {
+        "key": "ramdos",
+        "Rank": 377,
+        "RankIndex": 377,
+        "UserScreenName": "ramdos",
+        "Score": 7296687900,
+        "SubmissionId": 32961666,
+        "Performance": 1230
+    },
+    {
+        "key": "keroru",
+        "Rank": 378,
+        "RankIndex": 378,
+        "UserScreenName": "keroru",
+        "Score": 7290618400,
+        "SubmissionId": 32961733,
+        "Performance": 1229
+    },
+    {
+        "key": "puzneko",
+        "Rank": 379,
+        "RankIndex": 379,
+        "UserScreenName": "puzneko",
+        "Score": 7278478500,
+        "SubmissionId": 32961482,
+        "Performance": 1227
+    },
+    {
+        "key": "KeitaroNaruse",
+        "Rank": 380,
+        "RankIndex": 380,
+        "UserScreenName": "KeitaroNaruse",
+        "Score": 7273376200,
+        "SubmissionId": 32961676,
+        "Performance": 1225
+    },
+    {
+        "key": "Akijin_007",
+        "Rank": 381,
+        "RankIndex": 381,
+        "UserScreenName": "Akijin_007",
+        "Score": 7270224500,
+        "SubmissionId": 32960358,
+        "Performance": 1223
+    },
+    {
+        "key": "Perceval",
+        "Rank": 382,
+        "RankIndex": 382,
+        "UserScreenName": "Perceval",
+        "Score": 7268412700,
+        "SubmissionId": 32959280,
+        "Performance": 1221
+    },
+    {
+        "key": "berry",
+        "Rank": 383,
+        "RankIndex": 383,
+        "UserScreenName": "berry",
+        "Score": 7267637600,
+        "SubmissionId": 32955268,
+        "Performance": 1219
+    },
+    {
+        "key": "strange757",
+        "Rank": 384,
+        "RankIndex": 384,
+        "UserScreenName": "strange757",
+        "Score": 7265841000,
+        "SubmissionId": 32961057,
+        "Performance": 1218
+    },
+    {
+        "key": "goudezhao",
+        "Rank": 385,
+        "RankIndex": 385,
+        "UserScreenName": "goudezhao",
+        "Score": 7261523500,
+        "SubmissionId": 32962861,
+        "Performance": 1216
+    },
+    {
+        "key": "souta_1326",
+        "Rank": 386,
+        "RankIndex": 386,
+        "UserScreenName": "souta_1326",
+        "Score": 7260015800,
+        "SubmissionId": 32958871,
+        "Performance": 1214
+    },
+    {
+        "key": "hkus",
+        "Rank": 387,
+        "RankIndex": 387,
+        "UserScreenName": "hkus",
+        "Score": 7252610000,
+        "SubmissionId": 32959495,
+        "Performance": 1212
+    },
+    {
+        "key": "N_hara",
+        "Rank": 388,
+        "RankIndex": 388,
+        "UserScreenName": "N_hara",
+        "Score": 7251043300,
+        "SubmissionId": 32954001,
+        "Performance": 1210
+    },
+    {
+        "key": "pureharmony",
+        "Rank": 389,
+        "RankIndex": 389,
+        "UserScreenName": "pureharmony",
+        "Score": 7248464600,
+        "SubmissionId": 32957934,
+        "Performance": 1208
+    },
+    {
+        "key": "otsuneko",
+        "Rank": 390,
+        "RankIndex": 390,
+        "UserScreenName": "otsuneko",
+        "Score": 7239730300,
+        "SubmissionId": 32962540,
+        "Performance": 1206
+    },
+    {
+        "key": "rms",
+        "Rank": 391,
+        "RankIndex": 391,
+        "UserScreenName": "rms",
+        "Score": 7238270800,
+        "SubmissionId": 32962070,
+        "Performance": 1205
+    },
+    {
+        "key": "qisnotnq",
+        "Rank": 392,
+        "RankIndex": 392,
+        "UserScreenName": "qisnotnq",
+        "Score": 7227125900,
+        "SubmissionId": 32957649,
+        "Performance": 1203
+    },
+    {
+        "key": "Junmori",
+        "Rank": 393,
+        "RankIndex": 393,
+        "UserScreenName": "Junmori",
+        "Score": 7225989200,
+        "SubmissionId": 32962205,
+        "Performance": 1201
+    },
+    {
+        "key": "Taichicchi",
+        "Rank": 394,
+        "RankIndex": 394,
+        "UserScreenName": "Taichicchi",
+        "Score": 7223776200,
+        "SubmissionId": 32962542,
+        "Performance": 1199
+    },
+    {
+        "key": "aoymats",
+        "Rank": 395,
+        "RankIndex": 395,
+        "UserScreenName": "aoymats",
+        "Score": 7222602500,
+        "SubmissionId": 32962075,
+        "Performance": 1197
+    },
+    {
+        "key": "absenc",
+        "Rank": 396,
+        "RankIndex": 396,
+        "UserScreenName": "absenc",
+        "Score": 7215234100,
+        "SubmissionId": 32962107,
+        "Performance": 1195
+    },
+    {
+        "key": "Strorkis",
+        "Rank": 397,
+        "RankIndex": 397,
+        "UserScreenName": "Strorkis",
+        "Score": 7211888100,
+        "SubmissionId": 32961164,
+        "Performance": 1194
+    },
+    {
+        "key": "ryu150",
+        "Rank": 398,
+        "RankIndex": 398,
+        "UserScreenName": "ryu150",
+        "Score": 7194746700,
+        "SubmissionId": 32959318,
+        "Performance": 1192
+    },
+    {
+        "key": "eijirou",
+        "Rank": 399,
+        "RankIndex": 399,
+        "UserScreenName": "eijirou",
+        "Score": 7185271700,
+        "SubmissionId": 32956531,
+        "Performance": 1190
+    },
+    {
+        "key": "Luogu222865",
+        "Rank": 400,
+        "RankIndex": 400,
+        "UserScreenName": "Luogu222865",
+        "Score": 7182934100,
+        "SubmissionId": 32960362,
+        "Performance": 1188
+    },
+    {
+        "key": "merlingo",
+        "Rank": 401,
+        "RankIndex": 401,
+        "UserScreenName": "merlingo",
+        "Score": 7177055600,
+        "SubmissionId": 32962718,
+        "Performance": 1186
+    },
+    {
+        "key": "prd_xxx",
+        "Rank": 402,
+        "RankIndex": 402,
+        "UserScreenName": "prd_xxx",
+        "Score": 7176305500,
+        "SubmissionId": 32961521,
+        "Performance": 1184
+    },
+    {
+        "key": "Trineutron",
+        "Rank": 403,
+        "RankIndex": 403,
+        "UserScreenName": "Trineutron",
+        "Score": 7155249900,
+        "SubmissionId": 32956667,
+        "Performance": 1183
+    },
+    {
+        "key": "ikoma",
+        "Rank": 404,
+        "RankIndex": 404,
+        "UserScreenName": "ikoma",
+        "Score": 7155072900,
+        "SubmissionId": 32963028,
+        "Performance": 1181
+    },
+    {
+        "key": "tainto",
+        "Rank": 405,
+        "RankIndex": 405,
+        "UserScreenName": "tainto",
+        "Score": 7152128400,
+        "SubmissionId": 32956368,
+        "Performance": 1179
+    },
+    {
+        "key": "Sugirin",
+        "Rank": 406,
+        "RankIndex": 406,
+        "UserScreenName": "Sugirin",
+        "Score": 7149283300,
+        "SubmissionId": 32954715,
+        "Performance": 1177
+    },
+    {
+        "key": "qwymb",
+        "Rank": 407,
+        "RankIndex": 407,
+        "UserScreenName": "qwymb",
+        "Score": 7147894600,
+        "SubmissionId": 32962426,
+        "Performance": 1175
+    },
+    {
+        "key": "gabriel55_",
+        "Rank": 408,
+        "RankIndex": 408,
+        "UserScreenName": "gabriel55_",
+        "Score": 7145108500,
+        "SubmissionId": 32962369,
+        "Performance": 1173
+    },
+    {
+        "key": "MemeChan",
+        "Rank": 409,
+        "RankIndex": 409,
+        "UserScreenName": "MemeChan",
+        "Score": 7144712300,
+        "SubmissionId": 32956712,
+        "Performance": 1172
+    },
+    {
+        "key": "sasasasasasasa",
+        "Rank": 410,
+        "RankIndex": 410,
+        "UserScreenName": "sasasasasasasa",
+        "Score": 7143448300,
+        "SubmissionId": 32956927,
+        "Performance": 1170
+    },
+    {
+        "key": "toshihoge",
+        "Rank": 411,
+        "RankIndex": 411,
+        "UserScreenName": "toshihoge",
+        "Score": 7133065000,
+        "SubmissionId": 32957650,
+        "Performance": 1168
+    },
+    {
+        "key": "syu_mei",
+        "Rank": 412,
+        "RankIndex": 412,
+        "UserScreenName": "syu_mei",
+        "Score": 7127618700,
+        "SubmissionId": 32961118,
+        "Performance": 1166
+    },
+    {
+        "key": "shimisho",
+        "Rank": 413,
+        "RankIndex": 413,
+        "UserScreenName": "shimisho",
+        "Score": 7127363000,
+        "SubmissionId": 32960544,
+        "Performance": 1164
+    },
+    {
+        "key": "spady",
+        "Rank": 414,
+        "RankIndex": 414,
+        "UserScreenName": "spady",
+        "Score": 7126224300,
+        "SubmissionId": 32960128,
+        "Performance": 1162
+    },
+    {
+        "key": "laczil",
+        "Rank": 415,
+        "RankIndex": 415,
+        "UserScreenName": "laczil",
+        "Score": 7125536600,
+        "SubmissionId": 32958577,
+        "Performance": 1161
+    },
+    {
+        "key": "chro4896",
+        "Rank": 416,
+        "RankIndex": 416,
+        "UserScreenName": "chro4896",
+        "Score": 7119486300,
+        "SubmissionId": 32961081,
+        "Performance": 1159
+    },
+    {
+        "key": "kento517",
+        "Rank": 417,
+        "RankIndex": 417,
+        "UserScreenName": "kento517",
+        "Score": 7119167200,
+        "SubmissionId": 32961886,
+        "Performance": 1157
+    },
+    {
+        "key": "shinya152",
+        "Rank": 418,
+        "RankIndex": 418,
+        "UserScreenName": "shinya152",
+        "Score": 7110157000,
+        "SubmissionId": 32956167,
+        "Performance": 1155
+    },
+    {
+        "key": "keisuke6",
+        "Rank": 419,
+        "RankIndex": 419,
+        "UserScreenName": "keisuke6",
+        "Score": 7094079100,
+        "SubmissionId": 32957398,
+        "Performance": 1153
+    },
+    {
+        "key": "SDESTINY",
+        "Rank": 420,
+        "RankIndex": 420,
+        "UserScreenName": "SDESTINY",
+        "Score": 7091961500,
+        "SubmissionId": 32962728,
+        "Performance": 1151
+    },
+    {
+        "key": "ryuchelswifty13",
+        "Rank": 421,
+        "RankIndex": 421,
+        "UserScreenName": "ryuchelswifty13",
+        "Score": 7086802000,
+        "SubmissionId": 32963025,
+        "Performance": 1150
+    },
+    {
+        "key": "kaz_mighty",
+        "Rank": 422,
+        "RankIndex": 422,
+        "UserScreenName": "kaz_mighty",
+        "Score": 7078035700,
+        "SubmissionId": 32955986,
+        "Performance": 1148
+    },
+    {
+        "key": "hige_yy",
+        "Rank": 423,
+        "RankIndex": 423,
+        "UserScreenName": "hige_yy",
+        "Score": 7077902100,
+        "SubmissionId": 32963013,
+        "Performance": 1146
+    },
+    {
+        "key": "ssdng",
+        "Rank": 424,
+        "RankIndex": 424,
+        "UserScreenName": "ssdng",
+        "Score": 7057938100,
+        "SubmissionId": 32961269,
+        "Performance": 1144
+    },
+    {
+        "key": "emankcin",
+        "Rank": 425,
+        "RankIndex": 425,
+        "UserScreenName": "emankcin",
+        "Score": 7053043500,
+        "SubmissionId": 32956608,
+        "Performance": 1142
+    },
+    {
+        "key": "tamson",
+        "Rank": 426,
+        "RankIndex": 426,
+        "UserScreenName": "tamson",
+        "Score": 7048858400,
+        "SubmissionId": 32962884,
+        "Performance": 1140
+    },
+    {
+        "key": "rabot",
+        "Rank": 427,
+        "RankIndex": 427,
+        "UserScreenName": "rabot",
+        "Score": 7048629000,
+        "SubmissionId": 32962817,
+        "Performance": 1139
+    },
+    {
+        "key": "MarioChao",
+        "Rank": 428,
+        "RankIndex": 428,
+        "UserScreenName": "MarioChao",
+        "Score": 7036157700,
+        "SubmissionId": 32957988,
+        "Performance": 1137
+    },
+    {
+        "key": "kobaya_ta",
+        "Rank": 429,
+        "RankIndex": 429,
+        "UserScreenName": "kobaya_ta",
+        "Score": 7016598500,
+        "SubmissionId": 32962291,
+        "Performance": 1135
+    },
+    {
+        "key": "achapi",
+        "Rank": 430,
+        "RankIndex": 430,
+        "UserScreenName": "achapi",
+        "Score": 7011615700,
+        "SubmissionId": 32957915,
+        "Performance": 1133
+    },
+    {
+        "key": "zkou",
+        "Rank": 431,
+        "RankIndex": 431,
+        "UserScreenName": "zkou",
+        "Score": 7011120800,
+        "SubmissionId": 32959710,
+        "Performance": 1131
+    },
+    {
+        "key": "watarimaycry2",
+        "Rank": 432,
+        "RankIndex": 432,
+        "UserScreenName": "watarimaycry2",
+        "Score": 7008514700,
+        "SubmissionId": 32961335,
+        "Performance": 1130
+    },
+    {
+        "key": "guperman",
+        "Rank": 433,
+        "RankIndex": 433,
+        "UserScreenName": "guperman",
+        "Score": 6992996200,
+        "SubmissionId": 32962881,
+        "Performance": 1128
+    },
+    {
+        "key": "maeda3",
+        "Rank": 434,
+        "RankIndex": 434,
+        "UserScreenName": "maeda3",
+        "Score": 6980110500,
+        "SubmissionId": 32961314,
+        "Performance": 1126
+    },
+    {
+        "key": "iceslime1104",
+        "Rank": 435,
+        "RankIndex": 435,
+        "UserScreenName": "iceslime1104",
+        "Score": 6973038600,
+        "SubmissionId": 32961926,
+        "Performance": 1124
+    },
+    {
+        "key": "kudryavka_chan",
+        "Rank": 436,
+        "RankIndex": 436,
+        "UserScreenName": "kudryavka_chan",
+        "Score": 6952196600,
+        "SubmissionId": 32962210,
+        "Performance": 1122
+    },
+    {
+        "key": "Kuston",
+        "Rank": 437,
+        "RankIndex": 437,
+        "UserScreenName": "Kuston",
+        "Score": 6948154500,
+        "SubmissionId": 32959465,
+        "Performance": 1120
+    },
+    {
+        "key": "Gobi",
+        "Rank": 438,
+        "RankIndex": 438,
+        "UserScreenName": "Gobi",
+        "Score": 6930936300,
+        "SubmissionId": 32961242,
+        "Performance": 1119
+    },
+    {
+        "key": "Age8",
+        "Rank": 439,
+        "RankIndex": 439,
+        "UserScreenName": "Age8",
+        "Score": 6930312600,
+        "SubmissionId": 32957832,
+        "Performance": 1117
+    },
+    {
+        "key": "Tokuzoo",
+        "Rank": 440,
+        "RankIndex": 440,
+        "UserScreenName": "Tokuzoo",
+        "Score": 6923844000,
+        "SubmissionId": 32957172,
+        "Performance": 1115
+    },
+    {
+        "key": "agridrama",
+        "Rank": 441,
+        "RankIndex": 441,
+        "UserScreenName": "agridrama",
+        "Score": 6920783600,
+        "SubmissionId": 32953490,
+        "Performance": 1113
+    },
+    {
+        "key": "okeue",
+        "Rank": 442,
+        "RankIndex": 442,
+        "UserScreenName": "okeue",
+        "Score": 6920535900,
+        "SubmissionId": 32954659,
+        "Performance": 1111
+    },
+    {
+        "key": "Nzt3",
+        "Rank": 443,
+        "RankIndex": 443,
+        "UserScreenName": "Nzt3",
+        "Score": 6917059900,
+        "SubmissionId": 32957930,
+        "Performance": 1109
+    },
+    {
+        "key": "tatyam",
+        "Rank": 444,
+        "RankIndex": 444,
+        "UserScreenName": "tatyam",
+        "Score": 6904497600,
+        "SubmissionId": 32960927,
+        "Performance": 1108
+    },
+    {
+        "key": "poka",
+        "Rank": 445,
+        "RankIndex": 445,
+        "UserScreenName": "poka",
+        "Score": 6887407200,
+        "SubmissionId": 32957952,
+        "Performance": 1106
+    },
+    {
+        "key": "xsd",
+        "Rank": 446,
+        "RankIndex": 446,
+        "UserScreenName": "xsd",
+        "Score": 6885200700,
+        "SubmissionId": 32961266,
+        "Performance": 1104
+    },
+    {
+        "key": "nicetacks",
+        "Rank": 447,
+        "RankIndex": 447,
+        "UserScreenName": "nicetacks",
+        "Score": 6864162600,
+        "SubmissionId": 32961858,
+        "Performance": 1102
+    },
+    {
+        "key": "mimisan",
+        "Rank": 448,
+        "RankIndex": 448,
+        "UserScreenName": "mimisan",
+        "Score": 6852385500,
+        "SubmissionId": 32959622,
+        "Performance": 1100
+    },
+    {
+        "key": "nejineji",
+        "Rank": 449,
+        "RankIndex": 449,
+        "UserScreenName": "nejineji",
+        "Score": 6850581600,
+        "SubmissionId": 32962933,
+        "Performance": 1099
+    },
+    {
+        "key": "perovskite",
+        "Rank": 450,
+        "RankIndex": 450,
+        "UserScreenName": "perovskite",
+        "Score": 6849700300,
+        "SubmissionId": 32955402,
+        "Performance": 1097
+    },
+    {
+        "key": "koboshi",
+        "Rank": 451,
+        "RankIndex": 451,
+        "UserScreenName": "koboshi",
+        "Score": 6849289300,
+        "SubmissionId": 32953662,
+        "Performance": 1095
+    },
+    {
+        "key": "vistoron15",
+        "Rank": 452,
+        "RankIndex": 452,
+        "UserScreenName": "vistoron15",
+        "Score": 6849289300,
+        "SubmissionId": 32954411,
+        "Performance": 1093
+    },
+    {
+        "key": "truelywaath",
+        "Rank": 453,
+        "RankIndex": 453,
+        "UserScreenName": "truelywaath",
+        "Score": 6849289300,
+        "SubmissionId": 32960624,
+        "Performance": 1091
+    },
+    {
+        "key": "romc",
+        "Rank": 454,
+        "RankIndex": 454,
+        "UserScreenName": "romc",
+        "Score": 6849289300,
+        "SubmissionId": 32961473,
+        "Performance": 1089
+    },
+    {
+        "key": "keroido",
+        "Rank": 455,
+        "RankIndex": 455,
+        "UserScreenName": "keroido",
+        "Score": 6848054400,
+        "SubmissionId": 32960876,
+        "Performance": 1088
+    },
+    {
+        "key": "N1flheimr",
+        "Rank": 456,
+        "RankIndex": 456,
+        "UserScreenName": "N1flheimr",
+        "Score": 6845903600,
+        "SubmissionId": 32960412,
+        "Performance": 1086
+    },
+    {
+        "key": "Fran_750",
+        "Rank": 457,
+        "RankIndex": 457,
+        "UserScreenName": "Fran_750",
+        "Score": 6809371700,
+        "SubmissionId": 32958849,
+        "Performance": 1084
+    },
+    {
+        "key": "s1010",
+        "Rank": 458,
+        "RankIndex": 458,
+        "UserScreenName": "s1010",
+        "Score": 6797176300,
+        "SubmissionId": 32957694,
+        "Performance": 1082
+    },
+    {
+        "key": "judgelaw",
+        "Rank": 459,
+        "RankIndex": 459,
+        "UserScreenName": "judgelaw",
+        "Score": 6795871300,
+        "SubmissionId": 32958496,
+        "Performance": 1080
+    },
+    {
+        "key": "kareinonitsuke",
+        "Rank": 460,
+        "RankIndex": 460,
+        "UserScreenName": "kareinonitsuke",
+        "Score": 6789707000,
+        "SubmissionId": 32956354,
+        "Performance": 1078
+    },
+    {
+        "key": "zozu",
+        "Rank": 461,
+        "RankIndex": 461,
+        "UserScreenName": "zozu",
+        "Score": 6783408800,
+        "SubmissionId": 32960495,
+        "Performance": 1077
+    },
+    {
+        "key": "akasinn",
+        "Rank": 462,
+        "RankIndex": 462,
+        "UserScreenName": "akasinn",
+        "Score": 6745287100,
+        "SubmissionId": 32961850,
+        "Performance": 1075
+    },
+    {
+        "key": "maki_glenscape",
+        "Rank": 463,
+        "RankIndex": 463,
+        "UserScreenName": "maki_glenscape",
+        "Score": 6743701400,
+        "SubmissionId": 32959953,
+        "Performance": 1073
+    },
+    {
+        "key": "sakiko",
+        "Rank": 464,
+        "RankIndex": 464,
+        "UserScreenName": "sakiko",
+        "Score": 6742514600,
+        "SubmissionId": 32960880,
+        "Performance": 1071
+    },
+    {
+        "key": "himazin3141592",
+        "Rank": 465,
+        "RankIndex": 465,
+        "UserScreenName": "himazin3141592",
+        "Score": 6712356500,
+        "SubmissionId": 32963023,
+        "Performance": 1069
+    },
+    {
+        "key": "KaiserWilheim",
+        "Rank": 466,
+        "RankIndex": 466,
+        "UserScreenName": "KaiserWilheim",
+        "Score": 6708486100,
+        "SubmissionId": 32962847,
+        "Performance": 1067
+    },
+    {
+        "key": "songyuxin060305",
+        "Rank": 467,
+        "RankIndex": 467,
+        "UserScreenName": "songyuxin060305",
+        "Score": 6708227800,
+        "SubmissionId": 32962769,
+        "Performance": 1066
+    },
+    {
+        "key": "syunsuke7",
+        "Rank": 468,
+        "RankIndex": 468,
+        "UserScreenName": "syunsuke7",
+        "Score": 6705882800,
+        "SubmissionId": 32960735,
+        "Performance": 1064
+    },
+    {
+        "key": "simetuha",
+        "Rank": 469,
+        "RankIndex": 469,
+        "UserScreenName": "simetuha",
+        "Score": 6700170000,
+        "SubmissionId": 32961505,
+        "Performance": 1062
+    },
+    {
+        "key": "homesentinel",
+        "Rank": 470,
+        "RankIndex": 470,
+        "UserScreenName": "homesentinel",
+        "Score": 6699173500,
+        "SubmissionId": 32962243,
+        "Performance": 1060
+    },
+    {
+        "key": "premier",
+        "Rank": 471,
+        "RankIndex": 471,
+        "UserScreenName": "premier",
+        "Score": 6684002900,
+        "SubmissionId": 32955112,
+        "Performance": 1058
+    },
+    {
+        "key": "seiyu0225",
+        "Rank": 472,
+        "RankIndex": 472,
+        "UserScreenName": "seiyu0225",
+        "Score": 6683285800,
+        "SubmissionId": 32959174,
+        "Performance": 1056
+    },
+    {
+        "key": "Glacialte",
+        "Rank": 473,
+        "RankIndex": 473,
+        "UserScreenName": "Glacialte",
+        "Score": 6679102800,
+        "SubmissionId": 32962859,
+        "Performance": 1055
+    },
+    {
+        "key": "takekinmkk",
+        "Rank": 474,
+        "RankIndex": 474,
+        "UserScreenName": "takekinmkk",
+        "Score": 6676214300,
+        "SubmissionId": 32962462,
+        "Performance": 1053
+    },
+    {
+        "key": "antguz",
+        "Rank": 475,
+        "RankIndex": 475,
+        "UserScreenName": "antguz",
+        "Score": 6668976900,
+        "SubmissionId": 32962353,
+        "Performance": 1051
+    },
+    {
+        "key": "kadoma2",
+        "Rank": 476,
+        "RankIndex": 476,
+        "UserScreenName": "kadoma2",
+        "Score": 6644400600,
+        "SubmissionId": 32956108,
+        "Performance": 1049
+    },
+    {
+        "key": "Yuki_B",
+        "Rank": 477,
+        "RankIndex": 477,
+        "UserScreenName": "Yuki_B",
+        "Score": 6632988900,
+        "SubmissionId": 32955189,
+        "Performance": 1047
+    },
+    {
+        "key": "mt_kuma",
+        "Rank": 478,
+        "RankIndex": 478,
+        "UserScreenName": "mt_kuma",
+        "Score": 6629213800,
+        "SubmissionId": 32958413,
+        "Performance": 1045
+    },
+    {
+        "key": "ayu777pro",
+        "Rank": 479,
+        "RankIndex": 479,
+        "UserScreenName": "ayu777pro",
+        "Score": 6627322700,
+        "SubmissionId": 32958772,
+        "Performance": 1043
+    },
+    {
+        "key": "negibose2020",
+        "Rank": 480,
+        "RankIndex": 480,
+        "UserScreenName": "negibose2020",
+        "Score": 6627286000,
+        "SubmissionId": 32961635,
+        "Performance": 1042
+    },
+    {
+        "key": "besukohu",
+        "Rank": 481,
+        "RankIndex": 481,
+        "UserScreenName": "besukohu",
+        "Score": 6614998200,
+        "SubmissionId": 32962755,
+        "Performance": 1040
+    },
+    {
+        "key": "nishigake",
+        "Rank": 482,
+        "RankIndex": 482,
+        "UserScreenName": "nishigake",
+        "Score": 6614199000,
+        "SubmissionId": 32962840,
+        "Performance": 1038
+    },
+    {
+        "key": "REON28",
+        "Rank": 483,
+        "RankIndex": 483,
+        "UserScreenName": "REON28",
+        "Score": 6606373300,
+        "SubmissionId": 32960063,
+        "Performance": 1036
+    },
+    {
+        "key": "tianhangj",
+        "Rank": 484,
+        "RankIndex": 484,
+        "UserScreenName": "tianhangj",
+        "Score": 6592374200,
+        "SubmissionId": 32956444,
+        "Performance": 1034
+    },
+    {
+        "key": "daut",
+        "Rank": 485,
+        "RankIndex": 485,
+        "UserScreenName": "daut",
+        "Score": 6589757700,
+        "SubmissionId": 32955478,
+        "Performance": 1032
+    },
+    {
+        "key": "Bay",
+        "Rank": 486,
+        "RankIndex": 486,
+        "UserScreenName": "Bay",
+        "Score": 6586260600,
+        "SubmissionId": 32954574,
+        "Performance": 1030
+    },
+    {
+        "key": "ke_beck",
+        "Rank": 487,
+        "RankIndex": 487,
+        "UserScreenName": "ke_beck",
+        "Score": 6569677100,
+        "SubmissionId": 32962170,
+        "Performance": 1029
+    },
+    {
+        "key": "Zendy",
+        "Rank": 488,
+        "RankIndex": 488,
+        "UserScreenName": "Zendy",
+        "Score": 6544534300,
+        "SubmissionId": 32960917,
+        "Performance": 1027
+    },
+    {
+        "key": "samoshi",
+        "Rank": 489,
+        "RankIndex": 489,
+        "UserScreenName": "samoshi",
+        "Score": 6543559000,
+        "SubmissionId": 32961704,
+        "Performance": 1025
+    },
+    {
+        "key": "dokaraya",
+        "Rank": 490,
+        "RankIndex": 490,
+        "UserScreenName": "dokaraya",
+        "Score": 6536058500,
+        "SubmissionId": 32960009,
+        "Performance": 1023
+    },
+    {
+        "key": "NeoNuc2001",
+        "Rank": 491,
+        "RankIndex": 491,
+        "UserScreenName": "NeoNuc2001",
+        "Score": 6523489200,
+        "SubmissionId": 32962411,
+        "Performance": 1021
+    },
+    {
+        "key": "scol",
+        "Rank": 492,
+        "RankIndex": 492,
+        "UserScreenName": "scol",
+        "Score": 6518251100,
+        "SubmissionId": 32961922,
+        "Performance": 1019
+    },
+    {
+        "key": "Dkobayashl",
+        "Rank": 493,
+        "RankIndex": 493,
+        "UserScreenName": "Dkobayashl",
+        "Score": 6502881300,
+        "SubmissionId": 32959745,
+        "Performance": 1017
+    },
+    {
+        "key": "hima398",
+        "Rank": 494,
+        "RankIndex": 494,
+        "UserScreenName": "hima398",
+        "Score": 6493347000,
+        "SubmissionId": 32962742,
+        "Performance": 1015
+    },
+    {
+        "key": "AiletS",
+        "Rank": 495,
+        "RankIndex": 495,
+        "UserScreenName": "AiletS",
+        "Score": 6474255700,
+        "SubmissionId": 32957573,
+        "Performance": 1014
+    },
+    {
+        "key": "fujikawahiroaki",
+        "Rank": 496,
+        "RankIndex": 496,
+        "UserScreenName": "fujikawahiroaki",
+        "Score": 6471679100,
+        "SubmissionId": 32962273,
+        "Performance": 1012
+    },
+    {
+        "key": "Darkness",
+        "Rank": 497,
+        "RankIndex": 497,
+        "UserScreenName": "Darkness",
+        "Score": 6440665100,
+        "SubmissionId": 32957937,
+        "Performance": 1010
+    },
+    {
+        "key": "yuliicppy",
+        "Rank": 498,
+        "RankIndex": 498,
+        "UserScreenName": "yuliicppy",
+        "Score": 6426852200,
+        "SubmissionId": 32961182,
+        "Performance": 1008
+    },
+    {
+        "key": "smail88",
+        "Rank": 499,
+        "RankIndex": 499,
+        "UserScreenName": "smail88",
+        "Score": 6406856600,
+        "SubmissionId": 32957368,
+        "Performance": 1006
+    },
+    {
+        "key": "a01sa01to",
+        "Rank": 500,
+        "RankIndex": 500,
+        "UserScreenName": "a01sa01to",
+        "Score": 6382317600,
+        "SubmissionId": 32955058,
+        "Performance": 1004
+    },
+    {
+        "key": "shinsatt",
+        "Rank": 501,
+        "RankIndex": 501,
+        "UserScreenName": "shinsatt",
+        "Score": 6367790500,
+        "SubmissionId": 32962019,
+        "Performance": 1002
+    },
+    {
+        "key": "hiraku",
+        "Rank": 502,
+        "RankIndex": 502,
+        "UserScreenName": "hiraku",
+        "Score": 6348957300,
+        "SubmissionId": 32956698,
+        "Performance": 1000
+    },
+    {
+        "key": "strangerxxx",
+        "Rank": 503,
+        "RankIndex": 503,
+        "UserScreenName": "strangerxxx",
+        "Score": 6347409700,
+        "SubmissionId": 32962688,
+        "Performance": 998
+    },
+    {
+        "key": "pixy",
+        "Rank": 504,
+        "RankIndex": 504,
+        "UserScreenName": "pixy",
+        "Score": 6340756300,
+        "SubmissionId": 32955998,
+        "Performance": 997
+    },
+    {
+        "key": "nhoriguchi",
+        "Rank": 505,
+        "RankIndex": 505,
+        "UserScreenName": "nhoriguchi",
+        "Score": 6316451800,
+        "SubmissionId": 32958467,
+        "Performance": 995
+    },
+    {
+        "key": "tfuji",
+        "Rank": 506,
+        "RankIndex": 506,
+        "UserScreenName": "tfuji",
+        "Score": 6311523200,
+        "SubmissionId": 32961614,
+        "Performance": 993
+    },
+    {
+        "key": "nnnSMM",
+        "Rank": 507,
+        "RankIndex": 507,
+        "UserScreenName": "nnnSMM",
+        "Score": 6307770100,
+        "SubmissionId": 32958583,
+        "Performance": 991
+    },
+    {
+        "key": "unsre",
+        "Rank": 508,
+        "RankIndex": 508,
+        "UserScreenName": "unsre",
+        "Score": 6303668400,
+        "SubmissionId": 32955598,
+        "Performance": 989
+    },
+    {
+        "key": "RMiyazaki",
+        "Rank": 509,
+        "RankIndex": 509,
+        "UserScreenName": "RMiyazaki",
+        "Score": 6298492500,
+        "SubmissionId": 32962947,
+        "Performance": 987
+    },
+    {
+        "key": "phspls",
+        "Rank": 510,
+        "RankIndex": 510,
+        "UserScreenName": "phspls",
+        "Score": 6280292200,
+        "SubmissionId": 32958713,
+        "Performance": 985
+    },
+    {
+        "key": "Hattori8536",
+        "Rank": 511,
+        "RankIndex": 511,
+        "UserScreenName": "Hattori8536",
+        "Score": 6274609200,
+        "SubmissionId": 32962740,
+        "Performance": 983
+    },
+    {
+        "key": "Akari__",
+        "Rank": 512,
+        "RankIndex": 512,
+        "UserScreenName": "Akari__",
+        "Score": 6274397100,
+        "SubmissionId": 32957386,
+        "Performance": 981
+    },
+    {
+        "key": "ka",
+        "Rank": 513,
+        "RankIndex": 513,
+        "UserScreenName": "ka",
+        "Score": 6267223500,
+        "SubmissionId": 32959475,
+        "Performance": 979
+    },
+    {
+        "key": "RedyYuh",
+        "Rank": 514,
+        "RankIndex": 514,
+        "UserScreenName": "RedyYuh",
+        "Score": 6256926900,
+        "SubmissionId": 32961220,
+        "Performance": 977
+    },
+    {
+        "key": "recososo",
+        "Rank": 515,
+        "RankIndex": 515,
+        "UserScreenName": "recososo",
+        "Score": 6244717900,
+        "SubmissionId": 32957027,
+        "Performance": 976
+    },
+    {
+        "key": "kzyKT",
+        "Rank": 516,
+        "RankIndex": 516,
+        "UserScreenName": "kzyKT",
+        "Score": 6243930200,
+        "SubmissionId": 32953126,
+        "Performance": 974
+    },
+    {
+        "key": "wattaihei",
+        "Rank": 517,
+        "RankIndex": 517,
+        "UserScreenName": "wattaihei",
+        "Score": 6240214000,
+        "SubmissionId": 32962158,
+        "Performance": 972
+    },
+    {
+        "key": "haj1me",
+        "Rank": 518,
+        "RankIndex": 518,
+        "UserScreenName": "haj1me",
+        "Score": 6235022700,
+        "SubmissionId": 32955727,
+        "Performance": 970
+    },
+    {
+        "key": "MaudPie",
+        "Rank": 519,
+        "RankIndex": 519,
+        "UserScreenName": "MaudPie",
+        "Score": 6233621100,
+        "SubmissionId": 32959879,
+        "Performance": 968
+    },
+    {
+        "key": "zssa",
+        "Rank": 520,
+        "RankIndex": 520,
+        "UserScreenName": "zssa",
+        "Score": 6225588900,
+        "SubmissionId": 32960936,
+        "Performance": 966
+    },
+    {
+        "key": "olphe",
+        "Rank": 521,
+        "RankIndex": 521,
+        "UserScreenName": "olphe",
+        "Score": 6223347400,
+        "SubmissionId": 32956883,
+        "Performance": 964
+    },
+    {
+        "key": "tassei903",
+        "Rank": 522,
+        "RankIndex": 522,
+        "UserScreenName": "tassei903",
+        "Score": 6193623500,
+        "SubmissionId": 32954249,
+        "Performance": 962
+    },
+    {
+        "key": "katsudon421",
+        "Rank": 523,
+        "RankIndex": 523,
+        "UserScreenName": "katsudon421",
+        "Score": 6163489900,
+        "SubmissionId": 32962936,
+        "Performance": 960
+    },
+    {
+        "key": "houren",
+        "Rank": 524,
+        "RankIndex": 524,
+        "UserScreenName": "houren",
+        "Score": 6156022700,
+        "SubmissionId": 32962177,
+        "Performance": 958
+    },
+    {
+        "key": "ttttan",
+        "Rank": 525,
+        "RankIndex": 525,
+        "UserScreenName": "ttttan",
+        "Score": 6145689100,
+        "SubmissionId": 32962736,
+        "Performance": 956
+    },
+    {
+        "key": "K_K_",
+        "Rank": 526,
+        "RankIndex": 526,
+        "UserScreenName": "K_K_",
+        "Score": 6137289500,
+        "SubmissionId": 32962619,
+        "Performance": 954
+    },
+    {
+        "key": "noya2",
+        "Rank": 527,
+        "RankIndex": 527,
+        "UserScreenName": "noya2",
+        "Score": 6115148100,
+        "SubmissionId": 32955583,
+        "Performance": 952
+    },
+    {
+        "key": "yukipom",
+        "Rank": 528,
+        "RankIndex": 528,
+        "UserScreenName": "yukipom",
+        "Score": 6113070600,
+        "SubmissionId": 32963118,
+        "Performance": 950
+    },
+    {
+        "key": "yasuand",
+        "Rank": 529,
+        "RankIndex": 529,
+        "UserScreenName": "yasuand",
+        "Score": 6105022500,
+        "SubmissionId": 32958278,
+        "Performance": 948
+    },
+    {
+        "key": "Shibuyap",
+        "Rank": 530,
+        "RankIndex": 530,
+        "UserScreenName": "Shibuyap",
+        "Score": 6104723100,
+        "SubmissionId": 32954307,
+        "Performance": 946
+    },
+    {
+        "key": "rif_c",
+        "Rank": 531,
+        "RankIndex": 531,
+        "UserScreenName": "rif_c",
+        "Score": 6097917700,
+        "SubmissionId": 32956593,
+        "Performance": 944
+    },
+    {
+        "key": "terrafarm",
+        "Rank": 532,
+        "RankIndex": 532,
+        "UserScreenName": "terrafarm",
+        "Score": 6096202100,
+        "SubmissionId": 32959095,
+        "Performance": 942
+    },
+    {
+        "key": "tabr",
+        "Rank": 533,
+        "RankIndex": 533,
+        "UserScreenName": "tabr",
+        "Score": 6095432000,
+        "SubmissionId": 32956367,
+        "Performance": 940
+    },
+    {
+        "key": "ripity",
+        "Rank": 534,
+        "RankIndex": 534,
+        "UserScreenName": "ripity",
+        "Score": 6089374700,
+        "SubmissionId": 32955040,
+        "Performance": 938
+    },
+    {
+        "key": "sword060",
+        "Rank": 535,
+        "RankIndex": 535,
+        "UserScreenName": "sword060",
+        "Score": 6087064000,
+        "SubmissionId": 32959962,
+        "Performance": 936
+    },
+    {
+        "key": "toyko",
+        "Rank": 536,
+        "RankIndex": 536,
+        "UserScreenName": "toyko",
+        "Score": 6083697100,
+        "SubmissionId": 32956030,
+        "Performance": 934
+    },
+    {
+        "key": "daiju",
+        "Rank": 537,
+        "RankIndex": 537,
+        "UserScreenName": "daiju",
+        "Score": 6083067000,
+        "SubmissionId": 32957656,
+        "Performance": 932
+    },
+    {
+        "key": "rsypoz",
+        "Rank": 538,
+        "RankIndex": 538,
+        "UserScreenName": "rsypoz",
+        "Score": 6077710000,
+        "SubmissionId": 32955770,
+        "Performance": 930
+    },
+    {
+        "key": "apth",
+        "Rank": 539,
+        "RankIndex": 539,
+        "UserScreenName": "apth",
+        "Score": 6074223600,
+        "SubmissionId": 32957561,
+        "Performance": 928
+    },
+    {
+        "key": "satoshi_f",
+        "Rank": 540,
+        "RankIndex": 540,
+        "UserScreenName": "satoshi_f",
+        "Score": 6068549200,
+        "SubmissionId": 32954367,
+        "Performance": 926
+    },
+    {
+        "key": "manta1130",
+        "Rank": 541,
+        "RankIndex": 541,
+        "UserScreenName": "manta1130",
+        "Score": 6065735600,
+        "SubmissionId": 32954558,
+        "Performance": 924
+    },
+    {
+        "key": "kenta2997",
+        "Rank": 542,
+        "RankIndex": 542,
+        "UserScreenName": "kenta2997",
+        "Score": 6064422500,
+        "SubmissionId": 32959476,
+        "Performance": 922
+    },
+    {
+        "key": "IlIlI",
+        "Rank": 543,
+        "RankIndex": 543,
+        "UserScreenName": "IlIlI",
+        "Score": 6062603400,
+        "SubmissionId": 32962237,
+        "Performance": 920
+    },
+    {
+        "key": "TAB",
+        "Rank": 544,
+        "RankIndex": 544,
+        "UserScreenName": "TAB",
+        "Score": 6061471300,
+        "SubmissionId": 32960899,
+        "Performance": 918
+    },
+    {
+        "key": "Manuel1024",
+        "Rank": 545,
+        "RankIndex": 545,
+        "UserScreenName": "Manuel1024",
+        "Score": 6057759000,
+        "SubmissionId": 32960630,
+        "Performance": 916
+    },
+    {
+        "key": "keserasera_77",
+        "Rank": 546,
+        "RankIndex": 546,
+        "UserScreenName": "keserasera_77",
+        "Score": 6055538900,
+        "SubmissionId": 32962956,
+        "Performance": 914
+    },
+    {
+        "key": "rlangevin",
+        "Rank": 547,
+        "RankIndex": 547,
+        "UserScreenName": "rlangevin",
+        "Score": 6048012000,
+        "SubmissionId": 32955266,
+        "Performance": 912
+    },
+    {
+        "key": "carrot46",
+        "Rank": 548,
+        "RankIndex": 548,
+        "UserScreenName": "carrot46",
+        "Score": 6042434800,
+        "SubmissionId": 32962701,
+        "Performance": 910
+    },
+    {
+        "key": "RyukiTwit",
+        "Rank": 549,
+        "RankIndex": 549,
+        "UserScreenName": "RyukiTwit",
+        "Score": 6036769000,
+        "SubmissionId": 32962268,
+        "Performance": 908
+    },
+    {
+        "key": "miya145592",
+        "Rank": 550,
+        "RankIndex": 550,
+        "UserScreenName": "miya145592",
+        "Score": 6030748800,
+        "SubmissionId": 32962082,
+        "Performance": 906
+    },
+    {
+        "key": "2bit",
+        "Rank": 551,
+        "RankIndex": 551,
+        "UserScreenName": "2bit",
+        "Score": 6029035800,
+        "SubmissionId": 32961960,
+        "Performance": 904
+    },
+    {
+        "key": "hiro_hiro",
+        "Rank": 552,
+        "RankIndex": 552,
+        "UserScreenName": "hiro_hiro",
+        "Score": 6027545800,
+        "SubmissionId": 32955386,
+        "Performance": 902
+    },
+    {
+        "key": "All3",
+        "Rank": 553,
+        "RankIndex": 553,
+        "UserScreenName": "All3",
+        "Score": 6025802900,
+        "SubmissionId": 32960975,
+        "Performance": 900
+    },
+    {
+        "key": "polyester",
+        "Rank": 554,
+        "RankIndex": 554,
+        "UserScreenName": "polyester",
+        "Score": 6021364500,
+        "SubmissionId": 32957102,
+        "Performance": 898
+    },
+    {
+        "key": "gara_gara",
+        "Rank": 555,
+        "RankIndex": 555,
+        "UserScreenName": "gara_gara",
+        "Score": 6016928500,
+        "SubmissionId": 32962229,
+        "Performance": 896
+    },
+    {
+        "key": "kinugoshi8928",
+        "Rank": 556,
+        "RankIndex": 556,
+        "UserScreenName": "kinugoshi8928",
+        "Score": 6008893200,
+        "SubmissionId": 32962661,
+        "Performance": 894
+    },
+    {
+        "key": "sushiking",
+        "Rank": 557,
+        "RankIndex": 557,
+        "UserScreenName": "sushiking",
+        "Score": 6006897800,
+        "SubmissionId": 32960263,
+        "Performance": 892
+    },
+    {
+        "key": "oyaki",
+        "Rank": 558,
+        "RankIndex": 558,
+        "UserScreenName": "oyaki",
+        "Score": 6003057200,
+        "SubmissionId": 32956483,
+        "Performance": 890
+    },
+    {
+        "key": "zugogo",
+        "Rank": 559,
+        "RankIndex": 559,
+        "UserScreenName": "zugogo",
+        "Score": 5991639100,
+        "SubmissionId": 32960440,
+        "Performance": 887
+    },
+    {
+        "key": "harmokey",
+        "Rank": 560,
+        "RankIndex": 560,
+        "UserScreenName": "harmokey",
+        "Score": 5989811000,
+        "SubmissionId": 32962115,
+        "Performance": 885
+    },
+    {
+        "key": "fmfm",
+        "Rank": 561,
+        "RankIndex": 561,
+        "UserScreenName": "fmfm",
+        "Score": 5988808900,
+        "SubmissionId": 32962519,
+        "Performance": 883
+    },
+    {
+        "key": "Fideow",
+        "Rank": 562,
+        "RankIndex": 562,
+        "UserScreenName": "Fideow",
+        "Score": 5984844400,
+        "SubmissionId": 32955709,
+        "Performance": 881
+    },
+    {
+        "key": "Higurashi",
+        "Rank": 563,
+        "RankIndex": 563,
+        "UserScreenName": "Higurashi",
+        "Score": 5963561700,
+        "SubmissionId": 32953877,
+        "Performance": 879
+    },
+    {
+        "key": "tombo314",
+        "Rank": 564,
+        "RankIndex": 564,
+        "UserScreenName": "tombo314",
+        "Score": 5963186700,
+        "SubmissionId": 32954495,
+        "Performance": 877
+    },
+    {
+        "key": "JIOJI",
+        "Rank": 565,
+        "RankIndex": 565,
+        "UserScreenName": "JIOJI",
+        "Score": 5963014600,
+        "SubmissionId": 32956478,
+        "Performance": 875
+    },
+    {
+        "key": "Feecle6418",
+        "Rank": 566,
+        "RankIndex": 566,
+        "UserScreenName": "Feecle6418",
+        "Score": 5960443600,
+        "SubmissionId": 32953811,
+        "Performance": 873
+    },
+    {
+        "key": "lemongrass",
+        "Rank": 567,
+        "RankIndex": 567,
+        "UserScreenName": "lemongrass",
+        "Score": 5957651600,
+        "SubmissionId": 32962473,
+        "Performance": 870
+    },
+    {
+        "key": "Koju",
+        "Rank": 568,
+        "RankIndex": 568,
+        "UserScreenName": "Koju",
+        "Score": 5957099000,
+        "SubmissionId": 32959342,
+        "Performance": 868
+    },
+    {
+        "key": "gue",
+        "Rank": 569,
+        "RankIndex": 569,
+        "UserScreenName": "gue",
+        "Score": 5955936000,
+        "SubmissionId": 32954196,
+        "Performance": 866
+    },
+    {
+        "key": "kolomigor",
+        "Rank": 570,
+        "RankIndex": 570,
+        "UserScreenName": "kolomigor",
+        "Score": 5954613900,
+        "SubmissionId": 32957498,
+        "Performance": 864
+    },
+    {
+        "key": "hajimeen",
+        "Rank": 571,
+        "RankIndex": 571,
+        "UserScreenName": "hajimeen",
+        "Score": 5950862500,
+        "SubmissionId": 32960846,
+        "Performance": 862
+    },
+    {
+        "key": "fujiyama",
+        "Rank": 572,
+        "RankIndex": 572,
+        "UserScreenName": "fujiyama",
+        "Score": 5950651600,
+        "SubmissionId": 32959255,
+        "Performance": 860
+    },
+    {
+        "key": "Rinshanone",
+        "Rank": 573,
+        "RankIndex": 573,
+        "UserScreenName": "Rinshanone",
+        "Score": 5948416200,
+        "SubmissionId": 32960600,
+        "Performance": 858
+    },
+    {
+        "key": "sakuramochi1239",
+        "Rank": 574,
+        "RankIndex": 574,
+        "UserScreenName": "sakuramochi1239",
+        "Score": 5944694300,
+        "SubmissionId": 32961241,
+        "Performance": 855
+    },
+    {
+        "key": "kimura1821",
+        "Rank": 575,
+        "RankIndex": 575,
+        "UserScreenName": "kimura1821",
+        "Score": 5940665300,
+        "SubmissionId": 32963027,
+        "Performance": 853
+    },
+    {
+        "key": "viral",
+        "Rank": 576,
+        "RankIndex": 576,
+        "UserScreenName": "viral",
+        "Score": 5935948600,
+        "SubmissionId": 32962795,
+        "Performance": 851
+    },
+    {
+        "key": "kanikama038",
+        "Rank": 577,
+        "RankIndex": 577,
+        "UserScreenName": "kanikama038",
+        "Score": 5935435400,
+        "SubmissionId": 32962621,
+        "Performance": 849
+    },
+    {
+        "key": "Roastedtoast",
+        "Rank": 578,
+        "RankIndex": 578,
+        "UserScreenName": "Roastedtoast",
+        "Score": 5932851200,
+        "SubmissionId": 32953066,
+        "Performance": 847
+    },
+    {
+        "key": "Dr__Gilbert",
+        "Rank": 579,
+        "RankIndex": 579,
+        "UserScreenName": "Dr__Gilbert",
+        "Score": 5929023800,
+        "SubmissionId": 32954937,
+        "Performance": 844
+    },
+    {
+        "key": "SMDTU",
+        "Rank": 580,
+        "RankIndex": 580,
+        "UserScreenName": "SMDTU",
+        "Score": 5927042100,
+        "SubmissionId": 32954522,
+        "Performance": 842
+    },
+    {
+        "key": "nakayu22",
+        "Rank": 581,
+        "RankIndex": 581,
+        "UserScreenName": "nakayu22",
+        "Score": 5922947900,
+        "SubmissionId": 32953778,
+        "Performance": 840
+    },
+    {
+        "key": "ludereventus",
+        "Rank": 582,
+        "RankIndex": 582,
+        "UserScreenName": "ludereventus",
+        "Score": 5922112200,
+        "SubmissionId": 32953776,
+        "Performance": 838
+    },
+    {
+        "key": "ma2AtC",
+        "Rank": 583,
+        "RankIndex": 583,
+        "UserScreenName": "ma2AtC",
+        "Score": 5920726600,
+        "SubmissionId": 32962576,
+        "Performance": 835
+    },
+    {
+        "key": "hira0404",
+        "Rank": 584,
+        "RankIndex": 584,
+        "UserScreenName": "hira0404",
+        "Score": 5914801600,
+        "SubmissionId": 32962914,
+        "Performance": 833
+    },
+    {
+        "key": "shiro46mt",
+        "Rank": 585,
+        "RankIndex": 585,
+        "UserScreenName": "shiro46mt",
+        "Score": 5910288000,
+        "SubmissionId": 32960212,
+        "Performance": 831
+    },
+    {
+        "key": "siyuan",
+        "Rank": 586,
+        "RankIndex": 586,
+        "UserScreenName": "siyuan",
+        "Score": 5906304200,
+        "SubmissionId": 32959557,
+        "Performance": 829
+    },
+    {
+        "key": "tks3141",
+        "Rank": 587,
+        "RankIndex": 587,
+        "UserScreenName": "tks3141",
+        "Score": 5904580000,
+        "SubmissionId": 32963072,
+        "Performance": 826
+    },
+    {
+        "key": "Yuulis",
+        "Rank": 588,
+        "RankIndex": 588,
+        "UserScreenName": "Yuulis",
+        "Score": 5900960800,
+        "SubmissionId": 32953284,
+        "Performance": 824
+    },
+    {
+        "key": "Colorlessx7",
+        "Rank": 589,
+        "RankIndex": 589,
+        "UserScreenName": "Colorlessx7",
+        "Score": 5894380100,
+        "SubmissionId": 32953590,
+        "Performance": 822
+    },
+    {
+        "key": "mifu",
+        "Rank": 590,
+        "RankIndex": 590,
+        "UserScreenName": "mifu",
+        "Score": 5887454400,
+        "SubmissionId": 32959096,
+        "Performance": 819
+    },
+    {
+        "key": "Ushiiin",
+        "Rank": 591,
+        "RankIndex": 591,
+        "UserScreenName": "Ushiiin",
+        "Score": 5873266700,
+        "SubmissionId": 32959248,
+        "Performance": 817
+    },
+    {
+        "key": "blast3",
+        "Rank": 592,
+        "RankIndex": 592,
+        "UserScreenName": "blast3",
+        "Score": 5871672800,
+        "SubmissionId": 32959637,
+        "Performance": 815
+    },
+    {
+        "key": "rnishiura",
+        "Rank": 593,
+        "RankIndex": 593,
+        "UserScreenName": "rnishiura",
+        "Score": 5863458900,
+        "SubmissionId": 32962607,
+        "Performance": 813
+    },
+    {
+        "key": "megumish",
+        "Rank": 594,
+        "RankIndex": 594,
+        "UserScreenName": "megumish",
+        "Score": 5855679300,
+        "SubmissionId": 32961954,
+        "Performance": 810
+    },
+    {
+        "key": "pisces",
+        "Rank": 595,
+        "RankIndex": 595,
+        "UserScreenName": "pisces",
+        "Score": 5851801000,
+        "SubmissionId": 32954772,
+        "Performance": 808
+    },
+    {
+        "key": "okapin",
+        "Rank": 596,
+        "RankIndex": 596,
+        "UserScreenName": "okapin",
+        "Score": 5843034200,
+        "SubmissionId": 32962064,
+        "Performance": 806
+    },
+    {
+        "key": "nnfnameko",
+        "Rank": 597,
+        "RankIndex": 597,
+        "UserScreenName": "nnfnameko",
+        "Score": 5822277900,
+        "SubmissionId": 32955064,
+        "Performance": 803
+    },
+    {
+        "key": "Auk10",
+        "Rank": 598,
+        "RankIndex": 598,
+        "UserScreenName": "Auk10",
+        "Score": 5819247300,
+        "SubmissionId": 32953715,
+        "Performance": 801
+    },
+    {
+        "key": "SI_AtCoder",
+        "Rank": 599,
+        "RankIndex": 599,
+        "UserScreenName": "SI_AtCoder",
+        "Score": 5810444100,
+        "SubmissionId": 32958146,
+        "Performance": 798
+    },
+    {
+        "key": "mikecat",
+        "Rank": 600,
+        "RankIndex": 600,
+        "UserScreenName": "mikecat",
+        "Score": 5807832900,
+        "SubmissionId": 32961399,
+        "Performance": 796
+    },
+    {
+        "key": "komo_fr",
+        "Rank": 601,
+        "RankIndex": 601,
+        "UserScreenName": "komo_fr",
+        "Score": 5790568800,
+        "SubmissionId": 32954419,
+        "Performance": 794
+    },
+    {
+        "key": "ainem",
+        "Rank": 602,
+        "RankIndex": 602,
+        "UserScreenName": "ainem",
+        "Score": 5789568100,
+        "SubmissionId": 32953117,
+        "Performance": 791
+    },
+    {
+        "key": "OjiCoder",
+        "Rank": 603,
+        "RankIndex": 603,
+        "UserScreenName": "OjiCoder",
+        "Score": 5746558100,
+        "SubmissionId": 32961574,
+        "Performance": 789
+    },
+    {
+        "key": "takuw09",
+        "Rank": 604,
+        "RankIndex": 604,
+        "UserScreenName": "takuw09",
+        "Score": 5711015300,
+        "SubmissionId": 32954521,
+        "Performance": 786
+    },
+    {
+        "key": "STInverSpinel",
+        "Rank": 605,
+        "RankIndex": 605,
+        "UserScreenName": "STInverSpinel",
+        "Score": 5703548600,
+        "SubmissionId": 32955782,
+        "Performance": 784
+    },
+    {
+        "key": "rasennn",
+        "Rank": 606,
+        "RankIndex": 606,
+        "UserScreenName": "rasennn",
+        "Score": 5691665800,
+        "SubmissionId": 32953791,
+        "Performance": 782
+    },
+    {
+        "key": "hayabusa286",
+        "Rank": 607,
+        "RankIndex": 607,
+        "UserScreenName": "hayabusa286",
+        "Score": 5670300600,
+        "SubmissionId": 32957621,
+        "Performance": 779
+    },
+    {
+        "key": "zeutel",
+        "Rank": 608,
+        "RankIndex": 608,
+        "UserScreenName": "zeutel",
+        "Score": 5665426900,
+        "SubmissionId": 32955057,
+        "Performance": 777
+    },
+    {
+        "key": "Capo",
+        "Rank": 609,
+        "RankIndex": 609,
+        "UserScreenName": "Capo",
+        "Score": 5588082100,
+        "SubmissionId": 32959463,
+        "Performance": 774
+    },
+    {
+        "key": "mi_ya",
+        "Rank": 610,
+        "RankIndex": 610,
+        "UserScreenName": "mi_ya",
+        "Score": 5543387300,
+        "SubmissionId": 32956436,
+        "Performance": 772
+    },
+    {
+        "key": "ninninnin",
+        "Rank": 611,
+        "RankIndex": 611,
+        "UserScreenName": "ninninnin",
+        "Score": 5535620900,
+        "SubmissionId": 32955631,
+        "Performance": 769
+    },
+    {
+        "key": "akinyan",
+        "Rank": 612,
+        "RankIndex": 612,
+        "UserScreenName": "akinyan",
+        "Score": 5497466900,
+        "SubmissionId": 32958320,
+        "Performance": 767
+    },
+    {
+        "key": "abhishekmohite",
+        "Rank": 613,
+        "RankIndex": 613,
+        "UserScreenName": "abhishekmohite",
+        "Score": 5488361400,
+        "SubmissionId": 32959300,
+        "Performance": 764
+    },
+    {
+        "key": "kanade_FELT",
+        "Rank": 614,
+        "RankIndex": 614,
+        "UserScreenName": "kanade_FELT",
+        "Score": 5427656500,
+        "SubmissionId": 32954404,
+        "Performance": 762
+    },
+    {
+        "key": "pitP",
+        "Rank": 615,
+        "RankIndex": 615,
+        "UserScreenName": "pitP",
+        "Score": 5405233500,
+        "SubmissionId": 32954173,
+        "Performance": 759
+    },
+    {
+        "key": "Itta",
+        "Rank": 616,
+        "RankIndex": 616,
+        "UserScreenName": "Itta",
+        "Score": 5349911300,
+        "SubmissionId": 32955243,
+        "Performance": 757
+    },
+    {
+        "key": "esirom",
+        "Rank": 617,
+        "RankIndex": 617,
+        "UserScreenName": "esirom",
+        "Score": 5349911300,
+        "SubmissionId": 32956246,
+        "Performance": 754
+    },
+    {
+        "key": "Reuven",
+        "Rank": 618,
+        "RankIndex": 618,
+        "UserScreenName": "Reuven",
+        "Score": 5267711400,
+        "SubmissionId": 32958607,
+        "Performance": 751
+    },
+    {
+        "key": "gmmtea",
+        "Rank": 619,
+        "RankIndex": 619,
+        "UserScreenName": "gmmtea",
+        "Score": 5237043600,
+        "SubmissionId": 32961713,
+        "Performance": 749
+    },
+    {
+        "key": "Koki_tkg",
+        "Rank": 620,
+        "RankIndex": 620,
+        "UserScreenName": "Koki_tkg",
+        "Score": 5223272900,
+        "SubmissionId": 32956506,
+        "Performance": 746
+    },
+    {
+        "key": "CodingKnight",
+        "Rank": 621,
+        "RankIndex": 621,
+        "UserScreenName": "CodingKnight",
+        "Score": 5170686900,
+        "SubmissionId": 32957883,
+        "Performance": 744
+    },
+    {
+        "key": "k_tsge",
+        "Rank": 622,
+        "RankIndex": 622,
+        "UserScreenName": "k_tsge",
+        "Score": 5118414500,
+        "SubmissionId": 32959313,
+        "Performance": 741
+    },
+    {
+        "key": "Nikkuniku029",
+        "Rank": 623,
+        "RankIndex": 623,
+        "UserScreenName": "Nikkuniku029",
+        "Score": 5105122800,
+        "SubmissionId": 32954573,
+        "Performance": 738
+    },
+    {
+        "key": "toriten",
+        "Rank": 624,
+        "RankIndex": 624,
+        "UserScreenName": "toriten",
+        "Score": 5091979900,
+        "SubmissionId": 32953996,
+        "Performance": 736
+    },
+    {
+        "key": "yadorann24",
+        "Rank": 625,
+        "RankIndex": 625,
+        "UserScreenName": "yadorann24",
+        "Score": 4949658400,
+        "SubmissionId": 32962448,
+        "Performance": 733
+    },
+    {
+        "key": "hanagee",
+        "Rank": 626,
+        "RankIndex": 626,
+        "UserScreenName": "hanagee",
+        "Score": 4918189000,
+        "SubmissionId": 32953154,
+        "Performance": 730
+    },
+    {
+        "key": "nakashiii",
+        "Rank": 627,
+        "RankIndex": 627,
+        "UserScreenName": "nakashiii",
+        "Score": 4913331000,
+        "SubmissionId": 32961987,
+        "Performance": 728
+    },
+    {
+        "key": "Ranger_CW",
+        "Rank": 628,
+        "RankIndex": 628,
+        "UserScreenName": "Ranger_CW",
+        "Score": 4819269700,
+        "SubmissionId": 32953297,
+        "Performance": 725
+    },
+    {
+        "key": "shirobi0208",
+        "Rank": 629,
+        "RankIndex": 629,
+        "UserScreenName": "shirobi0208",
+        "Score": 4817620100,
+        "SubmissionId": 32958020,
+        "Performance": 722
+    },
+    {
+        "key": "Ertz",
+        "Rank": 630,
+        "RankIndex": 630,
+        "UserScreenName": "Ertz",
+        "Score": 4779434900,
+        "SubmissionId": 32962471,
+        "Performance": 720
+    },
+    {
+        "key": "namakoispcgod",
+        "Rank": 631,
+        "RankIndex": 631,
+        "UserScreenName": "namakoispcgod",
+        "Score": 4607064800,
+        "SubmissionId": 32954165,
+        "Performance": 717
+    },
+    {
+        "key": "nyya",
+        "Rank": 632,
+        "RankIndex": 632,
+        "UserScreenName": "nyya",
+        "Score": 4566690600,
+        "SubmissionId": 32961764,
+        "Performance": 714
+    },
+    {
+        "key": "sepa_38",
+        "Rank": 633,
+        "RankIndex": 633,
+        "UserScreenName": "sepa_38",
+        "Score": 4512167700,
+        "SubmissionId": 32956511,
+        "Performance": 711
+    },
+    {
+        "key": "qwertyam",
+        "Rank": 634,
+        "RankIndex": 634,
+        "UserScreenName": "qwertyam",
+        "Score": 4426667000,
+        "SubmissionId": 32961318,
+        "Performance": 708
+    },
+    {
+        "key": "mikeneko09",
+        "Rank": 635,
+        "RankIndex": 635,
+        "UserScreenName": "mikeneko09",
+        "Score": 4362874900,
+        "SubmissionId": 32953782,
+        "Performance": 706
+    },
+    {
+        "key": "dotstar",
+        "Rank": 636,
+        "RankIndex": 636,
+        "UserScreenName": "dotstar",
+        "Score": 4350177100,
+        "SubmissionId": 32960034,
+        "Performance": 703
+    },
+    {
+        "key": "tnodino",
+        "Rank": 637,
+        "RankIndex": 637,
+        "UserScreenName": "tnodino",
+        "Score": 4311875900,
+        "SubmissionId": 32952997,
+        "Performance": 700
+    },
+    {
+        "key": "miau",
+        "Rank": 638,
+        "RankIndex": 638,
+        "UserScreenName": "miau",
+        "Score": 4280351800,
+        "SubmissionId": 32955136,
+        "Performance": 697
+    },
+    {
+        "key": "u_kun",
+        "Rank": 639,
+        "RankIndex": 639,
+        "UserScreenName": "u_kun",
+        "Score": 4211150400,
+        "SubmissionId": 32954358,
+        "Performance": 694
+    },
+    {
+        "key": "Anthony1009",
+        "Rank": 640,
+        "RankIndex": 640,
+        "UserScreenName": "Anthony1009",
+        "Score": 3946246500,
+        "SubmissionId": 32953704,
+        "Performance": 691
+    },
+    {
+        "key": "rinrion",
+        "Rank": 641,
+        "RankIndex": 641,
+        "UserScreenName": "rinrion",
+        "Score": 3908360800,
+        "SubmissionId": 32960168,
+        "Performance": 688
+    },
+    {
+        "key": "sakata1222",
+        "Rank": 642,
+        "RankIndex": 642,
+        "UserScreenName": "sakata1222",
+        "Score": 3863407500,
+        "SubmissionId": 32962091,
+        "Performance": 685
+    },
+    {
+        "key": "fact493",
+        "Rank": 643,
+        "RankIndex": 643,
+        "UserScreenName": "fact493",
+        "Score": 3655284600,
+        "SubmissionId": 32953267,
+        "Performance": 682
+    },
+    {
+        "key": "w0t0",
+        "Rank": 644,
+        "RankIndex": 644,
+        "UserScreenName": "w0t0",
+        "Score": 3615346300,
+        "SubmissionId": 32960861,
+        "Performance": 680
+    },
+    {
+        "key": "isseimori",
+        "Rank": 645,
+        "RankIndex": 645,
+        "UserScreenName": "isseimori",
+        "Score": 3606748700,
+        "SubmissionId": 32958110,
+        "Performance": 677
+    },
+    {
+        "key": "GlinTFraulein",
+        "Rank": 646,
+        "RankIndex": 646,
+        "UserScreenName": "GlinTFraulein",
+        "Score": 3519865100,
+        "SubmissionId": 32961503,
+        "Performance": 674
+    },
+    {
+        "key": "goto_isyuku_dev",
+        "Rank": 647,
+        "RankIndex": 647,
+        "UserScreenName": "goto_isyuku_dev",
+        "Score": 3508738000,
+        "SubmissionId": 32956472,
+        "Performance": 671
+    },
+    {
+        "key": "takey",
+        "Rank": 648,
+        "RankIndex": 648,
+        "UserScreenName": "takey",
+        "Score": 3449350600,
+        "SubmissionId": 32962970,
+        "Performance": 667
+    },
+    {
+        "key": "ryuusagi",
+        "Rank": 649,
+        "RankIndex": 649,
+        "UserScreenName": "ryuusagi",
+        "Score": 3278080000,
+        "SubmissionId": 32957616,
+        "Performance": 664
+    },
+    {
+        "key": "miho4",
+        "Rank": 650,
+        "RankIndex": 650,
+        "UserScreenName": "miho4",
+        "Score": 3118580900,
+        "SubmissionId": 32953494,
+        "Performance": 661
+    },
+    {
+        "key": "tayu0110",
+        "Rank": 651,
+        "RankIndex": 651,
+        "UserScreenName": "tayu0110",
+        "Score": 2944578800,
+        "SubmissionId": 32962192,
+        "Performance": 658
+    },
+    {
+        "key": "d_ki",
+        "Rank": 652,
+        "RankIndex": 652,
+        "UserScreenName": "d_ki",
+        "Score": 2937995900,
+        "SubmissionId": 32960833,
+        "Performance": 655
+    },
+    {
+        "key": "ivanz",
+        "Rank": 653,
+        "RankIndex": 653,
+        "UserScreenName": "ivanz",
+        "Score": 2847230600,
+        "SubmissionId": 32960557,
+        "Performance": 652
+    },
+    {
+        "key": "kai1000_don",
+        "Rank": 654,
+        "RankIndex": 654,
+        "UserScreenName": "kai1000_don",
+        "Score": 2752840900,
+        "SubmissionId": 32960057,
+        "Performance": 649
+    },
+    {
+        "key": "shirobudou",
+        "Rank": 655,
+        "RankIndex": 655,
+        "UserScreenName": "shirobudou",
+        "Score": 2713841500,
+        "SubmissionId": 32960374,
+        "Performance": 646
+    },
+    {
+        "key": "IOIAKer",
+        "Rank": 656,
+        "RankIndex": 656,
+        "UserScreenName": "IOIAKer",
+        "Score": 2708783700,
+        "SubmissionId": 32952674,
+        "Performance": 642
+    },
+    {
+        "key": "ymmtr",
+        "Rank": 657,
+        "RankIndex": 657,
+        "UserScreenName": "ymmtr",
+        "Score": 2708783700,
+        "SubmissionId": 32952692,
+        "Performance": 639
+    },
+    {
+        "key": "taxi1729",
+        "Rank": 658,
+        "RankIndex": 658,
+        "UserScreenName": "taxi1729",
+        "Score": 2708783700,
+        "SubmissionId": 32952901,
+        "Performance": 636
+    },
+    {
+        "key": "kaichou243",
+        "Rank": 659,
+        "RankIndex": 659,
+        "UserScreenName": "kaichou243",
+        "Score": 2708783700,
+        "SubmissionId": 32953198,
+        "Performance": 633
+    },
+    {
+        "key": "agaaga",
+        "Rank": 660,
+        "RankIndex": 660,
+        "UserScreenName": "agaaga",
+        "Score": 2708783700,
+        "SubmissionId": 32953446,
+        "Performance": 629
+    },
+    {
+        "key": "King314",
+        "Rank": 661,
+        "RankIndex": 661,
+        "UserScreenName": "King314",
+        "Score": 2708783700,
+        "SubmissionId": 32953621,
+        "Performance": 626
+    },
+    {
+        "key": "forest3",
+        "Rank": 662,
+        "RankIndex": 662,
+        "UserScreenName": "forest3",
+        "Score": 2708783700,
+        "SubmissionId": 32958827,
+        "Performance": 623
+    },
+    {
+        "key": "jbwlgvc",
+        "Rank": 663,
+        "RankIndex": 663,
+        "UserScreenName": "jbwlgvc",
+        "Score": 2708783700,
+        "SubmissionId": 32959894,
+        "Performance": 619
+    },
+    {
+        "key": "saurik",
+        "Rank": 664,
+        "RankIndex": 664,
+        "UserScreenName": "saurik",
+        "Score": 2708783700,
+        "SubmissionId": 32960205,
+        "Performance": 616
+    },
+    {
+        "key": "wakapaijazz",
+        "Rank": 665,
+        "RankIndex": 665,
+        "UserScreenName": "wakapaijazz",
+        "Score": 2708783700,
+        "SubmissionId": 32960959,
+        "Performance": 612
+    },
+    {
+        "key": "haku89l8o7v7e",
+        "Rank": 666,
+        "RankIndex": 666,
+        "UserScreenName": "haku89l8o7v7e",
+        "Score": 2498685500,
+        "SubmissionId": 32962760,
+        "Performance": 609
+    },
+    {
+        "key": "Maki_python",
+        "Rank": 667,
+        "RankIndex": 667,
+        "UserScreenName": "Maki_python",
+        "Score": 2041997700,
+        "SubmissionId": 32953656,
+        "Performance": 605
+    },
+    {
+        "key": "MDKIP",
+        "Rank": 668,
+        "RankIndex": 668,
+        "UserScreenName": "MDKIP",
+        "Score": 2041997700,
+        "SubmissionId": 32953845,
+        "Performance": 602
+    },
+    {
+        "key": "salmon0852",
+        "Rank": 669,
+        "RankIndex": 669,
+        "UserScreenName": "salmon0852",
+        "Score": 2041997700,
+        "SubmissionId": 32953958,
+        "Performance": 598
+    },
+    {
+        "key": "tm1965",
+        "Rank": 670,
+        "RankIndex": 670,
+        "UserScreenName": "tm1965",
+        "Score": 2041997700,
+        "SubmissionId": 32958782,
+        "Performance": 595
+    },
+    {
+        "key": "attachecase",
+        "Rank": 671,
+        "RankIndex": 671,
+        "UserScreenName": "attachecase",
+        "Score": 2041997700,
+        "SubmissionId": 32961913,
+        "Performance": 591
+    },
+    {
+        "key": "muse",
+        "Rank": 672,
+        "RankIndex": 672,
+        "UserScreenName": "muse",
+        "Score": 2034994600,
+        "SubmissionId": 32960796,
+        "Performance": 587
+    },
+    {
+        "key": "yuzukami1",
+        "Rank": 673,
+        "RankIndex": 673,
+        "UserScreenName": "yuzukami1",
+        "Score": 2029335100,
+        "SubmissionId": 32958333,
+        "Performance": 584
+    },
+    {
+        "key": "UDU",
+        "Rank": 674,
+        "RankIndex": 674,
+        "UserScreenName": "UDU",
+        "Score": 2025657700,
+        "SubmissionId": 32960531,
+        "Performance": 580
+    },
+    {
+        "key": "amentorimaru",
+        "Rank": 675,
+        "RankIndex": 675,
+        "UserScreenName": "amentorimaru",
+        "Score": 2004436300,
+        "SubmissionId": 32955452,
+        "Performance": 576
+    },
+    {
+        "key": "oadey89",
+        "Rank": 676,
+        "RankIndex": 676,
+        "UserScreenName": "oadey89",
+        "Score": 1994504200,
+        "SubmissionId": 32958505,
+        "Performance": 572
+    },
+    {
+        "key": "Aurora2005",
+        "Rank": 677,
+        "RankIndex": 677,
+        "UserScreenName": "Aurora2005",
+        "Score": 1978140200,
+        "SubmissionId": 32955177,
+        "Performance": 568
+    },
+    {
+        "key": "ZOZO",
+        "Rank": 678,
+        "RankIndex": 678,
+        "UserScreenName": "ZOZO",
+        "Score": 1950538800,
+        "SubmissionId": 32953477,
+        "Performance": 565
+    },
+    {
+        "key": "bayashi_cl",
+        "Rank": 679,
+        "RankIndex": 679,
+        "UserScreenName": "bayashi_cl",
+        "Score": 1950092200,
+        "SubmissionId": 32955118,
+        "Performance": 561
+    },
+    {
+        "key": "putcho",
+        "Rank": 680,
+        "RankIndex": 680,
+        "UserScreenName": "putcho",
+        "Score": 1921582700,
+        "SubmissionId": 32958096,
+        "Performance": 557
+    },
+    {
+        "key": "muratahiromu",
+        "Rank": 681,
+        "RankIndex": 681,
+        "UserScreenName": "muratahiromu",
+        "Score": 1883587200,
+        "SubmissionId": 32953895,
+        "Performance": 553
+    },
+    {
+        "key": "house_crows",
+        "Rank": 682,
+        "RankIndex": 682,
+        "UserScreenName": "house_crows",
+        "Score": 1867195300,
+        "SubmissionId": 32961189,
+        "Performance": 549
+    },
+    {
+        "key": "madoka",
+        "Rank": 683,
+        "RankIndex": 683,
+        "UserScreenName": "madoka",
+        "Score": 1839182900,
+        "SubmissionId": 32962389,
+        "Performance": 545
+    },
+    {
+        "key": "kaiwdev",
+        "Rank": 684,
+        "RankIndex": 684,
+        "UserScreenName": "kaiwdev",
+        "Score": 1838764300,
+        "SubmissionId": 32956358,
+        "Performance": 540
+    },
+    {
+        "key": "ogawakun",
+        "Rank": 685,
+        "RankIndex": 685,
+        "UserScreenName": "ogawakun",
+        "Score": 1832116700,
+        "SubmissionId": 32959086,
+        "Performance": 536
+    },
+    {
+        "key": "Orca19",
+        "Rank": 686,
+        "RankIndex": 686,
+        "UserScreenName": "Orca19",
+        "Score": 1801755600,
+        "SubmissionId": 32955021,
+        "Performance": 532
+    },
+    {
+        "key": "Hideki_M",
+        "Rank": 687,
+        "RankIndex": 687,
+        "UserScreenName": "Hideki_M",
+        "Score": 1623578500,
+        "SubmissionId": 32961458,
+        "Performance": 528
+    },
+    {
+        "key": "macle",
+        "Rank": 688,
+        "RankIndex": 688,
+        "UserScreenName": "macle",
+        "Score": 1600270500,
+        "SubmissionId": 32953324,
+        "Performance": 524
+    },
+    {
+        "key": "cl17",
+        "Rank": 689,
+        "RankIndex": 689,
+        "UserScreenName": "cl17",
+        "Score": 1577656600,
+        "SubmissionId": 32954841,
+        "Performance": 519
+    },
+    {
+        "key": "kesera",
+        "Rank": 690,
+        "RankIndex": 690,
+        "UserScreenName": "kesera",
+        "Score": 1531170700,
+        "SubmissionId": 32962872,
+        "Performance": 515
+    },
+    {
+        "key": "mymelochan",
+        "Rank": 691,
+        "RankIndex": 691,
+        "UserScreenName": "mymelochan",
+        "Score": 1516370300,
+        "SubmissionId": 32954104,
+        "Performance": 510
+    },
+    {
+        "key": "DirtyRed",
+        "Rank": 692,
+        "RankIndex": 692,
+        "UserScreenName": "DirtyRed",
+        "Score": 1437367500,
+        "SubmissionId": 32955053,
+        "Performance": 506
+    },
+    {
+        "key": "zoidzium",
+        "Rank": 693,
+        "RankIndex": 693,
+        "UserScreenName": "zoidzium",
+        "Score": 1321645800,
+        "SubmissionId": 32957092,
+        "Performance": 501
+    },
+    {
+        "key": "inaba3",
+        "Rank": 694,
+        "RankIndex": 694,
+        "UserScreenName": "inaba3",
+        "Score": 1143089000,
+        "SubmissionId": 32954539,
+        "Performance": 497
+    },
+    {
+        "key": "Take1010",
+        "Rank": 695,
+        "RankIndex": 695,
+        "UserScreenName": "Take1010",
+        "Score": 1129432600,
+        "SubmissionId": 32957556,
+        "Performance": 492
+    },
+    {
+        "key": "brthyyjp",
+        "Rank": 696,
+        "RankIndex": 696,
+        "UserScreenName": "brthyyjp",
+        "Score": 1125211100,
+        "SubmissionId": 32960496,
+        "Performance": 487
+    },
+    {
+        "key": "futton",
+        "Rank": 697,
+        "RankIndex": 697,
+        "UserScreenName": "futton",
+        "Score": 1058662400,
+        "SubmissionId": 32955702,
+        "Performance": 483
+    },
+    {
+        "key": "Almach3D",
+        "Rank": 698,
+        "RankIndex": 698,
+        "UserScreenName": "Almach3D",
+        "Score": 989090300,
+        "SubmissionId": 32953810,
+        "Performance": 478
+    },
+    {
+        "key": "TKTYI",
+        "Rank": 699,
+        "RankIndex": 699,
+        "UserScreenName": "TKTYI",
+        "Score": 972425200,
+        "SubmissionId": 32960294,
+        "Performance": 473
+    },
+    {
+        "key": "shimuler",
+        "Rank": 700,
+        "RankIndex": 700,
+        "UserScreenName": "shimuler",
+        "Score": 947945100,
+        "SubmissionId": 32955575,
+        "Performance": 468
+    },
+    {
+        "key": "nickel28",
+        "Rank": 701,
+        "RankIndex": 701,
+        "UserScreenName": "nickel28",
+        "Score": 633921400,
+        "SubmissionId": 32960779,
+        "Performance": 463
+    },
+    {
+        "key": "utprg",
+        "Rank": 702,
+        "RankIndex": 702,
+        "UserScreenName": "utprg",
+        "Score": 615630000,
+        "SubmissionId": 32953518,
+        "Performance": 458
+    },
+    {
+        "key": "sizetokage",
+        "Rank": 703,
+        "RankIndex": 703,
+        "UserScreenName": "sizetokage",
+        "Score": 312304200,
+        "SubmissionId": 32959608,
+        "Performance": 452
+    },
+    {
+        "key": "QiToY",
+        "Rank": 704,
+        "RankIndex": 704,
+        "UserScreenName": "QiToY",
+        "Score": 154760800,
+        "SubmissionId": 32957084,
+        "Performance": 447
+    },
+    {
+        "key": "iis2022115",
+        "Rank": 705,
+        "RankIndex": 705,
+        "UserScreenName": "iis2022115",
+        "Score": 127196300,
+        "SubmissionId": 32954896,
+        "Performance": 442
+    },
+    {
+        "key": "senpi_jp",
+        "Rank": 706,
+        "RankIndex": 706,
+        "UserScreenName": "senpi_jp",
+        "Score": 24692200,
+        "SubmissionId": 32961958,
+        "Performance": 436
+    },
+    {
+        "key": "momochiyo",
+        "Rank": 707,
+        "RankIndex": 707,
+        "UserScreenName": "momochiyo",
+        "Score": 19756700,
+        "SubmissionId": 32957699,
+        "Performance": 431
+    },
+    {
+        "key": "zhouzhaojun",
+        "Rank": 708,
+        "RankIndex": 708,
+        "UserScreenName": "zhouzhaojun",
+        "Score": 2910900,
+        "SubmissionId": 32957787,
+        "Performance": 425
+    },
+    {
+        "key": "kabuto64425",
+        "Rank": 709,
+        "RankIndex": 709,
+        "UserScreenName": "kabuto64425",
+        "Score": 2413800,
+        "SubmissionId": 32959013,
+        "Performance": 419
+    },
+    {
+        "key": "Tekyla4869",
+        "Rank": 710,
+        "RankIndex": 710,
+        "UserScreenName": "Tekyla4869",
+        "Score": 200000,
+        "SubmissionId": 32959895,
+        "Performance": 414
+    }
+]
