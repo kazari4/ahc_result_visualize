@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import { convertData } from "./convertData";
-import { createScale } from "./createScale";
+import { convertData } from "../utils/convertData";
+import { createScale } from "../utils/createScale";
 import ContestSelector from "./ContestSelector/ContestSelector";
 import UserNameInput from "./UserNameInput/UserNameInput";
 import LineChart from "./LineChart/LineChart";
