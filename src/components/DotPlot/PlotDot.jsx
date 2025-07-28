@@ -1,4 +1,6 @@
-function PlotDot({ data, createScale, highlightUser }) {
+import { createScale } from "../../utils/createScale";
+
+function PlotDot({ data, highlightUser }) {
   const width = 900;
   const height = 400;
 

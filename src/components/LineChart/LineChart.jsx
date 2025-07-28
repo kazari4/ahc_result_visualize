@@ -1,9 +1,10 @@
+import { createScale } from "../../utils/createScale";
 import PlotLine from "./PlotLine";
 import PlotXAxis from "./PlotXAxis";
 import PlotYAxis from "./PlotYAxis";
 import PlotPerfColor from "./PlotPerfColor";
 
-function LineChart({ data, highlightUser, createScale }) {
+function LineChart({ data, highlightUser }) {
   const width = 900;
   const height = 400;
 
