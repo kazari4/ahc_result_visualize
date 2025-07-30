@@ -4,7 +4,7 @@ import { createScale } from "../utils/createScale";
 import ContestSelector from "./ContestSelector/ContestSelector";
 import UserNameInput from "./UserNameInput/UserNameInput";
 import LineChart from "./LineChart/LineChart";
-import PlotDot from "./DotPlot/PlotDot";
+import DotPlot from "./DotPlot/DotPlot";
 
 function Main() {
   const [resultData, setResultData] = useState(null);
@@ -37,7 +37,7 @@ function Main() {
         <ContestSelector selectedContest={contestName} onChange={setContestName} />
         <UserNameInput onChange={setHighlightUser} />
         <LineChart data={convertedData} highlightUser={highlightUser} createScale={createScale} />
-        <PlotDot data={convertedData} createScale={createScale} highlightUser={highlightUser} />
+        <DotPlot highlightUser={highlightUser} />
       </div>
     )
   }
