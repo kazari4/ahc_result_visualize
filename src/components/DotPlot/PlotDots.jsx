@@ -1,39 +1,31 @@
 import { createScale } from "../../utils/createScale";
 
-function PlotDot({ data, highlightUser }) {
-  const width = 900;
-  const height = 400;
-
+function PlotDots({ data, highlightUser, x, height }) {
   const highlight = data.find(d => d.UserScreenName === highlightUser)
 
-  const yRangeMax = height - 10;
+  const yRangeMax = height - 20;
 
-  const yRange = [yRangeMax, 10]
+  const yRange = [yRangeMax, 0]
 
   const yScale = createScale(data, "Score", yRange)
 
   const dots = data.map(({ Score, UserScreenName }) => (
-    <circle key={UserScreenName} cx="100" cy={yScale(Score)} r="3" fill="black" style={{ opacity: 0.05 }} />
+    <circle key={UserScreenName} cx={x} cy={yScale(Score)} r="3" fill="black" style={{ opacity: 0.05 }} />
   ))
 
   if (highlight != null) {
     dots.push(
       <circle
         key="circle-highlight"
-        cx="100"
+        cx={x}
         cy={yScale(highlight.Score)}
         r={3}
         fill="red"
       />)
   }
 
-  return (
-    <svg width={width} height={height}>
-      {dots}
-    </svg>
-  )
-
+  return dots;
 
 }
 
-export default PlotDot;
+export default PlotDots;
