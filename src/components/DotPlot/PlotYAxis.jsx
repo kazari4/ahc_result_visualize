@@ -27,7 +27,7 @@ function PlotYAxis({ height, width }) {
       </text>
 
       {/* 点線の補助線（25%, 50%, 75%のみ） */}
-      {[25, 50, 75].map((t) => (
+      {[0, 25, 50, 75, 100].map((t) => (
         <line
           key={`grid-${t}`}
           x1={0}
@@ -36,6 +36,7 @@ function PlotYAxis({ height, width }) {
           y2={yScale(t)}
           stroke="gray"
           strokeDasharray="4"
+          style={{ opacity: 0.5 }}
         />
       ))}
     </>
