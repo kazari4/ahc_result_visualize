@@ -8,14 +8,23 @@ function Main() {
   const [selectedContest, setSelectedContest] = useState("ahc050");
 
   const [highlightUser, setHighlightUser] = useState(null);
-  return (
-    <div className="section">
-      <h1>AtCoder IDを入力してください</h1>
-      <UserNameInput onChange={setHighlightUser} />
-      <h1>コンテストごとのスコア分布</h1>
-      <DotPlot highlightUser={highlightUser} />
-    </div>
-  )
+  if (highlightUser === null) {
+    return (
+      <div className="section">
+        <h1>AtCoder IDを入力してください</h1>
+        <UserNameInput onChange={setHighlightUser} />
+      </div>
+    )
+  } else {
+    return (
+      <div className="section">
+        <h1>AtCoder IDを入力してください</h1>
+        <UserNameInput onChange={setHighlightUser} />
+        <h1>コンテストごとのスコア分布</h1>
+        <DotPlot highlightUser={highlightUser} onSelectContest={setSelectedContest} />
+      </div>
+    )
+  }
 }
 
 
