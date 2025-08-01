@@ -5,6 +5,14 @@ function PlotXAxis({ scale, xRangeMax, yRangeMax }) {
   return (
     <g>
       <line x1="0" y1={yRangeMax} x2={xRangeMax} y2={yRangeMax} stroke="black" />
+      <text
+        x={xRangeMax / 2}
+        y={yRangeMax + 40}
+        fontSize={14}
+        textAnchor="middle"
+      >
+        順位
+      </text>
       {ticks.map((tick, i) => {
         const tickX = scale(tick)
         return (
