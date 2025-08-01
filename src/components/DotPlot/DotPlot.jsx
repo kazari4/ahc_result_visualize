@@ -7,16 +7,11 @@ import { createScale } from "../../utils/createScale";
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 
-function DotPlot({ highlightUser }) {
+function DotPlot({ allData, highlightUser, onSelectContest }) {
   const containerRef = useRef(null);
   const [dimensions, setDimensions] = useState({ width: 1000, height: 400 });
 
-  const [allData, setAllData] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
-
-  const contests = Array.from({ length: 50 }, (_, i) =>
-    `ahc${String(i + 1).padStart(3, "0")}`
-  );
 
   useEffect(() => {
     const observer = new ResizeObserver(([entry]) => {
@@ -31,19 +26,6 @@ function DotPlot({ highlightUser }) {
     return () => {
       observer.disconnect();
     };
-  }, []);
-
-  // データ取得
-  useEffect(() => {
-    Promise.all(
-      contests.map(name =>
-        fetch(`/data/${name}.json`)
-          .then(res => res.json())
-          .then(data => ({ name, data }))
-      )
-    ).then(results => {
-      setAllData(results);
-    });
   }, []);
 
   // フィルタリング
@@ -107,6 +89,7 @@ function DotPlot({ highlightUser }) {
         x={x}
         yScale={yScale}
         height={dimensions.height - 20}
+        onClick={() => onSelectContest?.(contestData.name)}
       />
     );
   });

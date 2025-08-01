@@ -1,4 +1,4 @@
-function PlotDots({ data, contestName, x, yScale, height }) {
+function PlotDots({ data, contestName, x, yScale, height, onClick }) {
   const dots = data.map(({ Score, UserScreenName }) => (
     <circle key={UserScreenName} cx={x} cy={yScale(Score)} r="3" fill="black" style={{ opacity: 0.05 }} />
   ))
@@ -15,7 +15,9 @@ function PlotDots({ data, contestName, x, yScale, height }) {
     </text>
   )
 
-  return dots;
+  return (
+    <g onClick={onClick} style={{ cursor: "pointer" }}>{dots}</g>
+  )
 
 }
 
