@@ -15,7 +15,7 @@ function UserNameInput({ onChange }) {
 
   return (
     <div className="field has-addons">
-      <div className="control is-expanded">
+      <div>
         <input
           className="input"
           type="text"
