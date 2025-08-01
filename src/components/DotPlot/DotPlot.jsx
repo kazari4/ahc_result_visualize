@@ -23,7 +23,6 @@ function DotPlot({ highlightUser }) {
       )
     ).then(results => {
       setAllData(results);
-      console.log(results)
     });
   }, []);
 
