@@ -1,4 +1,5 @@
 import PlotDots from "./PlotDots";
+import PlotYAxis from "./PlotYAxis";
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 
@@ -49,6 +50,7 @@ function DotPlot({ highlightUser }) {
     setFilteredData(filtered);
   }, [highlightUser, allData]);
 
+  // DotPlotのx軸を決めるscale
   const xRangeMax = dimensions.width - 100;
   const xScale = d3
     .scaleLinear()
@@ -66,9 +68,14 @@ function DotPlot({ highlightUser }) {
   ));
 
   return (
-    <div ref={containerRef} style={{ width: "100%", height: "400px" }}>
+    <div ref={containerRef} style={{ width: "100%", height: "450px" }}>
       <svg width={dimensions.width} height={dimensions.height}>
-        <g transform="translate(50,10)">{dotPlotArr}</g>
+        <g transform="translate(100,10)">
+          <PlotYAxis height={dimensions.height} width={dimensions.width} />
+        </g>
+        <g transform="translate(150,10)">
+          {dotPlotArr}
+        </g>
       </svg>
     </div>
   );
