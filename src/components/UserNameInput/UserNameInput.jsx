@@ -19,7 +19,7 @@ function UserNameInput({ onChange }) {
         <input
           className="input"
           type="text"
-          placeholder="Enter UserName"
+          placeholder="例: kazari4"
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
           onKeyDown={handleKeyDown}
