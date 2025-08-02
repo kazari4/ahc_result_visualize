@@ -5,9 +5,7 @@ import DotPlot from "./DotPlot/DotPlot";
 
 function Main() {
   const [selectedContest, setSelectedContest] = useState(null);
-
   const [highlightUser, setHighlightUser] = useState(null);
-
   const [allData, setAllData] = useState([]);
 
   const contests = Array.from({ length: 50 }, (_, i) =>
@@ -27,28 +25,34 @@ function Main() {
     });
   }, []);
 
-  if (highlightUser === null) {
-    return (
+  return (
+    <div>
       <div className="section">
         <h1>AtCoder IDを入力してください</h1>
         <UserNameInput onChange={setHighlightUser} />
       </div>
-    )
-  } else {
-    return (
-      <div>
-        <div className="section">
-          <h1>AtCoder IDを入力してください</h1>
-          <UserNameInput onChange={setHighlightUser} />
-          <h1>コンテストごとのスコア分布</h1>
-          <DotPlot allData={allData} highlightUser={highlightUser} onSelectContest={setSelectedContest} />
-        </div>
-        <div className="section">
-          <LineChart allData={allData} selectedContest={selectedContest} highlightUser={highlightUser} />
-        </div>
-      </div>
-    )
-  }
+
+      {highlightUser && (
+        <>
+          <div className="section">
+            <h1>コンテストごとのスコア分布</h1>
+            <DotPlot
+              allData={allData}
+              highlightUser={highlightUser}
+              onSelectContest={setSelectedContest}
+            />
+          </div>
+          <div className="section">
+            <LineChart
+              allData={allData}
+              selectedContest={selectedContest}
+              highlightUser={highlightUser}
+            />
+          </div>
+        </>
+      )}
+    </div>
+  );
 }
 
 
