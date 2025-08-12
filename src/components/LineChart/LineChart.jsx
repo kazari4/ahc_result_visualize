@@ -20,7 +20,7 @@ function LineChart({ allData, selectedContest, highlightUser, width, height }) {
   const yRange = [yRangeMax, 0]
 
   const xScale = createScale(data, "Rank", xRange).nice()
-  const yScale = createScale(data, "Score", yRange)
+  const yScale = createScale(data, "Score", yRange).nice()
 
   return (
     <div>
