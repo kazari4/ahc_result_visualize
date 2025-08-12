@@ -1,3 +1,5 @@
+import { createScale } from "../../utils/createScale";
+
 function getColor(perf) {
   if (perf >= 2800) {
     return "rgb(255,178,178)"
@@ -19,17 +21,22 @@ function getColor(perf) {
 }
 
 
-export function getColorChangePosition(contestData, yScale) {
+export function getColorChangePosition(contestData) {
+  // dotPlotのy座標の範囲
+  const yRangeMax = 430 - 20;
+  const yRange = [yRangeMax, 0];
+  const yScale = createScale(contestData, "Score", yRange);
   const colorChange = []
   for (let i = 0; i < contestData.length - 1; i++) {
     const curPerfColor = getColor(contestData[i].Performance)
     const nextPerfColor = getColor(contestData[i + 1].Performance)
     if (curPerfColor != nextPerfColor) {
-      const yPosition = (yScale(data[i].Score) + yScale(data[i + 1].Score)) / 2
+      const yPosition = (yScale(contestData[i].Score) + yScale(contestData[i + 1].Score)) / 2
       colorChange.push({
-        curPerfColor: yPosition
+        [curPerfColor]: yPosition
       })
     }
   }
+  return colorChange
 }
 

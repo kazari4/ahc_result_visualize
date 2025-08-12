@@ -3,6 +3,7 @@ import PlotYAxis from "./PlotYAxis";
 import PlotHighlightUser from "./PlotHighlightUser";
 import PlotLegend from "./PlotLegend";
 import { createScale } from "../../utils/createScale";
+import { getColorChangePosition } from "./getColorChangePosition";
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 
@@ -34,6 +35,12 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
     );
     setFilteredData(filtered);
   }, [highlightUser, allData]);
+
+  const colorChangePosition = allData.map((contestData) => ({
+    [contestData.name]: getColorChangePosition(contestData.data)
+  }))
+
+  console.log(colorChangePosition)
 
   // DotPlotのx軸を決めるscale
   const xRangeMax = dimensions.width - 200;
