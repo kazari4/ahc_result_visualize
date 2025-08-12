@@ -21,7 +21,7 @@ function PlotHighlightUser({ filteredData, highlightUser, xScale, yScale }) {
   })
 
   return (
-    <DotConnector dotPos={highlightUserPositions} color="rgb(230,0,200)" />
+    <DotConnector dotPos={highlightUserPositions} color="rgb(255,0,0)" />
   );
 }
 

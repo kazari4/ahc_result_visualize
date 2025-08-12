@@ -9,7 +9,7 @@ export function convertPerformanceColor(color) {
     case "rgb(178,178,255)":
       return "rgb(0,0,255)"
     case "rgb(178,236,236)":
-      return "rgb(0,220,220)"
+      return "rgb(0,215,215)"
     case "rgb(178,216,178)":
       return "rgb(0,192,0)"
   }
