@@ -5,7 +5,7 @@ function ColorSelector({ onChange }) {
       <div className="control">
         <div className="select">
           <select defaultValue="表示しない" onChange={(e) => onChange(e.target.value)}>
-            <option value="">表示しない</option>
+            <option value="">なし</option>
             <option value="rgb(255,178,178)">赤（2800）</option>
             <option value="rgb(255,216,178)">橙（2400）</option>
             <option value="rgb(236,236,178)">黄（2000）</option>
