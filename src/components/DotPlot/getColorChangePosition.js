@@ -26,15 +26,14 @@ export function getColorChangePosition(contestData) {
   const yRangeMax = 430 - 20;
   const yRange = [yRangeMax, 0];
   const yScale = createScale(contestData, "Score", yRange);
-  const colorChange = []
+
+  const colorChange = {}
   for (let i = 0; i < contestData.length - 1; i++) {
     const curPerfColor = getColor(contestData[i].Performance)
     const nextPerfColor = getColor(contestData[i + 1].Performance)
     if (curPerfColor != nextPerfColor) {
       const yPosition = (yScale(contestData[i].Score) + yScale(contestData[i + 1].Score)) / 2
-      colorChange.push({
-        [curPerfColor]: yPosition
-      })
+      colorChange[curPerfColor] = yPosition
     }
   }
   return colorChange

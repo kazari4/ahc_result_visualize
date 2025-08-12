@@ -2,6 +2,7 @@ import PlotDots from "./PlotDots";
 import PlotYAxis from "./PlotYAxis";
 import PlotHighlightUser from "./PlotHighlightUser";
 import PlotLegend from "./PlotLegend";
+import PlotTargetColorLine from "./PlotTargetColorLine";
 import { createScale } from "../../utils/createScale";
 import { getColorChangePosition } from "./getColorChangePosition";
 import { useEffect, useRef, useState } from "react";
@@ -12,6 +13,8 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
   const [dimensions, setDimensions] = useState({ width: 1000, height: 400 });
 
   const [filteredData, setFilteredData] = useState([]);
+
+  const [targetColor, setTargetColor] = useState("rgb(178,178,255)")
 
   useEffect(() => {
     const observer = new ResizeObserver(([entry]) => {
@@ -36,18 +39,14 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
     setFilteredData(filtered);
   }, [highlightUser, allData]);
 
-  const colorChangePosition = allData.map((contestData) => ({
-    [contestData.name]: getColorChangePosition(contestData.data)
-  }))
-
-  console.log(colorChangePosition)
+  const colorChangePosition = {}
+  allData.forEach((contestData) => {
+    colorChangePosition[contestData.name] = getColorChangePosition(contestData.data)
+  })
 
   // DotPlotのx軸を決めるscale
   const xRangeMax = dimensions.width - 200;
-  const xScale = d3
-    .scaleLinear()
-    .domain([0, filteredData.length])
-    .range([0, xRangeMax]);
+  const xScale = d3.scaleLinear().domain([0, filteredData.length]).range([0, xRangeMax]);
 
   return (
     <div ref={containerRef} style={{ width: "100%", height: "450px" }}>
@@ -57,6 +56,7 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
         </g>
         <g transform="translate(150,10)">
           <PlotDots allData={filteredData} xScale={xScale} />
+          <PlotTargetColorLine filteredData={filteredData} colorChangePosition={colorChangePosition} color={targetColor} xScale={xScale} />
           <PlotHighlightUser allData={filteredData} highlightUser={highlightUser} xScale={xScale} />
         </g>
         <g transform={`translate(${xRangeMax + 60}, 100)`}>
