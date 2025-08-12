@@ -13,8 +13,6 @@ function PlotTargetColorLine({ filteredData, colorChangePosition, color, xScale 
     })
   })
 
-  console.log(convertPerformanceColor(color))
-
   return (
     <DotConnector dotPos={dotPos} color={convertPerformanceColor(color)} />
   );
