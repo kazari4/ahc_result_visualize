@@ -1,8 +1,8 @@
 import { createScale } from "../../utils/createScale";
 
-function PlotDots({ allData, xScale, onClick }) {
+function PlotDots({ allData, xScale, height, onClick }) {
   // dotPlotのy座標の範囲
-  const yRangeMax = 430 - 20;
+  const yRangeMax = height - 20;
   const yRange = [yRangeMax, 0];
 
   const dotPlotArr = allData.map((contestData, i) => {

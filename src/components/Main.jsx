@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import UserNameInput from "./UserNameInput/UserNameInput";
 import LineChart from "./LineChart/LineChart";
 import DotPlot from "./DotPlot/DotPlot";
@@ -7,6 +7,9 @@ function Main() {
   const [selectedContest, setSelectedContest] = useState(null);
   const [highlightUser, setHighlightUser] = useState(null);
   const [allData, setAllData] = useState([]);
+
+  const [width, setWidth] = useState(1000); // ← 共通width
+  const containerRef = useRef(null);
 
   const contests = Array.from({ length: 50 }, (_, i) =>
     `ahc${String(i + 1).padStart(3, "0")}`
@@ -25,6 +28,21 @@ function Main() {
     });
   }, []);
 
+  // width計測（共通）
+  useEffect(() => {
+    const observer = new ResizeObserver(([entry]) => {
+      setWidth(entry.contentRect.width);
+    });
+    if (containerRef.current) {
+      observer.observe(containerRef.current);
+    }
+    return () => observer.disconnect();
+  }, [highlightUser]);
+
+  const height = 450
+
+  console.log(width)
+
   return (
     <div>
       <div className="section">
@@ -33,13 +51,14 @@ function Main() {
       </div>
 
       {highlightUser && (
-        <>
+        <div ref={containerRef} style={{ width: '100%' }}>
           <div className="container">
-            <h1>コンテストごとのスコア分布</h1>
             <DotPlot
               allData={allData}
               highlightUser={highlightUser}
               onSelectContest={setSelectedContest}
+              width={width}
+              height={height}
             />
           </div>
           <div className="container">
@@ -47,9 +66,11 @@ function Main() {
               allData={allData}
               selectedContest={selectedContest}
               highlightUser={highlightUser}
+              width={width}
+              height={height}
             />
           </div>
-        </>
+        </div>
       )}
     </div>
   );

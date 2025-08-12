@@ -4,7 +4,7 @@ import PlotXAxis from "./PlotXAxis";
 import PlotYAxis from "./PlotYAxis";
 import PlotPerfColor from "./PlotPerfColor";
 
-function LineChart({ allData, selectedContest, highlightUser }) {
+function LineChart({ allData, selectedContest, highlightUser, width, height }) {
   if (selectedContest === null) {
     return (
       <h1>コンテストが選択されていません</h1>
@@ -13,10 +13,7 @@ function LineChart({ allData, selectedContest, highlightUser }) {
 
   const data = allData.find(d => d.name === selectedContest).data
 
-  const width = 1500;
-  const height = 600;
-
-  const xRangeMax = width - 200;
+  const xRangeMax = width - 400;
   const yRangeMax = height - 100;
 
   const xRange = [10, xRangeMax]

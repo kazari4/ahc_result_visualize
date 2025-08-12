@@ -9,28 +9,11 @@ import { getColorChangePosition } from "./getColorChangePosition";
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 
-function DotPlot({ allData, highlightUser, onSelectContest }) {
-  const containerRef = useRef(null);
-  const [dimensions, setDimensions] = useState({ width: 1000, height: 400 });
+function DotPlot({ allData, highlightUser, onSelectContest, width, height }) {
 
   const [filteredData, setFilteredData] = useState([]);
 
   const [targetColor, setTargetColor] = useState(null)
-
-  useEffect(() => {
-    const observer = new ResizeObserver(([entry]) => {
-      const { width, height } = entry.contentRect;
-      setDimensions({ width, height });
-    });
-
-    if (containerRef.current) {
-      observer.observe(containerRef.current);
-    }
-
-    return () => {
-      observer.disconnect();
-    };
-  }, []);
 
   // フィルタリング
   useEffect(() => {
@@ -46,26 +29,29 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
   })
 
   // DotPlotのx軸を決めるscale
-  const xRangeMax = dimensions.width - 200;
-  const xScale = d3.scaleLinear().domain([0, filteredData.length]).range([0, xRangeMax]);
+  const xRangeMax = width - 300;
+  const xScale = d3.scaleLinear().domain([0, filteredData.length]).range([0, xRangeMax - 80]);
 
   return (
-    <div ref={containerRef} style={{ width: "100%", height: "450px" }}>
+    <div style={{ width: "100%" }}>
       <ColorSelector onChange={setTargetColor} />
-      <svg width={dimensions.width} height={dimensions.height}>
-        <g transform="translate(100,10)">
-          <PlotYAxis height={dimensions.height - 20} width={dimensions.width - 280} />
-        </g>
-        <g transform="translate(150,10)">
-          <PlotDots allData={filteredData} xScale={xScale} onClick={onSelectContest} />
-          {targetColor && <PlotTargetColorLine filteredData={filteredData} colorChangePosition={colorChangePosition} color={targetColor} xScale={xScale} />}
-          <PlotHighlightUser filteredData={filteredData} highlightUser={highlightUser} xScale={xScale} />
-        </g>
-        <g transform={`translate(${xRangeMax + 60}, 100)`}>
-          <PlotLegend userName={highlightUser} />
-        </g>
+      <h1>コンテストごとのスコア分布</h1>
+      <div style={{ height: "450px" }}>
+        <svg width={width} height={height}>
+          <g transform="translate(100,10)">
+            <PlotYAxis height={height - 20} width={xRangeMax - 100} />
+          </g>
+          <g transform="translate(130,10)">
+            <PlotDots allData={filteredData} xScale={xScale} height={height - 20} onClick={onSelectContest} />
+            {targetColor && <PlotTargetColorLine filteredData={filteredData} colorChangePosition={colorChangePosition} color={targetColor} xScale={xScale} />}
+            <PlotHighlightUser filteredData={filteredData} highlightUser={highlightUser} xScale={xScale} />
+          </g>
+          <g transform={`translate(${xRangeMax + 60}, 100)`}>
+            <PlotLegend userName={highlightUser} />
+          </g>
 
-      </svg>
+        </svg>
+      </div>
     </div>
   );
 }
