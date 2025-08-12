@@ -1,7 +1,7 @@
 function ColorSelector({ onChange }) {
   return (
     <div className="field">
-      <label className="label">パフォーマンスボーダーライン</label>
+      <label className="label">パフォーマンスのボーダーライン</label>
       <div className="control">
         <div className="select">
           <select defaultValue="表示しない" onChange={(e) => onChange(e.target.value)}>
