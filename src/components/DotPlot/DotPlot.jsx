@@ -14,7 +14,7 @@ function DotPlot({ allData, highlightUser, onSelectContest, width, height, selec
 
   const [filteredData, setFilteredData] = useState([]);
 
-  const [targetColor, setTargetColor] = useState(null)
+  const [targetColor, setTargetColor] = useState("")
 
   // フィルタリング
   useEffect(() => {
@@ -49,7 +49,7 @@ function DotPlot({ allData, highlightUser, onSelectContest, width, height, selec
             <PlotClickArea data={filteredData} xScale={xScale} height={height - 20} onClick={onSelectContest} selectedContest={selectedContest} />
           </g>
           <g transform={`translate(${xRangeMax + 60}, 100)`}>
-            <PlotLegend userName={highlightUser} />
+            <PlotLegend userName={highlightUser} color={targetColor} />
           </g>
 
         </svg>
