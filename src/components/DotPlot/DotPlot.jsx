@@ -55,7 +55,7 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
           <PlotYAxis height={dimensions.height - 20} width={dimensions.width - 280} />
         </g>
         <g transform="translate(150,10)">
-          <PlotDots allData={filteredData} xScale={xScale} />
+          <PlotDots allData={filteredData} xScale={xScale} onClick={onSelectContest} />
           <PlotTargetColorLine filteredData={filteredData} colorChangePosition={colorChangePosition} color={targetColor} xScale={xScale} />
           <PlotHighlightUser allData={filteredData} highlightUser={highlightUser} xScale={xScale} />
         </g>

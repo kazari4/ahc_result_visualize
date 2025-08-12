@@ -28,7 +28,7 @@ function PlotDots({ allData, xScale, onClick }) {
     )
 
     return (
-      <g key={contestName} onClick={onClick} style={{ cursor: "pointer" }}>{dots}</g>
+      <g key={contestName} onClick={() => onClick(contestName)} style={{ cursor: "pointer" }}>{dots}</g>
     )
   })
 
