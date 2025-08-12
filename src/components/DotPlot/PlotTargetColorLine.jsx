@@ -14,7 +14,7 @@ function PlotTargetColorLine({ filteredData, colorChangePosition, color, xScale 
   })
 
   return (
-    <DotConnector dotPos={dotPos} color={convertPerformanceColor(color)} />
+    <DotConnector dotPos={dotPos} color={convertPerformanceColor(color)} dashed={true} />
   );
 }
 
