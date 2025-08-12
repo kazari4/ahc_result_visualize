@@ -27,6 +27,7 @@ function PlotClickArea({ data, xScale, height, onClick, selectedContest }) {
           cursor: "pointer",
           stroke: isHovered || isSelected ? "#007ACC" : "none", // 青枠
           strokeWidth: isHovered || isSelected ? 2 : 0,
+          strokeOpacity: isSelected ? 1 : 0.5
         }}
       />
     );
