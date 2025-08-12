@@ -15,7 +15,7 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
 
   const [filteredData, setFilteredData] = useState([]);
 
-  const [targetColor, setTargetColor] = useState("rgb(178,178,255)")
+  const [targetColor, setTargetColor] = useState(null)
 
   useEffect(() => {
     const observer = new ResizeObserver(([entry]) => {

@@ -1,6 +1,9 @@
 import DotConnector from "./DotConnector";
 
 function PlotTargetColorLine({ filteredData, colorChangePosition, color, xScale }) {
+  if (color === null) {
+    return;
+  }
   const dotPos = filteredData.map((contestData, i) => {
     const x = xScale(i)
     const y = colorChangePosition[contestData.name][color]
