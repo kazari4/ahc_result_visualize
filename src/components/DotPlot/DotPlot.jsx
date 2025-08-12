@@ -1,7 +1,6 @@
 import PlotDots from "./PlotDots";
 import PlotYAxis from "./PlotYAxis";
 import PlotHighlightUser from "./PlotHighlightUser";
-import PlotQuartile from "./PlotQuartile";
 import PlotLegend from "./PlotLegend";
 import { createScale } from "../../utils/createScale";
 import { useEffect, useRef, useState } from "react";
@@ -66,23 +65,6 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
       highlightUserPositions.push({ x, y });
     }
 
-    // 四分位数のy座標（Q1, Q2, Q3）
-    const scores = contestData.data.map((d) => d.Score).sort((a, b) => a - b);
-    const q = (p) => {
-      const pos = (scores.length - 1) * p;
-      const base = Math.floor(pos);
-      const rest = pos - base;
-      if (scores[base + 1] !== undefined) {
-        return scores[base] + rest * (scores[base + 1] - scores[base]);
-      } else {
-        return scores[base];
-      }
-    };
-    const q1 = yScale(q(0.25));
-    const q2 = yScale(q(0.5));
-    const q3 = yScale(q(0.75));
-    quartilePositions.push({ x, q1, q2, q3 });
-
     return (
       <PlotDots
         key={contestData.name}
@@ -104,7 +86,6 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
         </g>
         <g transform="translate(150,10)">
           {dotPlotArr}
-          <PlotQuartile quartilePos={quartilePositions} />
           <PlotHighlightUser userPos={highlightUserPositions} />
         </g>
         <g transform={`translate(${xRangeMax + 60}, 100)`}>
