@@ -22,9 +22,22 @@ function LineChart({ allData, selectedContest, highlightUser, width, height }) {
   const xScale = createScale(data, "Rank", xRange).nice()
   const yScale = createScale(data, "Score", yRange).nice()
 
+  const contestUrl = `https://atcoder.jp/contests/${selectedContest}`;
+
   return (
     <div>
-      <h1>選択しているコンテスト：{selectedContest}</h1>
+      <h1 style={{ display: "flex", alignItems: "center", gap: "0.5em" }}>
+        選択しているコンテスト：{selectedContest}
+        <a
+          href={contestUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="コンテストページを開く"
+          style={{ color: "#3273dc" }}
+        >
+          <i className="fas fa-external-link-alt"></i>
+        </a>
+      </h1>
       <svg width={width} height={height}>
         <g transform="translate(150,20)">
           <PlotPerfColor data={data} yScale={yScale} xRangeMax={xRangeMax} yRangeMax={yRangeMax} />
