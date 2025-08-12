@@ -5,9 +5,8 @@ import PlotLegend from "./PlotLegend";
 import PlotTargetColorLine from "./PlotTargetColorLine";
 import ColorSelector from "./ColorSelector";
 import PlotClickArea from "./PlotClickArea";
-import { createScale } from "../../utils/createScale";
 import { getColorChangePosition } from "./getColorChangePosition";
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useState } from "react";
 import * as d3 from "d3";
 
 function DotPlot({ allData, highlightUser, onSelectContest, width, height, selectedContest }) {
