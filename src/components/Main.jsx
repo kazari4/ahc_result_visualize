@@ -34,7 +34,7 @@ function Main() {
 
       {highlightUser && (
         <>
-          <div className="section">
+          <div className="container">
             <h1>コンテストごとのスコア分布</h1>
             <DotPlot
               allData={allData}
@@ -42,7 +42,7 @@ function Main() {
               onSelectContest={setSelectedContest}
             />
           </div>
-          <div className="section">
+          <div className="container">
             <LineChart
               allData={allData}
               selectedContest={selectedContest}
