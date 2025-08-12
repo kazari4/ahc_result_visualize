@@ -12,7 +12,6 @@ function LineChart({ allData, selectedContest, highlightUser }) {
   }
 
   const data = allData.find(d => d.name === selectedContest).data
-  console.log(data)
 
   const width = 1500;
   const height = 600;
