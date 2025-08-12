@@ -43,13 +43,15 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
     .domain([0, filteredData.length])
     .range([0, xRangeMax]);
 
+  // dotPlotのy座標の範囲
+  const yRangeMax = 430 - 20;
+  const yRange = [yRangeMax, 0];
+
   // 座標の配列
   const highlightUserPositions = [];
   const quartilePositions = [];
 
   const dotPlotArr = filteredData.map((contestData, i) => {
-    const yRangeMax = 430 - 20;
-    const yRange = [yRangeMax, 0];
     const yScale = createScale(contestData.data, "Score", yRange);
 
     // x座標
