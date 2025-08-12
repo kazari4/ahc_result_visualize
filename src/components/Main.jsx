@@ -41,8 +41,6 @@ function Main() {
 
   const height = 450
 
-  console.log(width)
-
   return (
     <div>
       <div className="section">
@@ -59,6 +57,7 @@ function Main() {
               onSelectContest={setSelectedContest}
               width={width}
               height={height}
+              selectedContest={selectedContest}
             />
           </div>
           <div className="container">

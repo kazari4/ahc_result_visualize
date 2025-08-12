@@ -4,12 +4,13 @@ import PlotHighlightUser from "./PlotHighlightUser";
 import PlotLegend from "./PlotLegend";
 import PlotTargetColorLine from "./PlotTargetColorLine";
 import ColorSelector from "./ColorSelector";
+import PlotClickArea from "./PlotClickArea";
 import { createScale } from "../../utils/createScale";
 import { getColorChangePosition } from "./getColorChangePosition";
 import { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
 
-function DotPlot({ allData, highlightUser, onSelectContest, width, height }) {
+function DotPlot({ allData, highlightUser, onSelectContest, width, height, selectedContest }) {
 
   const [filteredData, setFilteredData] = useState([]);
 
@@ -45,6 +46,7 @@ function DotPlot({ allData, highlightUser, onSelectContest, width, height }) {
             <PlotDots allData={filteredData} xScale={xScale} height={height - 20} onClick={onSelectContest} />
             {targetColor && <PlotTargetColorLine filteredData={filteredData} colorChangePosition={colorChangePosition} color={targetColor} xScale={xScale} />}
             <PlotHighlightUser filteredData={filteredData} highlightUser={highlightUser} xScale={xScale} />
+            <PlotClickArea data={filteredData} xScale={xScale} height={height - 20} onClick={onSelectContest} selectedContest={selectedContest} />
           </g>
           <g transform={`translate(${xRangeMax + 60}, 100)`}>
             <PlotLegend userName={highlightUser} />
