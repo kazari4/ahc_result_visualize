@@ -3,6 +3,7 @@ import PlotYAxis from "./PlotYAxis";
 import PlotHighlightUser from "./PlotHighlightUser";
 import PlotLegend from "./PlotLegend";
 import PlotTargetColorLine from "./PlotTargetColorLine";
+import ColorSelector from "./ColorSelector";
 import { createScale } from "../../utils/createScale";
 import { getColorChangePosition } from "./getColorChangePosition";
 import { useEffect, useRef, useState } from "react";
@@ -50,14 +51,15 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
 
   return (
     <div ref={containerRef} style={{ width: "100%", height: "450px" }}>
+      <ColorSelector onChange={setTargetColor} />
       <svg width={dimensions.width} height={dimensions.height}>
         <g transform="translate(100,10)">
           <PlotYAxis height={dimensions.height - 20} width={dimensions.width - 280} />
         </g>
         <g transform="translate(150,10)">
           <PlotDots allData={filteredData} xScale={xScale} onClick={onSelectContest} />
-          <PlotTargetColorLine filteredData={filteredData} colorChangePosition={colorChangePosition} color={targetColor} xScale={xScale} />
-          <PlotHighlightUser allData={filteredData} highlightUser={highlightUser} xScale={xScale} />
+          {targetColor && <PlotTargetColorLine filteredData={filteredData} colorChangePosition={colorChangePosition} color={targetColor} xScale={xScale} />}
+          <PlotHighlightUser filteredData={filteredData} highlightUser={highlightUser} xScale={xScale} />
         </g>
         <g transform={`translate(${xRangeMax + 60}, 100)`}>
           <PlotLegend userName={highlightUser} />
