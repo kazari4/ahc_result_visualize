@@ -30,7 +30,7 @@ function PlotLine({ data, xScale, yScale, xRangeMax, yRangeMax, highlightUser })
     lines.push(
       <line
         key="line-highlight-horizontal"
-        x1={0}
+        x1={10}
         x2={xScale(highlight.RankIndex)}
         y1={yScale(highlight.Score)}
         y2={yScale(highlight.Score)}
