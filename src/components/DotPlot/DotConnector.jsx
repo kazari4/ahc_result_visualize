@@ -1,5 +1,4 @@
 function DotConnector({ dotPos, color }) {
-  console.log(dotPos)
   return (
     <g>
       <polyline
