@@ -42,40 +42,8 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
     .domain([0, filteredData.length])
     .range([0, xRangeMax]);
 
-  // dotPlotのy座標の範囲
-  const yRangeMax = 430 - 20;
-  const yRange = [yRangeMax, 0];
-
   // 座標の配列
   const highlightUserPositions = [];
-
-  const dotPlotArr = filteredData.map((contestData, i) => {
-    const yScale = createScale(contestData.data, "Score", yRange);
-
-    // x座標
-    const x = xScale(i);
-
-    // ハイライトユーザーのy座標
-    const userEntry = contestData.data.find(
-      (d) => d.UserScreenName === highlightUser
-    );
-    if (userEntry) {
-      const y = yScale(userEntry.Score);
-      highlightUserPositions.push({ x, y });
-    }
-
-    return (
-      <PlotDots
-        key={contestData.name}
-        contestName={contestData.name}
-        data={contestData.data}
-        x={x}
-        yScale={yScale}
-        height={dimensions.height - 20}
-        onClick={() => onSelectContest?.(contestData.name)}
-      />
-    );
-  });
 
   return (
     <div ref={containerRef} style={{ width: "100%", height: "450px" }}>
@@ -84,7 +52,7 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
           <PlotYAxis height={dimensions.height - 20} width={dimensions.width - 280} />
         </g>
         <g transform="translate(150,10)">
-          {dotPlotArr}
+          <PlotDots allData={filteredData} xScale={xScale} />
           <PlotHighlightUser userPos={highlightUserPositions} />
         </g>
         <g transform={`translate(${xRangeMax + 60}, 100)`}>
