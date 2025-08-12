@@ -42,9 +42,6 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
     .domain([0, filteredData.length])
     .range([0, xRangeMax]);
 
-  // 座標の配列
-  const highlightUserPositions = [];
-
   return (
     <div ref={containerRef} style={{ width: "100%", height: "450px" }}>
       <svg width={dimensions.width} height={dimensions.height}>
@@ -53,7 +50,7 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
         </g>
         <g transform="translate(150,10)">
           <PlotDots allData={filteredData} xScale={xScale} />
-          <PlotHighlightUser userPos={highlightUserPositions} />
+          <PlotHighlightUser allData={filteredData} highlightUser={highlightUser} xScale={xScale} />
         </g>
         <g transform={`translate(${xRangeMax + 60}, 100)`}>
           <PlotLegend userName={highlightUser} />

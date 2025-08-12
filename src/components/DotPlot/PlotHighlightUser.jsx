@@ -1,23 +1,27 @@
-function PlotHighlightUser({ userPos }) {
-  return (
-    <g>
-      <polyline
-        fill="none"
-        stroke="red"
-        strokeWidth={2}
-        points={userPos.map(p => `${p.x},${p.y}`).join(" ")}
-      />
+import DotConnector from "./DotConnector";
+import { createScale } from "../../utils/createScale";
 
-      {userPos.map((p, i) => (
-        <circle
-          key={i}
-          cx={p.x}
-          cy={p.y}
-          r={4}
-          fill="red"
-        />
-      ))}
-    </g>
+function PlotHighlightUser({ allData, highlightUser, xScale, yScale }) {
+  // dotPlotのy座標の範囲
+  const yRangeMax = 430 - 20;
+  const yRange = [yRangeMax, 0];
+
+  // 指定ユーザーの座標の配列
+  const highlightUserPositions = allData.map((contestData, i) => {
+    const x = xScale(i);
+    const yScale = createScale(contestData.data, "Score", yRange);
+    const highlightUserData = contestData.data.find(
+      (d) => d.UserScreenName === highlightUser
+    );
+
+    const y = yScale(highlightUserData.Score);
+    return ({
+      x, y
+    })
+  })
+
+  return (
+    <DotConnector dotPos={highlightUserPositions} color="red" />
   );
 }
 
