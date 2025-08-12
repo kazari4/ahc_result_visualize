@@ -1,4 +1,5 @@
 import DotConnector from "./DotConnector";
+import { convertPerformanceColor } from "./convertPerformanceColor"
 
 function PlotTargetColorLine({ filteredData, colorChangePosition, color, xScale }) {
   if (color === null) {
@@ -12,8 +13,10 @@ function PlotTargetColorLine({ filteredData, colorChangePosition, color, xScale 
     })
   })
 
+  console.log(convertPerformanceColor(color))
+
   return (
-    <DotConnector dotPos={dotPos} color={color} />
+    <DotConnector dotPos={dotPos} color={convertPerformanceColor(color)} />
   );
 }
 
