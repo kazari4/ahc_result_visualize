@@ -48,7 +48,6 @@ function DotPlot({ allData, highlightUser, onSelectContest }) {
 
   // 座標の配列
   const highlightUserPositions = [];
-  const quartilePositions = [];
 
   const dotPlotArr = filteredData.map((contestData, i) => {
     const yScale = createScale(contestData.data, "Score", yRange);
