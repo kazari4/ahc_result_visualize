@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 function UserNameInput({ onChange }) {
-  const [inputValue, setInputValue] = useState("kazari4");
+  const [inputValue, setInputValue] = useState("");
 
   const handleSubmit = () => {
     onChange(inputValue);
