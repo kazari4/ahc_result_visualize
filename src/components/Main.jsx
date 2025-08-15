@@ -8,14 +8,13 @@ function Main() {
   const [highlightUser, setHighlightUser] = useState(null);
   const [allData, setAllData] = useState([]);
 
-  const [width, setWidth] = useState(1000); // ← 共通width
+  const [width, setWidth] = useState(1000);
   const containerRef = useRef(null);
 
   const contests = Array.from({ length: 50 }, (_, i) =>
     `ahc${String(i + 1).padStart(3, "0")}`
   );
 
-  // データ取得
   useEffect(() => {
     Promise.all(
       contests.map(name =>
@@ -23,12 +22,9 @@ function Main() {
           .then(res => res.json())
           .then(data => ({ name, data }))
       )
-    ).then(results => {
-      setAllData(results);
-    });
+    ).then(results => setAllData(results));
   }, []);
 
-  // width計測（共通）
   useEffect(() => {
     const observer = new ResizeObserver(([entry]) => {
       setWidth(entry.contentRect.width);
@@ -39,41 +35,51 @@ function Main() {
     return () => observer.disconnect();
   }, [highlightUser]);
 
-  const height = 450
+  const height = 450;
 
   return (
-    <div>
-      <div className="section">
-        <h1>AtCoder IDを入力してください</h1>
+    <div className="container">
+      {/* 入力セクション */}
+      <section className="section">
+        <h1 className="title is-4 has-text-primary mb-4">
+          AtCoder ID を入力してください
+        </h1>
         <UserNameInput onChange={setHighlightUser} />
-      </div>
+      </section>
 
       {highlightUser && (
-        <div ref={containerRef} style={{ width: '100%' }}>
-          <div className="container">
-            <DotPlot
-              allData={allData}
-              highlightUser={highlightUser}
-              onSelectContest={setSelectedContest}
-              width={width}
-              height={height}
-              selectedContest={selectedContest}
-            />
-          </div>
-          <div className="container">
-            <LineChart
-              allData={allData}
-              selectedContest={selectedContest}
-              highlightUser={highlightUser}
-              width={width}
-              height={height}
-            />
-          </div>
+        <div ref={containerRef} style={{ width: "100%" }}>
+          {/* DotPlot */}
+          <section className="section">
+            <div className="box">
+              <h2 className="title is-5 mb-3">コンテストごとのスコア分布</h2>
+              <DotPlot
+                allData={allData}
+                highlightUser={highlightUser}
+                onSelectContest={setSelectedContest}
+                width={width}
+                height={height}
+                selectedContest={selectedContest}
+              />
+            </div>
+          </section>
+
+          {/* LineChart */}
+          <section className="section">
+            <div className="box">
+              <LineChart
+                allData={allData}
+                selectedContest={selectedContest}
+                highlightUser={highlightUser}
+                width={width}
+                height={height}
+              />
+            </div>
+          </section>
         </div>
       )}
     </div>
   );
 }
-
 
 export default Main;

@@ -6,36 +6,25 @@ import PlotPerfColor from "./PlotPerfColor";
 
 function LineChart({ allData, selectedContest, highlightUser, width, height }) {
   if (selectedContest === null) {
-    return (
-      <h1>コンテストが選択されていません</h1>
-    )
+    return <h1 className="title is-5 has-text-grey">コンテストが選択されていません</h1>;
   }
 
-  const data = allData.find(d => d.name === selectedContest).data
-
+  const data = allData.find(d => d.name === selectedContest).data;
   const xRangeMax = width - 400;
   const yRangeMax = height - 100;
-
-  const xRange = [10, xRangeMax]
-  const yRange = [yRangeMax, 0]
-
-  const xScale = createScale(data, "Rank", xRange).nice()
-  const yScale = createScale(data, "Score", yRange).nice()
+  const xScale = createScale(data, "Rank", [10, xRangeMax]).nice();
+  const yScale = createScale(data, "Score", [yRangeMax, 0]).nice();
 
   const contestUrl = `https://atcoder.jp/contests/${selectedContest}`;
 
   return (
     <div>
-      <h1 style={{ display: "flex", alignItems: "center", gap: "0.5em" }}>
-        選択しているコンテスト：{selectedContest}
-        <a
-          href={contestUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          title="コンテストページを開く"
-          style={{ color: "#3273dc" }}
-        >
-          <i className="fas fa-external-link-alt"></i>
+      <h1 className="title is-5 mb-3" style={{ display: "flex", alignItems: "center", gap: "0.5em" }}>
+        選択中のコンテスト: {selectedContest}
+        <a href={contestUrl} target="_blank" rel="noopener noreferrer" title="コンテストページを開く">
+          <span className="icon has-text-info">
+            <i className="fas fa-external-link-alt"></i>
+          </span>
         </a>
       </h1>
       <svg width={width} height={height}>
@@ -47,6 +36,7 @@ function LineChart({ allData, selectedContest, highlightUser, width, height }) {
         </g>
       </svg>
     </div>
-  )
+  );
 }
+
 export default LineChart;

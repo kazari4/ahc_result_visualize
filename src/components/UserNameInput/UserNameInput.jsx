@@ -4,7 +4,9 @@ function UserNameInput({ onChange }) {
   const [inputValue, setInputValue] = useState("");
 
   const handleSubmit = () => {
-    onChange(inputValue);
+    if (inputValue.trim() !== "") {
+      onChange(inputValue.trim());
+    }
   };
 
   const handleKeyDown = (e) => {
@@ -15,7 +17,7 @@ function UserNameInput({ onChange }) {
 
   return (
     <div className="field has-addons">
-      <div>
+      <div className="control is-expanded">
         <input
           className="input"
           type="text"
@@ -27,7 +29,10 @@ function UserNameInput({ onChange }) {
       </div>
       <div className="control">
         <button className="button is-primary" onClick={handleSubmit}>
-          決定
+          <span className="icon">
+            <i className="fas fa-check"></i>
+          </span>
+          <span>決定</span>
         </button>
       </div>
     </div>
