@@ -3,8 +3,6 @@ import PlotBackgroundBands from "./PlotBackgroundBands";
 import PlotYAxis from "./PlotYAxis";
 import PlotHighlightUser from "./PlotHighlightUser";
 import PlotLegend from "./PlotLegend";
-import PlotTargetColorLine from "./PlotTargetColorLine";
-import ColorSelector from "./ColorSelector";
 import PlotClickArea from "./PlotClickArea";
 import { getColorChangePosition } from "./getColorChangePosition";
 import { useEffect, useState } from "react";
@@ -13,8 +11,6 @@ import * as d3 from "d3";
 function DotPlot({ allData, highlightUser, onSelectContest, width, height, selectedContest }) {
 
   const [filteredData, setFilteredData] = useState([]);
-
-  const [targetColor, setTargetColor] = useState("")
 
   // フィルタリング
   useEffect(() => {
@@ -35,8 +31,6 @@ function DotPlot({ allData, highlightUser, onSelectContest, width, height, selec
 
   return (
     <div style={{ width: "100%" }}>
-      <ColorSelector onChange={setTargetColor} />
-      <h1>コンテストごとのスコア分布</h1>
       <div style={{ height: "450px" }}>
         <svg width={width} height={height}>
           <g transform="translate(100,10)">
@@ -50,12 +44,11 @@ function DotPlot({ allData, highlightUser, onSelectContest, width, height, selec
               chartHeight={height - 20}
             />
             <PlotDots allData={filteredData} xScale={xScale} height={height - 20} onClick={onSelectContest} />
-            {targetColor && <PlotTargetColorLine filteredData={filteredData} colorChangePosition={colorChangePosition} color={targetColor} xScale={xScale} />}
             <PlotHighlightUser filteredData={filteredData} highlightUser={highlightUser} xScale={xScale} />
             <PlotClickArea data={filteredData} xScale={xScale} height={height - 20} onClick={onSelectContest} selectedContest={selectedContest} />
           </g>
           <g transform={`translate(${xRangeMax + 60}, 100)`}>
-            <PlotLegend userName={highlightUser} color={targetColor} />
+            <PlotLegend userName={highlightUser} />
           </g>
 
         </svg>
