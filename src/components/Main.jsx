@@ -41,7 +41,7 @@ function Main() {
     <div className="container">
       {/* 入力セクション */}
       <section className="section" style={{ paddingTop: "1rem", paddingBottom: "1rem" }}>
-        <h1 className="title is-4 has-text-primary mb-4">
+        <h1 className="title is-4 has-text-black mb-4">
           AtCoder ID を入力してください
         </h1>
         <UserNameInput onChange={setHighlightUser} />
