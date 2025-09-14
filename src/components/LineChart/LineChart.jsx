@@ -12,7 +12,7 @@ function LineChart({ allData, selectedContest, highlightUser, width, height }) {
   const data = allData.find(d => d.name === selectedContest).data;
   const xRangeMax = width - 400;
   const yRangeMax = height - 100;
-  const xScale = createScale(data, "Rank", [10, xRangeMax]).nice();
+  const xScale = createScale(data, "Rank", [xRangeMax, 10]).nice();
   const yScale = createScale(data, "Score", [yRangeMax, 0]).nice();
 
   const contestUrl = `https://atcoder.jp/contests/${selectedContest}`;
