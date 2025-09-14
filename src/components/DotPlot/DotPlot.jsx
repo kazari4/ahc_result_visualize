@@ -1,4 +1,5 @@
 import PlotDots from "./PlotDots";
+import PlotBackgroundBands from "./PlotBackgroundBands";
 import PlotYAxis from "./PlotYAxis";
 import PlotHighlightUser from "./PlotHighlightUser";
 import PlotLegend from "./PlotLegend";
@@ -42,6 +43,12 @@ function DotPlot({ allData, highlightUser, onSelectContest, width, height, selec
             <PlotYAxis height={height - 20} width={xRangeMax - 100} />
           </g>
           <g transform="translate(130,10)">
+            <PlotBackgroundBands
+              filteredData={filteredData}
+              colorChangePosition={colorChangePosition}
+              xScale={xScale}
+              chartHeight={height - 20}
+            />
             <PlotDots allData={filteredData} xScale={xScale} height={height - 20} onClick={onSelectContest} />
             {targetColor && <PlotTargetColorLine filteredData={filteredData} colorChangePosition={colorChangePosition} color={targetColor} xScale={xScale} />}
             <PlotHighlightUser filteredData={filteredData} highlightUser={highlightUser} xScale={xScale} />
