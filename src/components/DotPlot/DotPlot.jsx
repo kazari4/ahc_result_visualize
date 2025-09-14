@@ -47,7 +47,7 @@ function DotPlot({ allData, highlightUser, onSelectContest, width, height, selec
             <PlotHighlightUser filteredData={filteredData} highlightUser={highlightUser} xScale={xScale} />
             <PlotClickArea data={filteredData} xScale={xScale} height={height - 20} onClick={onSelectContest} selectedContest={selectedContest} />
           </g>
-          <g transform={`translate(${xRangeMax + 60}, 100)`}>
+          <g transform={`translate(${xRangeMax + 60}, 150)`}>
             <PlotLegend userName={highlightUser} />
           </g>
 
