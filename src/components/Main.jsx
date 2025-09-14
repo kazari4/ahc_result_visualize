@@ -40,7 +40,7 @@ function Main() {
   return (
     <div className="container">
       {/* 入力セクション */}
-      <section className="section">
+      <section className="section" style={{ paddingTop: "1rem", paddingBottom: "1rem" }}>
         <h1 className="title is-4 has-text-primary mb-4">
           AtCoder ID を入力してください
         </h1>
@@ -50,7 +50,7 @@ function Main() {
       {highlightUser && (
         <div ref={containerRef} style={{ width: "100%" }}>
           {/* DotPlot */}
-          <section className="section">
+          <section className="section" style={{ paddingTop: "0.5rem", paddingBottom: "0.5rem" }}>
             <div className="box">
               <h2 className="title is-5 mb-3">コンテストごとのスコア分布</h2>
               <DotPlot
@@ -65,7 +65,7 @@ function Main() {
           </section>
 
           {/* LineChart */}
-          <section className="section">
+          <section className="section" style={{ paddingTop: "0.5rem", paddingBottom: "0.5rem" }}>
             <div className="box">
               <LineChart
                 allData={allData}
